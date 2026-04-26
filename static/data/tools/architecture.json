@@ -1,0 +1,224 @@
+[
+  {
+    "name": "AutoCAD",
+    "field": "architecture",
+    "subfield": "architectural_design",
+    "category": "architecture_software",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "Most used architectural drafting software by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "Revit",
+    "field": "architecture",
+    "subfield": "architectural_design",
+    "category": "architecture_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "BIM design software."
+  },
+  {
+    "name": "SketchUp",
+    "field": "architecture",
+    "subfield": "architectural_design",
+    "category": "architecture_software",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://sketchup.com",
+    "description": "3D architectural modeling tool."
+  },
+  {
+    "name": "Rhino",
+    "field": "architecture",
+    "subfield": "architectural_design",
+    "category": "architecture_software",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://rhino3d.com",
+    "description": "Advanced design modeling software."
+  },
+  {
+    "name": "Lumion",
+    "field": "architecture",
+    "subfield": "architectural_design",
+    "category": "design_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://lumion.com",
+    "description": "Architectural rendering tool."
+  },
+  {
+    "name": "V-Ray",
+    "field": "architecture",
+    "subfield": "architectural_design",
+    "category": "design_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://chaos.com",
+    "description": "Rendering software."
+  },
+  {
+    "name": "Enscape",
+    "field": "architecture",
+    "subfield": "architectural_design",
+    "category": "design_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://enscape3d.com",
+    "description": "Real-time rendering tool."
+  },
+
+  {
+    "name": "ArcGIS",
+    "field": "architecture",
+    "subfield": "urban_planning",
+    "category": "architecture_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://esri.com",
+    "description": "Most used urban planning software."
+  },
+  {
+    "name": "AutoCAD Civil 3D",
+    "field": "architecture",
+    "subfield": "urban_planning",
+    "category": "architecture_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "Urban infrastructure planning."
+  },
+  {
+    "name": "SketchUp",
+    "field": "architecture",
+    "subfield": "urban_planning",
+    "category": "architecture_software",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://sketchup.com",
+    "description": "Urban layout design."
+  },
+  {
+    "name": "GIS Tools",
+    "field": "architecture",
+    "subfield": "urban_planning",
+    "category": "analysis_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://esri.com",
+    "description": "Geospatial planning analysis."
+  },
+  {
+    "name": "QGIS",
+    "field": "architecture",
+    "subfield": "urban_planning",
+    "category": "analysis_tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://qgis.org",
+    "description": "Open-source planning analysis tool."
+  },
+{
+  "name": "SketchUp",
+  "field": "architecture",
+  "subfield": "landscape_architecture",
+  "category": "design_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://sketchup.com",
+  "description": "Most used landscape design software."
+},
+{
+  "name": "Lumion",
+  "field": "architecture",
+  "subfield": "landscape_architecture",
+  "category": "design_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://lumion.com",
+  "description": "Landscape visualization software."
+},
+{
+  "name": "Adobe Photoshop",
+  "field": "architecture",
+  "subfield": "landscape_architecture",
+  "category": "design_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://adobe.com",
+  "description": "Presentation design tool by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "AutoCAD",
+  "field": "architecture",
+  "subfield": "landscape_architecture",
+  "category": "architecture_software",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://autodesk.com",
+  "description": "Landscape drafting software."
+},
+{
+  "name": "Revit",
+  "field": "architecture",
+  "subfield": "landscape_architecture",
+  "category": "architecture_software",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://autodesk.com",
+  "description": "Landscape planning software."
+},
+
+{
+  "name": "Autodesk Insight",
+  "field": "architecture",
+  "subfield": "sustainable_architecture",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://autodesk.com",
+  "description": "Building sustainability analysis tool."
+},
+{
+  "name": "IES VE",
+  "field": "architecture",
+  "subfield": "sustainable_architecture",
+  "category": "analysis_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://iesve.com",
+  "description": "Energy simulation software."
+},
+{
+  "name": "EnergyPlus",
+  "field": "architecture",
+  "subfield": "sustainable_architecture",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://energyplus.net",
+  "description": "Building energy simulation platform."
+},
+{
+  "name": "Revit",
+  "field": "architecture",
+  "subfield": "sustainable_architecture",
+  "category": "architecture_software",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://autodesk.com",
+  "description": "Sustainable building design."
+},
+{
+  "name": "SketchUp",
+  "field": "architecture",
+  "subfield": "sustainable_architecture",
+  "category": "architecture_software",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://sketchup.com",
+  "description": "Eco-friendly building planning."
+}
+]

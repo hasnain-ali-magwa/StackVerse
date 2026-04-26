@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Solidity",
+    "field": "blockchain",
+    "subfield": "smart_contracts",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://soliditylang.org",
+    "description": "Most popular smart contract language."
+  },
+  {
+    "name": "Rust",
+    "field": "blockchain",
+    "subfield": "smart_contracts",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://rust-lang.org",
+    "description": "Used in :contentReference[oaicite:0]{index=0} development."
+  },
+  {
+    "name": "Vyper",
+    "field": "blockchain",
+    "subfield": "smart_contracts",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://vyperlang.org",
+    "description": "Python-like smart contract language."
+  },
+  {
+    "name": "Remix IDE",
+    "field": "blockchain",
+    "subfield": "smart_contracts",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://remix.ethereum.org",
+    "description": "Most popular smart contract IDE."
+  },
+  {
+    "name": "Hardhat",
+    "field": "blockchain",
+    "subfield": "smart_contracts",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://hardhat.org",
+    "description": "Ethereum development framework."
+  },
+  {
+    "name": "Truffle",
+    "field": "blockchain",
+    "subfield": "smart_contracts",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://trufflesuite.com",
+    "description": "Smart contract development suite."
+  },
+  {
+    "name": "MetaMask",
+    "field": "blockchain",
+    "subfield": "smart_contracts",
+    "category": "wallets",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://metamask.io",
+    "description": "Most popular crypto wallet."
+  },
+  {
+    "name": "Phantom Wallet",
+    "field": "blockchain",
+    "subfield": "smart_contracts",
+    "category": "wallets",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://phantom.app",
+    "description": "Popular :contentReference[oaicite:1]{index=1} wallet."
+  },
+
+  {
+    "name": "Next.js",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://nextjs.org",
+    "description": "Popular frontend framework for Web3 apps."
+  },
+  {
+    "name": "Ethers.js",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://ethers.org",
+    "description": "Blockchain interaction library."
+  },
+  {
+    "name": "Web3.js",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://web3js.org",
+    "description": "Ethereum interaction library."
+  },
+  {
+    "name": "Wagmi",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://wagmi.sh",
+    "description": "React hooks for Web3."
+  },
+  {
+    "name": "MetaMask",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "wallets",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://metamask.io",
+    "description": "Most used wallet in Web3 apps."
+  },
+  {
+    "name": "WalletConnect",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "wallets",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://walletconnect.com",
+    "description": "Wallet connection protocol."
+  },
+  {
+    "name": "Ethereum",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "platforms",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://ethereum.org",
+    "description": "Most popular blockchain platform."
+  },
+  {
+    "name": "Polygon",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "platforms",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://polygon.technology",
+    "description": "Popular Layer 2 blockchain."
+  },
+  {
+    "name": "Solana",
+    "field": "blockchain",
+    "subfield": "web3",
+    "category": "platforms",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://solana.com",
+    "description": "High-speed blockchain platform."
+  },
+{
+  "name": "Mythril",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://github.com/ConsenSysDiligence/mythril",
+  "description": "Smart contract vulnerability scanner."
+},
+{
+  "name": "Slither",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://github.com/crytic/slither",
+  "description": "Static analysis framework for smart contracts."
+},
+{
+  "name": "Tenderly",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://tenderly.co",
+  "description": "Smart contract monitoring platform."
+},
+{
+  "name": "OpenZeppelin Defender",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://openzeppelin.com",
+  "description": "Smart contract security platform."
+},
+{
+  "name": "CertiK Skynet",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://certik.com",
+  "description": "Blockchain threat monitoring platform."
+},
+
+{
+  "name": "Foundry",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "auditing_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://getfoundry.sh",
+  "description": "Testing and smart contract auditing toolkit."
+},
+{
+  "name": "Echidna",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "auditing_tools",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://github.com/crytic/echidna",
+  "description": "Smart contract fuzz testing tool."
+},
+{
+  "name": "Manticore",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "auditing_tools",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://github.com/trailofbits/manticore",
+  "description": "Symbolic execution framework."
+},
+{
+  "name": "Trail of Bits Audit Reports",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "auditing_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://trailofbits.com",
+  "description": "Learn auditing from real reports."
+},
+{
+  "name": "Code4rena",
+  "field": "blockchain",
+  "subfield": "blockchain_security",
+  "category": "auditing_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://code4rena.com",
+  "description": "Competitive smart contract auditing platform."
+}
+]

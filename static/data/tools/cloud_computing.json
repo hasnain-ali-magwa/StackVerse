@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Amazon EC2",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/ec2",
+    "description": "Virtual servers by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "Amazon S3",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/s3",
+    "description": "Cloud storage platform."
+  },
+  {
+    "name": "Amazon RDS",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/rds",
+    "description": "Managed relational database service."
+  },
+  {
+    "name": "AWS Lambda",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/lambda",
+    "description": "Serverless compute service."
+  },
+  {
+    "name": "AWS Solutions Architect Associate",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "certifications",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/certification",
+    "description": "Most popular AWS certification."
+  },
+  {
+    "name": "AWS Developer Associate",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "certifications",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/certification",
+    "description": "AWS developer certification."
+  },
+  {
+    "name": "AWS Security Specialty",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/certification",
+    "description": "Advanced AWS security certification."
+  },
+  {
+    "name": "CloudFormation",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "deployment_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://aws.amazon.com/cloudformation",
+    "description": "Infrastructure as code tool."
+  },
+  {
+    "name": "AWS Elastic Beanstalk",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "deployment_tools",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/elasticbeanstalk",
+    "description": "Easy app deployment service."
+  },
+  {
+    "name": "AWS CodeDeploy",
+    "field": "cloud_computing",
+    "subfield": "aws",
+    "category": "deployment_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/codedeploy",
+    "description": "Automated deployment service."
+  },
+
+  {
+    "name": "Azure Virtual Machines",
+    "field": "cloud_computing",
+    "subfield": "azure",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://azure.microsoft.com",
+    "description": "Virtual machines by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "Azure Storage",
+    "field": "cloud_computing",
+    "subfield": "azure",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://azure.microsoft.com",
+    "description": "Cloud storage platform."
+  },
+  {
+    "name": "Azure Functions",
+    "field": "cloud_computing",
+    "subfield": "azure",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://azure.microsoft.com",
+    "description": "Serverless computing service."
+  },
+  {
+    "name": "Azure Kubernetes Service",
+    "field": "cloud_computing",
+    "subfield": "azure",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://azure.microsoft.com",
+    "description": "Managed Kubernetes platform."
+  },
+  {
+    "name": "Azure Administrator Associate",
+    "field": "cloud_computing",
+    "subfield": "azure",
+    "category": "certifications",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://learn.microsoft.com",
+    "description": "Popular Azure certification."
+  },
+  {
+    "name": "Azure Solutions Architect Expert",
+    "field": "cloud_computing",
+    "subfield": "azure",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://learn.microsoft.com",
+    "description": "Advanced Azure certification."
+  },
+
+  {
+    "name": "Google Compute Engine",
+    "field": "cloud_computing",
+    "subfield": "gcp",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com",
+    "description": "Virtual machines by :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "name": "Google Cloud Storage",
+    "field": "cloud_computing",
+    "subfield": "gcp",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com",
+    "description": "Cloud storage service."
+  },
+  {
+    "name": "Google Kubernetes Engine",
+    "field": "cloud_computing",
+    "subfield": "gcp",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com",
+    "description": "Managed Kubernetes service."
+  },
+  {
+    "name": "BigQuery",
+    "field": "cloud_computing",
+    "subfield": "gcp",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com",
+    "description": "Cloud data warehouse."
+  },
+  {
+    "name": "Associate Cloud Engineer",
+    "field": "cloud_computing",
+    "subfield": "gcp",
+    "category": "certifications",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com/certification",
+    "description": "Popular GCP certification."
+  },
+  {
+    "name": "Professional Cloud Architect",
+    "field": "cloud_computing",
+    "subfield": "gcp",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com/certification",
+    "description": "Advanced GCP certification."
+  },
+{
+  "name": "AWS",
+  "field": "cloud_computing",
+  "subfield": "cloud_architecture",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com",
+  "description": "Most used cloud platform for architecture design."
+},
+{
+  "name": "Microsoft Azure",
+  "field": "cloud_computing",
+  "subfield": "cloud_architecture",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Enterprise cloud platform by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Google Cloud",
+  "field": "cloud_computing",
+  "subfield": "cloud_architecture",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Scalable cloud architecture platform by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Terraform",
+  "field": "cloud_computing",
+  "subfield": "cloud_architecture",
+  "category": "architecture_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://terraform.io",
+  "description": "Infrastructure as code platform by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Pulumi",
+  "field": "cloud_computing",
+  "subfield": "cloud_architecture",
+  "category": "architecture_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://pulumi.com",
+  "description": "Modern infrastructure automation platform."
+},
+{
+  "name": "Kubernetes",
+  "field": "cloud_computing",
+  "subfield": "cloud_architecture",
+  "category": "architecture_tools",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://kubernetes.io",
+  "description": "Container orchestration platform."
+},
+{
+  "name": "Docker",
+  "field": "cloud_computing",
+  "subfield": "cloud_architecture",
+  "category": "architecture_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://docker.com",
+  "description": "Containerization platform."
+},
+
+{
+  "name": "AWS Lambda",
+  "field": "cloud_computing",
+  "subfield": "serverless",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/lambda",
+  "description": "Most popular serverless platform."
+},
+{
+  "name": "Azure Functions",
+  "field": "cloud_computing",
+  "subfield": "serverless",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Serverless platform by :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "Google Cloud Functions",
+  "field": "cloud_computing",
+  "subfield": "serverless",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Serverless compute by :contentReference[oaicite:4]{index=4}."
+},
+{
+  "name": "Vercel Serverless Functions",
+  "field": "cloud_computing",
+  "subfield": "serverless",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://vercel.com",
+  "description": "Frontend serverless platform."
+},
+{
+  "name": "Netlify Functions",
+  "field": "cloud_computing",
+  "subfield": "serverless",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://netlify.com",
+  "description": "Serverless deployment platform."
+},
+{
+  "name": "Serverless Framework",
+  "field": "cloud_computing",
+  "subfield": "serverless",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://serverless.com",
+  "description": "Deploy serverless apps faster."
+},
+{
+  "name": "AWS SAM",
+  "field": "cloud_computing",
+  "subfield": "serverless",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://aws.amazon.com/serverless/sam",
+  "description": "AWS serverless application framework."
+},
+
+{
+  "name": "AWS Migration Hub",
+  "field": "cloud_computing",
+  "subfield": "cloud_migration",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/migration-hub",
+  "description": "Migration platform by :contentReference[oaicite:5]{index=5}."
+},
+{
+  "name": "Azure Migrate",
+  "field": "cloud_computing",
+  "subfield": "cloud_migration",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Migration platform by :contentReference[oaicite:6]{index=6}."
+},
+{
+  "name": "Google Migrate for Compute Engine",
+  "field": "cloud_computing",
+  "subfield": "cloud_migration",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Migration platform by :contentReference[oaicite:7]{index=7}."
+},
+{
+  "name": "CloudEndure",
+  "field": "cloud_computing",
+  "subfield": "cloud_migration",
+  "category": "migration_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/cloudendure",
+  "description": "Disaster recovery and migration tool."
+},
+{
+  "name": "Carbonite Migrate",
+  "field": "cloud_computing",
+  "subfield": "cloud_migration",
+  "category": "migration_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://carbonite.com",
+  "description": "Cloud migration platform."
+},
+{
+  "name": "Velostrata",
+  "field": "cloud_computing",
+  "subfield": "cloud_migration",
+  "category": "migration_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Cloud migration technology."
+}
+]

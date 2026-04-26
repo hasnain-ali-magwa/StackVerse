@@ -1,0 +1,340 @@
+[
+  {
+    "name": "System Design Primer",
+    "field": "software_engineering",
+    "subfield": "system_design",
+    "category": "courses",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Most popular system design learning resource."
+  },
+  {
+    "name": "ByteByteGo",
+    "field": "software_engineering",
+    "subfield": "system_design",
+    "category": "courses",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://bytebytego.com",
+    "description": "Best platform for learning scalable system design."
+  },
+  {
+    "name": "Educative Grokking System Design",
+    "field": "software_engineering",
+    "subfield": "system_design",
+    "category": "courses",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://educative.io",
+    "description": "Popular interview-focused system design course."
+  },
+  {
+    "name": "YouTube System Design Channels",
+    "field": "software_engineering",
+    "subfield": "system_design",
+    "category": "courses",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://youtube.com",
+    "description": "Free system design tutorials."
+  },
+
+  {
+    "name": "AWS Architecture Center",
+    "field": "software_engineering",
+    "subfield": "system_design",
+    "category": "documentation",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://aws.amazon.com/architecture",
+    "description": "Architecture documentation by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "Google Cloud Architecture Framework",
+    "field": "software_engineering",
+    "subfield": "system_design",
+    "category": "documentation",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://cloud.google.com",
+    "description": "Architecture documentation by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "Microsoft Architecture Docs",
+    "field": "software_engineering",
+    "subfield": "system_design",
+    "category": "documentation",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com",
+    "description": "Architecture documentation by :contentReference[oaicite:2]{index=2}."
+  },
+
+  {
+    "name": "Lucidchart",
+    "field": "software_engineering",
+    "subfield": "software_architecture",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://lucidchart.com",
+    "description": "Architecture diagramming platform."
+  },
+  {
+    "name": "Draw.io",
+    "field": "software_engineering",
+    "subfield": "software_architecture",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://draw.io",
+    "description": "Free architecture diagram tool."
+  },
+  {
+    "name": "Miro",
+    "field": "software_engineering",
+    "subfield": "software_architecture",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://miro.com",
+    "description": "Architecture collaboration tool."
+  },
+  {
+    "name": "Enterprise Architect",
+    "field": "software_engineering",
+    "subfield": "software_architecture",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://sparxsystems.com",
+    "description": "Professional architecture modeling software."
+  },
+
+  {
+    "name": "Clean Architecture Course",
+    "field": "software_engineering",
+    "subfield": "software_architecture",
+    "category": "courses",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://udemy.com",
+    "description": "Learn clean architecture principles."
+  },
+  {
+    "name": "Design Patterns Course",
+    "field": "software_engineering",
+    "subfield": "software_architecture",
+    "category": "courses",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://coursera.org",
+    "description": "Learn software design patterns."
+  },
+  {
+    "name": "Refactoring Guru",
+    "field": "software_engineering",
+    "subfield": "software_architecture",
+    "category": "courses",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://refactoring.guru",
+    "description": "Best resource for design patterns."
+  },
+{
+  "name": "Spring Boot",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://spring.io",
+  "description": "Most popular microservices framework."
+},
+{
+  "name": "Node.js",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://nodejs.org",
+  "description": "Popular backend framework for microservices."
+},
+{
+  "name": "FastAPI",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://fastapi.tiangolo.com",
+  "description": "Python microservice framework."
+},
+{
+  "name": "Docker",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://docker.com",
+  "description": "Container platform."
+},
+
+{
+  "name": "AWS ECS",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com",
+  "description": "Microservices hosting by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Google Kubernetes Engine",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "cloud_platforms",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Kubernetes platform by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Azure Kubernetes Service",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "cloud_platforms",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Kubernetes platform by :contentReference[oaicite:2]{index=2}."
+},
+
+{
+  "name": "Prometheus",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://prometheus.io",
+  "description": "Most popular monitoring tool."
+},
+{
+  "name": "Grafana",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://grafana.com",
+  "description": "Monitoring dashboards."
+},
+{
+  "name": "Datadog",
+  "field": "software_engineering",
+  "subfield": "microservices",
+  "category": "monitoring_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://datadoghq.com",
+  "description": "Enterprise monitoring platform."
+},
+
+{
+  "name": "Electron",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "languages",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://electronjs.org",
+  "description": "Most popular desktop app framework."
+},
+{
+  "name": "Python",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "languages",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://python.org",
+  "description": "Desktop app development language."
+},
+{
+  "name": "C#",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "languages",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://microsoft.com",
+  "description": "Windows desktop development language."
+},
+
+{
+  "name": "Electron",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://electronjs.org",
+  "description": "Cross-platform desktop framework."
+},
+{
+  "name": ".NET WPF",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://dotnet.microsoft.com",
+  "description": "Windows desktop framework."
+},
+{
+  "name": "PyQt",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://riverbankcomputing.com",
+  "description": "Python desktop framework."
+},
+
+{
+  "name": "VS Code",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "ides",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://code.visualstudio.com",
+  "description": "Most used IDE by :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "Visual Studio",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "ides",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://visualstudio.microsoft.com",
+  "description": "Desktop development IDE."
+},
+{
+  "name": "PyCharm",
+  "field": "software_engineering",
+  "subfield": "desktop_apps",
+  "category": "ides",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://jetbrains.com",
+  "description": "Python development IDE."
+}
+]

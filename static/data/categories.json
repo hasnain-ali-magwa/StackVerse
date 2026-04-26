@@ -1,0 +1,504 @@
+{
+  "frontend": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "libraries", "name": "Libraries"},
+    {"id": "ui_tools", "name": "Ui Tools"},
+    {"id": "ides", "name": "Ides"},
+    {"id": "deployment", "name": "Deployment"},
+    {"id": "communities", "name": "Communities"},
+    {"id": "practice_platforms", "name": "Practice Platforms"}
+  ],
+  "backend": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "databases", "name": "Databases"},
+    {"id": "api_tools", "name": "Api Tools"},
+    {"id": "hosting", "name": "Hosting"},
+    {"id": "deployment", "name": "Deployment"},
+    {"id": "ides", "name": "Ides"},
+    {"id": "communities", "name": "Communities"}
+  ],
+  "fullstack": [
+    {"id": "stacks", "name": "Stacks"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "databases", "name": "Databases"},
+    {"id": "deployment", "name": "Deployment"},
+    {"id": "projects", "name": "Projects"},
+    {"id": "communities", "name": "Communities"}
+  ],
+  "api_development": [
+    {"id": "api_tools", "name": "Api Tools"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "testing_tools", "name": "Testing Tools"},
+    {"id": "documentation", "name": "Documentation"}
+  ],
+  "database_management": [
+    {"id": "databases", "name": "Databases"},
+    {"id": "database_tools", "name": "Database Tools"},
+    {"id": "cloud_platforms", "name": "Cloud Platforms"}
+  ],
+  "deployment_hosting": [
+    {"id": "hosting", "name": "Hosting"},
+    {"id": "deployment", "name": "Deployment"},
+    {"id": "cloud_platforms", "name": "Cloud Platforms"}
+  ],
+  "web_security": [
+    {"id": "security_tools", "name": "Security Tools"},
+    {"id": "certifications", "name": "Certifications"},
+    {"id": "practice_platforms", "name": "Practice Platforms"}
+  ],
+  "android": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "ides", "name": "Ides"},
+    {"id": "deployment", "name": "Deployment"}
+  ],
+  "ios": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "ides", "name": "Ides"},
+    {"id": "deployment", "name": "Deployment"}
+  ],
+  "flutter": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "ides", "name": "Ides"},
+    {"id": "libraries", "name": "Libraries"}
+  ],
+  "react_native": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "libraries", "name": "Libraries"},
+    {"id": "deployment", "name": "Deployment"}
+  ],
+  "mobile_backend": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "databases", "name": "Databases"},
+    {"id": "hosting", "name": "Hosting"}
+  ],
+  "app_testing": [
+    {"id": "testing_tools", "name": "Testing Tools"},
+    {"id": "automation_tools", "name": "Automation Tools"}
+  ],
+  
+  "red_team": [
+    {"id": "tools", "name": "Tools"},
+    {"id": "labs", "name": "Labs"},
+    {"id": "certifications", "name": "Certifications"},
+    {"id": "communities", "name": "Communities"}
+  ],
+  "blue_team": [
+    {"id": "siem_tools", "name": "Siem Tools"},
+    {"id": "monitoring_tools", "name": "Monitoring Tools"},
+    {"id": "certifications", "name": "Certifications"},
+    {"id": "labs", "name": "Labs"}
+  ],
+  "penetration_testing": [
+    {"id": "tools", "name": "Tools"},
+    {"id": "os", "name": "Os"},
+    {"id": "labs", "name": "Labs"},
+    {"id": "certifications", "name": "Certifications"}
+  ],
+  "bug_bounty": [
+    {"id": "platforms", "name": "Platforms"},
+    {"id": "tools", "name": "Tools"},
+    {"id": "communities", "name": "Communities"}
+  ],
+  "soc": [
+    {"id": "siem_tools", "name": "Siem Tools"},
+    {"id": "monitoring_tools", "name": "Monitoring Tools"},
+    {"id": "incident_response_tools", "name": "Incident Response Tools"}
+  ],
+  "digital_forensics": [
+    {"id": "forensics_tools", "name": "Forensics Tools"},
+    {"id": "certifications", "name": "Certifications"},
+    {"id": "labs", "name": "Labs"}
+  ],
+  "malware_analysis": [
+    {"id": "analysis_tools", "name": "Analysis Tools"},
+    {"id": "labs", "name": "Labs"}
+  ],
+  "network_security": [
+    {"id": "security_tools", "name": "Security Tools"},
+    {"id": "network_tools", "name": "Network Tools"},
+    {"id": "certifications", "name": "Certifications"}
+  ],
+  "hardware_hacking": [
+  {
+    "id": "hacking_gadgets",
+    "name": "Hacking Gadgets"
+  },
+  {
+    "id": "wireless_tools",
+    "name": "Wireless Tools"
+  },
+  {
+    "id": "iot_tools",
+    "name": "IoT Tools"
+  },
+  {
+  "id": "hardware_projects",
+  "name": "Hardware Projects"
+}
+],
+  "application_security": [
+    {"id": "security_tools", "name": "Security Tools"},
+    {"id": "testing_tools", "name": "Testing Tools"}
+  ],
+  "osint": [
+    {"id": "tools", "name": "Tools"},
+    {"id": "platforms", "name": "Platforms"}
+  ],
+  "cloud_security": [
+  {"id": "cloud_platforms", "name": "Cloud Platforms"},
+  {
+    "id": "security_tools",
+    "name": "Security Tools"
+  },
+  {
+    "id": "certifications",
+    "name": "Certifications"
+  },
+  {
+    "id": "labs",
+    "name": "Labs"
+  }
+],
+  "aws": [
+    {"id": "cloud_platforms", "name": "Cloud Platforms"},
+    {"id": "certifications", "name": "Certifications"},
+    {"id": "deployment_tools", "name": "Deployment Tools"}
+  ],
+  "azure": [
+    {"id": "cloud_platforms", "name": "Cloud Platforms"},
+    {"id": "certifications", "name": "Certifications"}
+  ],
+  "gcp": [
+    {"id": "cloud_platforms", "name": "Cloud Platforms"},
+    {"id": "certifications", "name": "Certifications"}
+  ],
+  "cloud_architecture": [
+    {"id": "cloud_platforms", "name": "Cloud Platforms"},
+    {"id": "architecture_tools", "name": "Architecture Tools"}
+  ],
+  "serverless": [
+    {"id": "cloud_platforms", "name": "Cloud Platforms"},
+    {"id": "frameworks", "name": "Frameworks"}
+  ],
+  "cloud_migration": [
+    {"id": "cloud_platforms", "name": "Cloud Platforms"},
+    {"id": "migration_tools", "name": "Migration Tools"}
+  ],
+  "ci_cd": [
+    {"id": "devops_tools", "name": "Devops Tools"},
+    {"id": "automation_tools", "name": "Automation Tools"}
+  ],
+  "containerization": [
+    {"id": "devops_tools", "name": "Devops Tools"},
+    {"id": "cloud_platforms", "name": "Cloud Platforms"}
+  ],
+  "monitoring": [
+    {"id": "monitoring_tools", "name": "Monitoring Tools"},
+    {"id": "logging_tools", "name": "Logging Tools"}
+  ],
+  "infrastructure_as_code": [
+    {"id": "devops_tools", "name": "Devops Tools"},
+    {"id": "cloud_platforms", "name": "Cloud Platforms"}
+  ],
+  "automation": [
+    {"id": "automation_tools", "name": "Automation Tools"},
+    {"id": "scripting_tools", "name": "Scripting Tools"}
+  ],
+  "site_reliability": [
+    {"id": "monitoring_tools", "name": "Monitoring Tools"},
+    {"id": "cloud_platforms", "name": "Cloud Platforms"}
+  ],
+  "machine_learning": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "datasets", "name": "Datasets"},
+    {"id": "deployment", "name": "Deployment"}
+  ],
+  "deep_learning": [
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "gpu_tools", "name": "Gpu Tools"},
+    {"id": "datasets", "name": "Datasets"}
+  ],
+  "nlp": [
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "datasets", "name": "Datasets"},
+    {"id": "apis", "name": "Apis"}
+  ],
+  "computer_vision": [
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "datasets", "name": "Datasets"},
+    {"id": "hardware", "name": "Hardware"}
+  ],
+  "prompt_engineering": [
+    {"id": "ai_tools", "name": "Ai Tools"},
+    {"id": "communities", "name": "Communities"},
+    {"id": "courses", "name": "Courses"}
+  ],
+  "mlops": [
+    {"id": "deployment", "name": "Deployment"},
+    {"id": "cloud_platforms", "name": "Cloud Platforms"},
+    {"id": "monitoring_tools", "name": "Monitoring Tools"}
+  ],
+  "generative_ai": [
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "ai_tools", "name": "Ai Tools"},
+    {"id": "apis", "name": "Apis"}
+  ],
+  "data_analysis": [
+    {"id": "tools", "name": "Tools"},
+    {"id": "languages", "name": "Languages"},
+    {"id": "certifications", "name": "Certifications"},
+    {"id": "statistics", "name": "Statistics"}
+  ],
+  "data_visualization": [
+    {"id": "visualization_tools", "name": "Visualization Tools"},
+    {"id": "dashboard_tools", "name": "Dashboard Tools"}
+  ],
+  "business_analytics": [
+    {"id": "analytics_tools", "name": "Analytics Tools"},
+    {"id": "certifications", "name": "Certifications"}
+  ],
+  "big_data": [
+    {"id": "big_data_tools", "name": "Big Data Tools"},
+    {"id": "cloud_platforms", "name": "Cloud Platforms"}
+  ],
+  "etl": [
+    {"id": "etl_tools", "name": "Etl Tools"},
+    {"id": "cloud_tools", "name": "Cloud Tools"}
+  ],
+  "data_warehousing": [
+    {"id": "databases", "name": "Databases"},
+    {"id": "cloud_platforms", "name": "Cloud Platforms"}
+  ],
+  "smart_contracts": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "tools", "name": "Tools"},
+    {"id": "wallets", "name": "Wallets"}
+  ],
+  "web3": [
+    {"id": "frameworks", "name": "Frameworks"},
+    {"id": "wallets", "name": "Wallets"},
+    {"id": "platforms", "name": "Platforms"}
+  ],
+  "blockchain_security": [
+    {"id": "security_tools", "name": "Security Tools"},
+    {"id": "auditing_tools", "name": "Auditing Tools"}
+  ],
+  "ui_design": [
+    {"id": "design_tools", "name": "Design Tools"},
+    {"id": "inspiration", "name": "Inspiration"},
+    {"id": "communities", "name": "Communities"}
+  ],
+  "ux_research": [
+    {"id": "research_tools", "name": "Research Tools"},
+    {"id": "testing_tools", "name": "Testing Tools"}
+  ],
+  "wireframing": [
+    {"id": "design_tools", "name": "Design Tools"},
+    {"id": "templates", "name": "Templates"}
+  ],
+  "prototyping": [
+    {"id": "design_tools", "name": "Design Tools"},
+    {"id": "testing_tools", "name": "Testing Tools"}
+  ],
+  "design_systems": [
+    {"id": "design_tools", "name": "Design Tools"},
+    {"id": "documentation", "name": "Documentation"}
+  ],
+  "cad_design": [
+    {"id": "cad_software", "name": "Cad Software"},
+    {"id": "simulation_tools", "name": "Simulation Tools"}
+  ],
+  "manufacturing": [
+    {"id": "cad_software", "name": "Cad Software"},
+    {"id": "automation_tools", "name": "Automation Tools"}
+  ],
+  "thermal_engineering": [
+    {"id": "simulation_tools", "name": "Simulation Tools"},
+    {"id": "analysis_tools", "name": "Analysis Tools"}
+  ],
+  "automotive_design": [
+    {"id": "cad_software", "name": "Cad Software"},
+    {"id": "simulation_tools", "name": "Simulation Tools"}
+  ],
+  "structural_design": [
+    {"id": "design_software", "name": "Design Software"},
+    {"id": "analysis_tools", "name": "Analysis Tools"}
+  ],
+  "construction_management": [
+    {"id": "project_management_tools", "name": "Project Management Tools"},
+    {"id": "design_software", "name": "Design Software"}
+  ],
+  "transportation_engineering": [
+    {"id": "design_software", "name": "Design Software"},
+    {"id": "simulation_tools", "name": "Simulation Tools"}
+  ],
+  "geotechnical_engineering": [
+    {"id": "analysis_tools", "name": "Analysis Tools"},
+    {"id": "simulation_tools", "name": "Simulation Tools"}
+  ],
+  "environmental_civil": [
+    {"id": "analysis_tools", "name": "Analysis Tools"},
+    {"id": "design_software", "name": "Design Software"}
+  ],
+  "power_systems": [
+    {"id": "simulation_tools", "name": "Simulation Tools"},
+    {"id": "hardware", "name": "Hardware"}
+  ],
+  "electrical_design": [
+    {"id": "design_software", "name": "Design Software"},
+    {"id": "simulation_tools", "name": "Simulation Tools"}
+  ],
+  "industrial_electrical": [
+    {"id": "hardware", "name": "Hardware"},
+    {"id": "automation_tools", "name": "Automation Tools"}
+  ],
+  "renewable_energy": [
+    {"id": "simulation_tools", "name": "Simulation Tools"},
+    {"id": "hardware", "name": "Hardware"}
+  ],
+  "control_systems": [
+    {"id": "simulation_tools", "name": "Simulation Tools"},
+    {"id": "hardware", "name": "Hardware"}
+  ],
+  "embedded_systems": [
+    {"id": "hardware", "name": "Hardware"},
+    {"id": "software", "name": "Software"},
+    {"id": "microcontrollers", "name": "Microcontrollers"}
+  ],
+  "pcb_design": [
+    {"id": "design_software", "name": "Design Software"},
+    {"id": "hardware", "name": "Hardware"}
+  ],
+  "vlsi": [
+    {"id": "design_software", "name": "Design Software"},
+    {"id": "simulation_tools", "name": "Simulation Tools"}
+  ],
+  "microcontrollers": [
+  {
+    "id": "hardware",
+    "name": "Hardware"
+  },
+  {
+    "id": "software",
+    "name": "Software"
+  }
+],
+
+"firmware_development": [
+  {
+    "id": "languages",
+    "name": "Languages"
+  },
+  {
+    "id": "debugging_tools",
+    "name": "Debugging Tools"
+  }
+],
+
+"iot_systems": [
+  {
+    "id": "hardware",
+    "name": "Hardware"
+  },
+  {
+    "id": "cloud_platforms",
+    "name": "Cloud Platforms"
+  }
+],
+
+  "robot_design": [
+    {"id": "robotics_tools", "name": "Robotics Tools"},
+    {"id": "cad_software", "name": "Cad Software"}
+  ],
+  "robot_programming": [
+    {"id": "languages", "name": "Languages"},
+    {"id": "robotics_tools", "name": "Robotics Tools"}
+  ],
+  "industrial_robotics": [
+    {"id": "hardware", "name": "Hardware"},
+    {"id": "automation_tools", "name": "Automation Tools"}
+  ],
+  "ai_robotics": [
+    {"id": "ai_tools", "name": "Ai Tools"},
+    {"id": "robotics_tools", "name": "Robotics Tools"}
+  ],
+  "robot_automation": [
+    {"id": "automation_tools", "name": "Automation Tools"},
+    {"id": "hardware", "name": "Hardware"}
+  ],
+  "architectural_design": [
+    {"id": "architecture_software", "name": "Architecture Software"},
+    {"id": "design_tools", "name": "Design Tools"}
+  ],
+  "urban_planning": [
+    {"id": "architecture_software", "name": "Architecture Software"},
+    {"id": "analysis_tools", "name": "Analysis Tools"}
+  ],
+  "landscape_architecture": [
+    {"id": "design_tools", "name": "Design Tools"},
+    {"id": "architecture_software", "name": "Architecture Software"}
+  ],
+  "sustainable_architecture": [
+    {"id": "analysis_tools", "name": "Analysis Tools"},
+    {"id": "architecture_software", "name": "Architecture Software"}
+  ],
+  "system_design": [
+  {
+    "id": "courses",
+    "name": "Courses"
+  },
+  {
+    "id": "documentation",
+    "name": "Documentation"
+  }
+],
+
+"software_architecture": [
+  {
+    "id": "tools",
+    "name": "Tools"
+  },
+  {
+    "id": "courses",
+    "name": "Courses"
+  }
+],
+
+"microservices": [
+  {
+    "id": "frameworks",
+    "name": "Frameworks"
+  },
+  {
+    "id": "cloud_platforms",
+    "name": "Cloud Platforms"
+  },
+  {
+    "id": "monitoring_tools",
+    "name": "Monitoring Tools"
+  }
+],
+
+"desktop_apps": [
+  {
+    "id": "languages",
+    "name": "Languages"
+  },
+  {
+    "id": "frameworks",
+    "name": "Frameworks"
+  },
+  {
+    "id": "ides",
+    "name": "Ides"
+  }
+]
+}

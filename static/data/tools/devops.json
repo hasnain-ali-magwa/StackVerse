@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Jenkins",
+    "field": "devops",
+    "subfield": "ci_cd",
+    "category": "devops_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://jenkins.io",
+    "description": "Most popular CI/CD automation server."
+  },
+  {
+    "name": "GitHub Actions",
+    "field": "devops",
+    "subfield": "ci_cd",
+    "category": "devops_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://github.com/features/actions",
+    "description": "CI/CD automation platform by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "GitLab CI/CD",
+    "field": "devops",
+    "subfield": "ci_cd",
+    "category": "devops_tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://gitlab.com",
+    "description": "Built-in CI/CD platform."
+  },
+  {
+    "name": "CircleCI",
+    "field": "devops",
+    "subfield": "ci_cd",
+    "category": "devops_tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://circleci.com",
+    "description": "Cloud CI/CD platform."
+  },
+  {
+    "name": "Azure DevOps",
+    "field": "devops",
+    "subfield": "ci_cd",
+    "category": "devops_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://azure.microsoft.com",
+    "description": "DevOps platform by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "Ansible",
+    "field": "devops",
+    "subfield": "ci_cd",
+    "category": "automation_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://ansible.com",
+    "description": "Automation platform by :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "name": "Chef",
+    "field": "devops",
+    "subfield": "ci_cd",
+    "category": "automation_tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://chef.io",
+    "description": "Infrastructure automation tool."
+  },
+  {
+    "name": "Puppet",
+    "field": "devops",
+    "subfield": "ci_cd",
+    "category": "automation_tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://puppet.com",
+    "description": "Configuration automation platform."
+  },
+
+  {
+    "name": "Docker",
+    "field": "devops",
+    "subfield": "containerization",
+    "category": "devops_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://docker.com",
+    "description": "Most popular container platform."
+  },
+  {
+    "name": "Kubernetes",
+    "field": "devops",
+    "subfield": "containerization",
+    "category": "devops_tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://kubernetes.io",
+    "description": "Container orchestration platform."
+  },
+  {
+    "name": "Docker Compose",
+    "field": "devops",
+    "subfield": "containerization",
+    "category": "devops_tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://docs.docker.com/compose",
+    "description": "Multi-container management tool."
+  },
+  {
+    "name": "OpenShift",
+    "field": "devops",
+    "subfield": "containerization",
+    "category": "devops_tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://redhat.com",
+    "description": "Enterprise Kubernetes platform by :contentReference[oaicite:3]{index=3}."
+  },
+  {
+    "name": "Amazon ECS",
+    "field": "devops",
+    "subfield": "containerization",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com",
+    "description": "Container service by :contentReference[oaicite:4]{index=4}."
+  },
+  {
+    "name": "Amazon EKS",
+    "field": "devops",
+    "subfield": "containerization",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com",
+    "description": "Managed Kubernetes by AWS."
+  },
+  {
+    "name": "Google Kubernetes Engine",
+    "field": "devops",
+    "subfield": "containerization",
+    "category": "cloud_platforms",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com",
+    "description": "Managed Kubernetes by :contentReference[oaicite:5]{index=5}."
+  },
+
+  {
+    "name": "Terraform",
+    "field": "devops",
+    "subfield": "infrastructure_as_code",
+    "category": "devops_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://terraform.io",
+    "description": "Most popular infrastructure as code platform by :contentReference[oaicite:6]{index=6}."
+  },
+  {
+    "name": "Pulumi",
+    "field": "devops",
+    "subfield": "infrastructure_as_code",
+    "category": "devops_tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://pulumi.com",
+    "description": "Modern infrastructure automation."
+  },
+  {
+    "name": "AWS CloudFormation",
+    "field": "devops",
+    "subfield": "infrastructure_as_code",
+    "category": "devops_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://aws.amazon.com/cloudformation",
+    "description": "AWS infrastructure automation."
+  },
+  {
+    "name": "AWS",
+    "field": "devops",
+    "subfield": "infrastructure_as_code",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com",
+    "description": "Cloud provider."
+  },
+  {
+    "name": "Azure",
+    "field": "devops",
+    "subfield": "infrastructure_as_code",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://azure.microsoft.com",
+    "description": "Cloud platform by :contentReference[oaicite:7]{index=7}."
+  },
+  {
+    "name": "Google Cloud",
+    "field": "devops",
+    "subfield": "infrastructure_as_code",
+    "category": "cloud_platforms",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com",
+    "description": "Cloud provider by :contentReference[oaicite:8]{index=8}."
+  },
+{
+  "name": "Prometheus",
+  "field": "devops",
+  "subfield": "monitoring",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://prometheus.io",
+  "description": "Open-source monitoring system."
+},
+{
+  "name": "Grafana",
+  "field": "devops",
+  "subfield": "monitoring",
+  "category": "monitoring_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://grafana.com",
+  "description": "Visualization platform for metrics."
+},
+{
+  "name": "Datadog",
+  "field": "devops",
+  "subfield": "monitoring",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://datadoghq.com",
+  "description": "Cloud monitoring platform."
+},
+{
+  "name": "New Relic",
+  "field": "devops",
+  "subfield": "monitoring",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://newrelic.com",
+  "description": "Application monitoring platform."
+},
+{
+  "name": "ELK Stack",
+  "field": "devops",
+  "subfield": "monitoring",
+  "category": "logging_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://elastic.co",
+  "description": "Logging stack using Elasticsearch, Logstash, Kibana."
+},
+{
+  "name": "Splunk",
+  "field": "devops",
+  "subfield": "monitoring",
+  "category": "logging_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://splunk.com",
+  "description": "Enterprise log management platform."
+},
+{
+  "name": "Fluentd",
+  "field": "devops",
+  "subfield": "monitoring",
+  "category": "logging_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://fluentd.org",
+  "description": "Open-source log collector."
+},
+
+{
+  "name": "Ansible",
+  "field": "devops",
+  "subfield": "automation",
+  "category": "automation_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://ansible.com",
+  "description": "Most popular automation tool by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Puppet",
+  "field": "devops",
+  "subfield": "automation",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://puppet.com",
+  "description": "Infrastructure automation tool."
+},
+{
+  "name": "Chef",
+  "field": "devops",
+  "subfield": "automation",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://chef.io",
+  "description": "Configuration automation platform."
+},
+{
+  "name": "SaltStack",
+  "field": "devops",
+  "subfield": "automation",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://saltproject.io",
+  "description": "Infrastructure automation platform."
+},
+{
+  "name": "Python",
+  "field": "devops",
+  "subfield": "automation",
+  "category": "scripting_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://python.org",
+  "description": "Most used automation scripting language."
+},
+{
+  "name": "Bash",
+  "field": "devops",
+  "subfield": "automation",
+  "category": "scripting_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://gnu.org/software/bash",
+  "description": "Linux automation scripting."
+},
+{
+  "name": "PowerShell",
+  "field": "devops",
+  "subfield": "automation",
+  "category": "scripting_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://microsoft.com/powershell",
+  "description": "Automation scripting by :contentReference[oaicite:1]{index=1}."
+},
+
+{
+  "name": "Prometheus",
+  "field": "devops",
+  "subfield": "site_reliability",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://prometheus.io",
+  "description": "Monitoring for SRE teams."
+},
+{
+  "name": "Grafana",
+  "field": "devops",
+  "subfield": "site_reliability",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://grafana.com",
+  "description": "Metrics dashboards."
+},
+{
+  "name": "Datadog",
+  "field": "devops",
+  "subfield": "site_reliability",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://datadoghq.com",
+  "description": "Cloud reliability monitoring."
+},
+{
+  "name": "AWS",
+  "field": "devops",
+  "subfield": "site_reliability",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com",
+  "description": "Cloud platform used by SRE teams."
+},
+{
+  "name": "Google Cloud",
+  "field": "devops",
+  "subfield": "site_reliability",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Cloud infrastructure platform by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Azure",
+  "field": "devops",
+  "subfield": "site_reliability",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Cloud platform by :contentReference[oaicite:3]{index=3}."
+}
+]

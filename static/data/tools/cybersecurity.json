@@ -1,0 +1,1204 @@
+[
+  {
+    "name": "Metasploit Framework",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.metasploit.com",
+    "description": "Popular exploitation framework by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "Cobalt Strike",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://www.cobaltstrike.com",
+    "description": "Professional red teaming platform."
+  },
+  {
+    "name": "Sliver",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/BishopFox/sliver",
+    "description": "Open-source adversary emulation framework."
+  },
+  {
+    "name": "Empire",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/BC-SECURITY/Empire",
+    "description": "Post exploitation framework."
+  },
+  {
+    "name": "BloodHound",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://bloodhound.readthedocs.io",
+    "description": "Active Directory attack path mapping tool."
+  },
+  {
+    "name": "Hack The Box",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "labs",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://hackthebox.com",
+    "description": "Advanced red team labs."
+  },
+  {
+    "name": "TryHackMe",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "labs",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://tryhackme.com",
+    "description": "Beginner-friendly red team labs."
+  },
+  {
+    "name": "CRTO",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://zeropointsecurity.co.uk",
+    "description": "Certified Red Team Operator certification."
+  },
+  {
+    "name": "OSEP",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://offsec.com",
+    "description": "Advanced penetration certification by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "Red Team Village Discord",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "communities",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://redteamvillage.io",
+    "description": "Red teaming community."
+  },
+
+  {
+    "name": "Nmap",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://nmap.org",
+    "description": "Network scanning tool."
+  },
+  {
+    "name": "Burp Suite",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://portswigger.net/burp",
+    "description": "Web penetration testing platform."
+  },
+  {
+    "name": "SQLmap",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://sqlmap.org",
+    "description": "SQL injection automation tool."
+  },
+  {
+    "name": "Gobuster",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://github.com/OJ/gobuster",
+    "description": "Directory brute forcing tool."
+  },
+  {
+    "name": "Hydra",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/vanhauser-thc/thc-hydra",
+    "description": "Password brute force tool."
+  },
+  {
+    "name": "Kali Linux",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "os",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://kali.org",
+    "description": "Most popular pentesting OS."
+  },
+  {
+    "name": "Parrot OS",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "os",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://parrotsec.org",
+    "description": "Security focused Linux distribution."
+  },
+  {
+    "name": "Hack The Box",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "labs",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://hackthebox.com",
+    "description": "Pentesting practice labs."
+  },
+  {
+    "name": "OSCP",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://offsec.com",
+    "description": "Most recognized pentesting certification."
+  },
+
+  {
+    "name": "HackerOne",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "platforms",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://hackerone.com",
+    "description": "Largest bug bounty platform."
+  },
+  {
+    "name": "Bugcrowd",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "platforms",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://bugcrowd.com",
+    "description": "Bug bounty platform."
+  },
+  {
+    "name": "Intigriti",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "platforms",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://intigriti.com",
+    "description": "European bug bounty platform."
+  },
+  {
+    "name": "Burp Suite",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://portswigger.net/burp",
+    "description": "Most used bug bounty tool."
+  },
+  {
+    "name": "Subfinder",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/projectdiscovery/subfinder",
+    "description": "Subdomain discovery tool."
+  },
+  {
+    "name": "Amass",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/owasp-amass/amass",
+    "description": "Recon framework."
+  },
+  {
+    "name": "ProjectDiscovery Discord",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "communities",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://projectdiscovery.io",
+    "description": "Recon and bounty community."
+  },
+  {
+    "name": "Bug Bounty Hunters Discord",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "communities",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://discord.com",
+    "description": "Community for bug hunters."
+  }
+  ,
+{
+  "name": "Splunk",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "siem_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://splunk.com",
+  "description": "Popular SIEM platform used by enterprises."
+},
+{
+  "name": "IBM QRadar",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "siem_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://ibm.com/qradar",
+  "description": "Enterprise SIEM platform by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Microsoft Sentinel",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "siem_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com/services/microsoft-sentinel",
+  "description": "Cloud SIEM platform by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Elastic Security",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "siem_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://elastic.co/security",
+  "description": "Open-source SIEM platform."
+},
+{
+  "name": "Wazuh",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "monitoring_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://wazuh.com",
+  "description": "Open-source threat detection platform."
+},
+{
+  "name": "Security Onion",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://securityonionsolutions.com",
+  "description": "Network monitoring and threat hunting platform."
+},
+{
+  "name": "CrowdStrike Falcon",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "monitoring_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://crowdstrike.com",
+  "description": "EDR solution by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Blue Team Labs Online",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "labs",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://blueteamlabs.online",
+  "description": "Hands-on blue team labs."
+},
+{
+  "name": "TryHackMe SOC Level 1",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "labs",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://tryhackme.com",
+  "description": "SOC training labs."
+},
+{
+  "name": "CompTIA CySA+",
+  "field": "cybersecurity",
+  "subfield": "blue_team",
+  "category": "certifications",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://comptia.org",
+  "description": "Blue team certification by :contentReference[oaicite:3]{index=3}."
+},
+
+{
+  "name": "Splunk Enterprise Security",
+  "field": "cybersecurity",
+  "subfield": "soc",
+  "category": "siem_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://splunk.com",
+  "description": "SOC monitoring platform."
+},
+{
+  "name": "LogRhythm",
+  "field": "cybersecurity",
+  "subfield": "soc",
+  "category": "siem_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://logrhythm.com",
+  "description": "SOC SIEM platform."
+},
+{
+  "name": "Chronicle",
+  "field": "cybersecurity",
+  "subfield": "soc",
+  "category": "siem_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com/chronicle",
+  "description": "Cloud SIEM by :contentReference[oaicite:4]{index=4}."
+},
+{
+  "name": "Wireshark",
+  "field": "cybersecurity",
+  "subfield": "soc",
+  "category": "monitoring_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://wireshark.org",
+  "description": "Packet analysis tool."
+},
+{
+  "name": "Zeek",
+  "field": "cybersecurity",
+  "subfield": "soc",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://zeek.org",
+  "description": "Network monitoring framework."
+},
+{
+  "name": "TheHive",
+  "field": "cybersecurity",
+  "subfield": "soc",
+  "category": "incident_response_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://thehive-project.org",
+  "description": "Incident response platform."
+},
+{
+  "name": "Cortex",
+  "field": "cybersecurity",
+  "subfield": "soc",
+  "category": "incident_response_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://thehive-project.org",
+  "description": "Security automation platform."
+},
+{
+  "name": "PagerDuty",
+  "field": "cybersecurity",
+  "subfield": "soc",
+  "category": "incident_response_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://pagerduty.com",
+  "description": "Incident alerting platform."
+},
+
+{
+  "name": "Wireshark",
+  "field": "cybersecurity",
+  "subfield": "network_security",
+  "category": "network_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://wireshark.org",
+  "description": "Packet capture and analysis tool."
+},
+{
+  "name": "Nmap",
+  "field": "cybersecurity",
+  "subfield": "network_security",
+  "category": "network_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://nmap.org",
+  "description": "Network scanning tool."
+},
+{
+  "name": "pfSense",
+  "field": "cybersecurity",
+  "subfield": "network_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://pfsense.org",
+  "description": "Firewall platform."
+},
+{
+  "name": "Cisco Secure Firewall",
+  "field": "cybersecurity",
+  "subfield": "network_security",
+  "category": "security_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://cisco.com",
+  "description": "Enterprise firewall by :contentReference[oaicite:5]{index=5}."
+},
+{
+  "name": "Snort",
+  "field": "cybersecurity",
+  "subfield": "network_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://snort.org",
+  "description": "IDS/IPS solution."
+},
+{
+  "name": "CompTIA Network+",
+  "field": "cybersecurity",
+  "subfield": "network_security",
+  "category": "certifications",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://comptia.org",
+  "description": "Networking certification."
+},
+{
+  "name": "CCNA Security",
+  "field": "cybersecurity",
+  "subfield": "network_security",
+  "category": "certifications",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cisco.com",
+  "description": "Networking certification by :contentReference[oaicite:6]{index=6}."
+},
+{
+  "name": "Autopsy",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "forensics_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://autopsy.com",
+  "description": "Open-source digital forensic platform."
+},
+{
+  "name": "FTK Imager",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "forensics_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://accessdata.com",
+  "description": "Disk imaging forensic tool."
+},
+{
+  "name": "EnCase",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "forensics_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://opentext.com",
+  "description": "Enterprise digital forensic software."
+},
+{
+  "name": "Volatility",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "forensics_tools",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://volatilityfoundation.org",
+  "description": "Memory forensics framework."
+},
+{
+  "name": "Magnet AXIOM",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "forensics_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://magnetforensics.com",
+  "description": "Digital investigations platform."
+},
+{
+  "name": "GCFA",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "certifications",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://sans.org",
+  "description": "Forensics certification by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "CHFI",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "certifications",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://eccouncil.org",
+  "description": "Computer hacking forensic investigator certification."
+},
+{
+  "name": "Blue Team Labs",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "labs",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://blueteamlabs.online",
+  "description": "Forensics labs."
+},
+{
+  "name": "CyberDefenders",
+  "field": "cybersecurity",
+  "subfield": "digital_forensics",
+  "category": "labs",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://cyberdefenders.org",
+  "description": "DFIR labs platform."
+},
+
+{
+  "name": "IDA Pro",
+  "field": "cybersecurity",
+  "subfield": "malware_analysis",
+  "category": "analysis_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://hex-rays.com",
+  "description": "Advanced reverse engineering tool."
+},
+{
+  "name": "Ghidra",
+  "field": "cybersecurity",
+  "subfield": "malware_analysis",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://ghidra-sre.org",
+  "description": "Reverse engineering suite released by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "x64dbg",
+  "field": "cybersecurity",
+  "subfield": "malware_analysis",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://x64dbg.com",
+  "description": "Windows debugger."
+},
+{
+  "name": "dnSpy",
+  "field": "cybersecurity",
+  "subfield": "malware_analysis",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://github.com/dnSpy",
+  "description": ".NET reverse engineering tool."
+},
+{
+  "name": "VirusTotal",
+  "field": "cybersecurity",
+  "subfield": "malware_analysis",
+  "category": "analysis_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://virustotal.com",
+  "description": "Malware scanning platform by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Any.Run",
+  "field": "cybersecurity",
+  "subfield": "malware_analysis",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://any.run",
+  "description": "Interactive malware sandbox."
+},
+{
+  "name": "Malware Traffic Analysis",
+  "field": "cybersecurity",
+  "subfield": "malware_analysis",
+  "category": "labs",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://malware-traffic-analysis.net",
+  "description": "Malware analysis labs."
+},
+{
+  "name": "Malware Unicorn",
+  "field": "cybersecurity",
+  "subfield": "malware_analysis",
+  "category": "labs",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://malwareunicorn.org",
+  "description": "Malware reverse engineering labs."
+},
+
+{
+  "name": "Burp Suite",
+  "field": "cybersecurity",
+  "subfield": "application_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://portswigger.net/burp",
+  "description": "Application security testing tool."
+},
+{
+  "name": "OWASP ZAP",
+  "field": "cybersecurity",
+  "subfield": "application_security",
+  "category": "security_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://zaproxy.org",
+  "description": "Web application scanner."
+},
+{
+  "name": "Snyk",
+  "field": "cybersecurity",
+  "subfield": "application_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://snyk.io",
+  "description": "Developer security platform."
+},
+{
+  "name": "Checkmarx",
+  "field": "cybersecurity",
+  "subfield": "application_security",
+  "category": "security_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://checkmarx.com",
+  "description": "Application security testing platform."
+},
+{
+  "name": "SonarQube",
+  "field": "cybersecurity",
+  "subfield": "application_security",
+  "category": "testing_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://sonarqube.org",
+  "description": "Static code analysis platform."
+},
+{
+  "name": "Veracode",
+  "field": "cybersecurity",
+  "subfield": "application_security",
+  "category": "testing_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://veracode.com",
+  "description": "Application security testing platform."
+},
+{
+  "name": "Maltego",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://maltego.com",
+  "description": "OSINT investigation and link analysis platform."
+},
+{
+  "name": "Sherlock",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "description": "Find usernames across social media platforms."
+},
+{
+  "name": "theHarvester",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://github.com/laramies/theHarvester",
+  "description": "Email and domain reconnaissance tool."
+},
+{
+  "name": "SpiderFoot",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://spiderfoot.net",
+  "description": "Automated OSINT platform."
+},
+{
+  "name": "Shodan",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://shodan.io",
+  "description": "Search engine for internet-connected devices."
+},
+{
+  "name": "Censys",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://censys.io",
+  "description": "Internet asset discovery platform."
+},
+{
+  "name": "Google Dorking",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "platforms",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://google.com",
+  "description": "Advanced search techniques using :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "IntelX",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "platforms",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://intelx.io",
+  "description": "Deep web search platform."
+},
+{
+  "name": "Recon-ng",
+  "field": "cybersecurity",
+  "subfield": "osint",
+  "category": "tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://github.com/lanmaster53/recon-ng",
+  "description": "Full-featured reconnaissance framework."
+},
+
+{
+  "name": "AWS Security Hub",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/security-hub",
+  "description": "Cloud security management platform by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "AWS GuardDuty",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/guardduty",
+  "description": "Threat detection service for AWS."
+},
+{
+  "name": "Microsoft Defender for Cloud",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Cloud workload protection by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Prisma Cloud",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "security_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://paloaltonetworks.com/prisma/cloud",
+  "description": "Cloud security platform by :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "Wiz",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "security_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://wiz.io",
+  "description": "Cloud risk management platform."
+},
+{
+  "name": "AWS",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com",
+  "description": "Most popular cloud platform."
+},
+{
+  "name": "Google Cloud",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Cloud platform by :contentReference[oaicite:4]{index=4}."
+},
+{
+  "name": "Microsoft Azure",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Cloud platform by :contentReference[oaicite:5]{index=5}."
+},
+{
+  "name": "AWS Security Specialty",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "certifications",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/certification",
+  "description": "Advanced cloud security certification."
+},
+{
+  "name": "CCSP",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "certifications",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://isc2.org",
+  "description": "Cloud security certification by :contentReference[oaicite:6]{index=6}."
+},
+{
+  "name": "AWS Skill Builder",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "labs",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://skillbuilder.aws",
+  "description": "Hands-on AWS labs."
+},
+{
+  "name": "TryHackMe Cloud Security",
+  "field": "cybersecurity",
+  "subfield": "cloud_security",
+  "category": "labs",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://tryhackme.com",
+  "description": "Cloud security practice labs."
+}
+
+,
+{
+  "name": "Flipper Zero",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hacking_gadgets",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://flipperzero.one",
+  "description": "Multi-tool for RFID, NFC, IR, and hardware security testing."
+},
+{
+  "name": "USB Rubber Ducky",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hacking_gadgets",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://shop.hak5.org",
+  "description": "Keystroke injection device by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "LAN Turtle",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hacking_gadgets",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://shop.hak5.org",
+  "description": "Covert network implant tool."
+},
+{
+  "name": "Bash Bunny",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hacking_gadgets",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://shop.hak5.org",
+  "description": "USB attack platform by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Proxmark3",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hacking_gadgets",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://proxmark.com",
+  "description": "RFID research and penetration testing device."
+},
+
+{
+  "name": "WiFi Pineapple",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "wireless_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://shop.hak5.org",
+  "description": "Wireless auditing device by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "HackRF One",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "wireless_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://greatscottgadgets.com",
+  "description": "Software defined radio device."
+},
+{
+  "name": "Alfa WiFi Adapter",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "wireless_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://alfa.com.tw",
+  "description": "Popular WiFi pentesting adapter."
+},
+{
+  "name": "YARD Stick One",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "wireless_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://greatscottgadgets.com",
+  "description": "Wireless radio testing tool."
+},
+
+{
+  "name": "Raspberry Pi",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "iot_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://raspberrypi.org",
+  "description": "IoT security testing platform."
+},
+{
+  "name": "Arduino",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "iot_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://arduino.cc",
+  "description": "Embedded hardware testing board."
+},
+{
+  "name": "ESP32",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "iot_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://espressif.com",
+  "description": "IoT security research board."
+},
+{
+  "name": "NodeMCU",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "iot_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://nodemcu.com",
+  "description": "WiFi IoT development board."
+},
+{
+  "name": "DIY WiFi Deauther",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Intermediate",
+  "pricing": "Low Cost",
+  "url": "https://github.com/SpacehuhnTech/esp8266_deauther",
+  "description": "Build a WiFi testing device using ESP8266 for learning wireless security."
+},
+{
+  "name": "Raspberry Pi Honeypot",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Intermediate",
+  "pricing": "Low Cost",
+  "url": "https://raspberrypi.org",
+  "description": "Create a physical honeypot system for network defense experiments."
+},
+{
+  "name": "DIY RFID Cloner Lab",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Advanced",
+  "pricing": "Medium Cost",
+  "url": "https://proxmark.com",
+  "description": "Educational RFID testing lab for understanding access control security."
+},
+{
+  "name": "ESP32 WiFi Scanner",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Beginner",
+  "pricing": "Low Cost",
+  "url": "https://espressif.com",
+  "description": "Build a WiFi scanning project using ESP32."
+},
+{
+  "name": "DIY Packet Sniffer",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Intermediate",
+  "pricing": "Low Cost",
+  "url": "https://wireshark.org",
+  "description": "Hardware-based packet analysis learning project."
+},
+{
+  "name": "Raspberry Pi IDS Project",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Intermediate",
+  "pricing": "Medium Cost",
+  "url": "https://raspberrypi.org",
+  "description": "Build an intrusion detection system using Raspberry Pi."
+},
+{
+  "name": "DIY BadUSB Research Lab",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Advanced",
+  "pricing": "Medium Cost",
+  "url": "https://shop.hak5.org",
+  "description": "Learn USB attack research in controlled environments."
+},
+{
+  "name": "DIY SDR Lab",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Advanced",
+  "pricing": "High Cost",
+  "url": "https://greatscottgadgets.com",
+  "description": "Build a radio testing lab using SDR tools."
+},
+{
+  "name": "IoT Security Testing Lab",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Intermediate",
+  "pricing": "Medium Cost",
+  "url": "https://arduino.cc",
+  "description": "Build an IoT lab for embedded security testing."
+},
+{
+  "name": "Smart Lock Security Research Project",
+  "field": "cybersecurity",
+  "subfield": "hardware_hacking",
+  "category": "hardware_projects",
+  "level": "Advanced",
+  "pricing": "Medium Cost",
+  "url": "https://raspberrypi.org",
+  "description": "Learn smart device security through ethical testing."
+}
+]

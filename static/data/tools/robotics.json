@@ -1,0 +1,287 @@
+[
+  {
+    "name": "SolidWorks",
+    "field": "robotics",
+    "subfield": "robot_design",
+    "category": "robotics_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://solidworks.com",
+    "description": "Popular robot design platform."
+  },
+  {
+    "name": "Fusion 360",
+    "field": "robotics",
+    "subfield": "robot_design",
+    "category": "robotics_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://autodesk.com",
+    "description": "Beginner robotics design tool."
+  },
+  {
+    "name": "Gazebo",
+    "field": "robotics",
+    "subfield": "robot_design",
+    "category": "robotics_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://gazebosim.org",
+    "description": "Robot simulation platform."
+  },
+  {
+    "name": "ROS",
+    "field": "robotics",
+    "subfield": "robot_design",
+    "category": "robotics_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://ros.org",
+    "description": "Most popular robotics framework."
+  },
+
+  {
+    "name": "AutoCAD",
+    "field": "robotics",
+    "subfield": "robot_design",
+    "category": "cad_software",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "CAD design software."
+  },
+  {
+    "name": "CATIA",
+    "field": "robotics",
+    "subfield": "robot_design",
+    "category": "cad_software",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://3ds.com",
+    "description": "Advanced robotics CAD design."
+  },
+  {
+    "name": "SolidWorks CAD",
+    "field": "robotics",
+    "subfield": "robot_design",
+    "category": "cad_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://solidworks.com",
+    "description": "Mechanical robot design software."
+  },
+
+  {
+    "name": "Python",
+    "field": "robotics",
+    "subfield": "robot_programming",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://python.org",
+    "description": "Most used robotics programming language."
+  },
+  {
+    "name": "C++",
+    "field": "robotics",
+    "subfield": "robot_programming",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://cplusplus.com",
+    "description": "Core robotics programming language."
+  },
+  {
+    "name": "MATLAB",
+    "field": "robotics",
+    "subfield": "robot_programming",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://mathworks.com",
+    "description": "Used in robotics simulations."
+  },
+
+  {
+    "name": "ROS",
+    "field": "robotics",
+    "subfield": "robot_programming",
+    "category": "robotics_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://ros.org",
+    "description": "Most popular robotics framework."
+  },
+  {
+    "name": "OpenCV",
+    "field": "robotics",
+    "subfield": "robot_programming",
+    "category": "robotics_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://opencv.org",
+    "description": "Computer vision for robotics."
+  },
+  {
+    "name": "Gazebo",
+    "field": "robotics",
+    "subfield": "robot_programming",
+    "category": "robotics_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://gazebosim.org",
+    "description": "Robot simulation platform."
+  },
+{
+  "name": "ABB Robots",
+  "field": "robotics",
+  "subfield": "industrial_robotics",
+  "category": "hardware",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://abb.com",
+  "description": "Most used industrial robotic hardware."
+},
+{
+  "name": "Fanuc Robots",
+  "field": "robotics",
+  "subfield": "industrial_robotics",
+  "category": "hardware",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://fanuc.com",
+  "description": "Industrial manufacturing robots."
+},
+{
+  "name": "KUKA Robots",
+  "field": "robotics",
+  "subfield": "industrial_robotics",
+  "category": "hardware",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://kuka.com",
+  "description": "Advanced industrial robots."
+},
+{
+  "name": "PLC Systems",
+  "field": "robotics",
+  "subfield": "industrial_robotics",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://siemens.com",
+  "description": "Industrial automation systems."
+},
+{
+  "name": "SCADA Systems",
+  "field": "robotics",
+  "subfield": "industrial_robotics",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://siemens.com",
+  "description": "Robot monitoring systems."
+},
+
+{
+  "name": "TensorFlow",
+  "field": "robotics",
+  "subfield": "ai_robotics",
+  "category": "ai_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://tensorflow.org",
+  "description": "AI framework for robotics."
+},
+{
+  "name": "PyTorch",
+  "field": "robotics",
+  "subfield": "ai_robotics",
+  "category": "ai_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://pytorch.org",
+  "description": "Deep learning for robotics."
+},
+{
+  "name": "OpenCV",
+  "field": "robotics",
+  "subfield": "ai_robotics",
+  "category": "ai_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://opencv.org",
+  "description": "Vision AI for robots."
+},
+{
+  "name": "NVIDIA Jetson",
+  "field": "robotics",
+  "subfield": "ai_robotics",
+  "category": "robotics_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://nvidia.com",
+  "description": "AI robotics hardware by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "ROS AI Packages",
+  "field": "robotics",
+  "subfield": "ai_robotics",
+  "category": "robotics_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://ros.org",
+  "description": "AI robotics framework tools."
+},
+
+{
+  "name": "PLC Systems",
+  "field": "robotics",
+  "subfield": "robot_automation",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://siemens.com",
+  "description": "Most used automation platform."
+},
+{
+  "name": "SCADA Systems",
+  "field": "robotics",
+  "subfield": "robot_automation",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://siemens.com",
+  "description": "Automation monitoring tools."
+},
+{
+  "name": "UiPath",
+  "field": "robotics",
+  "subfield": "robot_automation",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://uipath.com",
+  "description": "Automation platform."
+},
+{
+  "name": "Arduino",
+  "field": "robotics",
+  "subfield": "robot_automation",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://arduino.cc",
+  "description": "Automation hardware board."
+},
+{
+  "name": "Raspberry Pi",
+  "field": "robotics",
+  "subfield": "robot_automation",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://raspberrypi.org",
+  "description": "Automation prototyping board."
+}
+]

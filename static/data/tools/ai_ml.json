@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Python",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://python.org",
+    "description": "Most used language for machine learning."
+  },
+  {
+    "name": "R",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://r-project.org",
+    "description": "Statistical computing language."
+  },
+  {
+    "name": "Julia",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://julialang.org",
+    "description": "High-performance ML language."
+  },
+  {
+    "name": "Scikit-learn",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://scikit-learn.org",
+    "description": "Popular ML framework."
+  },
+  {
+    "name": "TensorFlow",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://tensorflow.org",
+    "description": "ML framework by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "XGBoost",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://xgboost.ai",
+    "description": "Gradient boosting framework."
+  },
+  {
+    "name": "Kaggle Datasets",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "datasets",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://kaggle.com/datasets",
+    "description": "Dataset platform by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "UCI ML Repository",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "datasets",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://archive.ics.uci.edu",
+    "description": "Popular ML dataset repository."
+  },
+  {
+    "name": "AWS SageMaker",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "deployment",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://aws.amazon.com/sagemaker",
+    "description": "ML deployment platform by :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "name": "Google Vertex AI",
+    "field": "ai_ml",
+    "subfield": "machine_learning",
+    "category": "deployment",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com/vertex-ai",
+    "description": "ML deployment platform by :contentReference[oaicite:3]{index=3}."
+  },
+
+  {
+    "name": "PyTorch",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://pytorch.org",
+    "description": "Most popular deep learning framework."
+  },
+  {
+    "name": "TensorFlow",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://tensorflow.org",
+    "description": "Deep learning framework by :contentReference[oaicite:4]{index=4}."
+  },
+  {
+    "name": "Keras",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://keras.io",
+    "description": "High-level deep learning API."
+  },
+  {
+    "name": "JAX",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "frameworks",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://jax.readthedocs.io",
+    "description": "High-performance ML framework."
+  },
+  {
+    "name": "CUDA",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "gpu_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.nvidia.com/cuda",
+    "description": "GPU acceleration platform by :contentReference[oaicite:5]{index=5}."
+  },
+  {
+    "name": "cuDNN",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "gpu_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.nvidia.com/cudnn",
+    "description": "Deep learning GPU library."
+  },
+  {
+    "name": "Tensor Processing Unit",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "gpu_tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://cloud.google.com/tpu",
+    "description": "AI hardware by :contentReference[oaicite:6]{index=6}."
+  },
+  {
+    "name": "ImageNet",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "datasets",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://image-net.org",
+    "description": "Popular image dataset."
+  },
+  {
+    "name": "MNIST",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "datasets",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "http://yann.lecun.com/exdb/mnist/",
+    "description": "Handwritten digit dataset."
+  },
+  {
+    "name": "CIFAR-10",
+    "field": "ai_ml",
+    "subfield": "deep_learning",
+    "category": "datasets",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://cs.toronto.edu/~kriz/cifar.html",
+    "description": "Image classification dataset."
+  },
+{
+  "name": "Hugging Face Transformers",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://huggingface.co",
+  "description": "Most popular NLP framework."
+},
+{
+  "name": "spaCy",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://spacy.io",
+  "description": "Industrial NLP framework."
+},
+{
+  "name": "NLTK",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://nltk.org",
+  "description": "Classic NLP library."
+},
+{
+  "name": "OpenAI API",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "apis",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://openai.com",
+  "description": "LLM API by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Google Gemini API",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "apis",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://ai.google.dev",
+  "description": "AI API by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Cohere API",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "apis",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cohere.com",
+  "description": "NLP API platform."
+},
+{
+  "name": "Common Crawl",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "datasets",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://commoncrawl.org",
+  "description": "Large web dataset."
+},
+{
+  "name": "WikiText",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "datasets",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://huggingface.co/datasets",
+  "description": "Wikipedia NLP dataset."
+},
+{
+  "name": "SQuAD",
+  "field": "ai_ml",
+  "subfield": "nlp",
+  "category": "datasets",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://rajpurkar.github.io/SQuAD-explorer/",
+  "description": "Question answering dataset."
+},
+
+{
+  "name": "OpenCV",
+  "field": "ai_ml",
+  "subfield": "computer_vision",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://opencv.org",
+  "description": "Most popular computer vision library."
+},
+{
+  "name": "YOLO",
+  "field": "ai_ml",
+  "subfield": "computer_vision",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://ultralytics.com",
+  "description": "Real-time object detection framework."
+},
+{
+  "name": "Detectron2",
+  "field": "ai_ml",
+  "subfield": "computer_vision",
+  "category": "frameworks",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://github.com/facebookresearch/detectron2",
+  "description": "Vision framework by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "COCO Dataset",
+  "field": "ai_ml",
+  "subfield": "computer_vision",
+  "category": "datasets",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://cocodataset.org",
+  "description": "Object detection dataset."
+},
+{
+  "name": "ImageNet",
+  "field": "ai_ml",
+  "subfield": "computer_vision",
+  "category": "datasets",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://image-net.org",
+  "description": "Large image dataset."
+},
+{
+  "name": "Open Images Dataset",
+  "field": "ai_ml",
+  "subfield": "computer_vision",
+  "category": "datasets",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://storage.googleapis.com/openimages/web/index.html",
+  "description": "Dataset by :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "NVIDIA RTX GPUs",
+  "field": "ai_ml",
+  "subfield": "computer_vision",
+  "category": "hardware",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://nvidia.com",
+  "description": "Popular GPUs for CV training."
+},
+{
+  "name": "Google TPUs",
+  "field": "ai_ml",
+  "subfield": "computer_vision",
+  "category": "hardware",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com/tpu",
+  "description": "AI accelerators by :contentReference[oaicite:4]{index=4}."
+},
+{
+  "name": "ChatGPT",
+  "field": "ai_ml",
+  "subfield": "prompt_engineering",
+  "category": "ai_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://chatgpt.com",
+  "description": "Popular AI assistant by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Claude",
+  "field": "ai_ml",
+  "subfield": "prompt_engineering",
+  "category": "ai_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://claude.ai",
+  "description": "AI assistant by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Google Gemini",
+  "field": "ai_ml",
+  "subfield": "prompt_engineering",
+  "category": "ai_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://gemini.google.com",
+  "description": "AI model by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "PromptHero",
+  "field": "ai_ml",
+  "subfield": "prompt_engineering",
+  "category": "communities",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://prompthero.com",
+  "description": "Prompt sharing community."
+},
+{
+  "name": "Learn Prompting",
+  "field": "ai_ml",
+  "subfield": "prompt_engineering",
+  "category": "courses",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://learnprompting.org",
+  "description": "Free prompt engineering course."
+},
+{
+  "name": "DeepLearning.AI Prompt Engineering Course",
+  "field": "ai_ml",
+  "subfield": "prompt_engineering",
+  "category": "courses",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://deeplearning.ai",
+  "description": "Popular prompt engineering course."
+},
+
+{
+  "name": "MLflow",
+  "field": "ai_ml",
+  "subfield": "mlops",
+  "category": "deployment",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://mlflow.org",
+  "description": "Most popular MLOps platform."
+},
+{
+  "name": "Kubeflow",
+  "field": "ai_ml",
+  "subfield": "mlops",
+  "category": "deployment",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://kubeflow.org",
+  "description": "Kubernetes ML workflows."
+},
+{
+  "name": "Amazon SageMaker",
+  "field": "ai_ml",
+  "subfield": "mlops",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/sagemaker",
+  "description": "MLOps platform by :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "Google Vertex AI",
+  "field": "ai_ml",
+  "subfield": "mlops",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com/vertex-ai",
+  "description": "MLOps platform by :contentReference[oaicite:4]{index=4}."
+},
+{
+  "name": "Azure ML",
+  "field": "ai_ml",
+  "subfield": "mlops",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "ML platform by :contentReference[oaicite:5]{index=5}."
+},
+{
+  "name": "WhyLabs",
+  "field": "ai_ml",
+  "subfield": "mlops",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://whylabs.ai",
+  "description": "ML monitoring platform."
+},
+{
+  "name": "Evidently AI",
+  "field": "ai_ml",
+  "subfield": "mlops",
+  "category": "monitoring_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://evidentlyai.com",
+  "description": "ML model monitoring."
+},
+
+{
+  "name": "LangChain",
+  "field": "ai_ml",
+  "subfield": "generative_ai",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://langchain.com",
+  "description": "Most popular LLM framework."
+},
+{
+  "name": "LlamaIndex",
+  "field": "ai_ml",
+  "subfield": "generative_ai",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://llamaindex.ai",
+  "description": "RAG framework."
+},
+{
+  "name": "Hugging Face Transformers",
+  "field": "ai_ml",
+  "subfield": "generative_ai",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://huggingface.co",
+  "description": "Open-source model ecosystem."
+},
+{
+  "name": "OpenAI API",
+  "field": "ai_ml",
+  "subfield": "generative_ai",
+  "category": "apis",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://openai.com",
+  "description": "LLM API by :contentReference[oaicite:6]{index=6}."
+},
+{
+  "name": "Anthropic API",
+  "field": "ai_ml",
+  "subfield": "generative_ai",
+  "category": "apis",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://anthropic.com",
+  "description": "LLM API by :contentReference[oaicite:7]{index=7}."
+},
+{
+  "name": "Google Gemini API",
+  "field": "ai_ml",
+  "subfield": "generative_ai",
+  "category": "apis",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://ai.google.dev",
+  "description": "LLM API by :contentReference[oaicite:8]{index=8}."
+},
+{
+  "name": "Midjourney",
+  "field": "ai_ml",
+  "subfield": "generative_ai",
+  "category": "ai_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://midjourney.com",
+  "description": "AI image generation platform."
+},
+{
+  "name": "Runway ML",
+  "field": "ai_ml",
+  "subfield": "generative_ai",
+  "category": "ai_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://runwayml.com",
+  "description": "AI video generation platform."
+}
+]

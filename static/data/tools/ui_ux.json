@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Figma",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "design_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://figma.com",
+    "description": "Most popular UI design platform."
+  },
+  {
+    "name": "Adobe XD",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "design_tools",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://adobe.com",
+    "description": "UI design tool by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "Sketch",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "design_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://sketch.com",
+    "description": "Mac-focused UI design platform."
+  },
+  {
+    "name": "Canva",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "design_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://canva.com",
+    "description": "Simple visual design tool."
+  },
+  {
+    "name": "Dribbble",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "inspiration",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://dribbble.com",
+    "description": "Most popular design inspiration platform."
+  },
+  {
+    "name": "Behance",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "inspiration",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://behance.net",
+    "description": "Creative showcase platform by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "Mobbin",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "inspiration",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://mobbin.com",
+    "description": "UI inspiration platform."
+  },
+  {
+    "name": "Figma Community",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "communities",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://figma.com/community",
+    "description": "Design templates and community."
+  },
+  {
+    "name": "Designer Hangout",
+    "field": "ui_ux",
+    "subfield": "ui_design",
+    "category": "communities",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://designerhangout.co",
+    "description": "UX/UI design community."
+  },
+
+  {
+    "name": "Maze",
+    "field": "ui_ux",
+    "subfield": "ux_research",
+    "category": "research_tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://maze.co",
+    "description": "UX research and testing platform."
+  },
+  {
+    "name": "Hotjar",
+    "field": "ui_ux",
+    "subfield": "ux_research",
+    "category": "research_tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://hotjar.com",
+    "description": "User behavior tracking platform."
+  },
+  {
+    "name": "Google Forms",
+    "field": "ui_ux",
+    "subfield": "ux_research",
+    "category": "research_tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://forms.google.com",
+    "description": "Survey collection tool by :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "name": "Typeform",
+    "field": "ui_ux",
+    "subfield": "ux_research",
+    "category": "research_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://typeform.com",
+    "description": "Survey and research platform."
+  },
+  {
+    "name": "UserTesting",
+    "field": "ui_ux",
+    "subfield": "ux_research",
+    "category": "testing_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://usertesting.com",
+    "description": "User testing platform."
+  },
+  {
+    "name": "Lookback",
+    "field": "ui_ux",
+    "subfield": "ux_research",
+    "category": "testing_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://lookback.io",
+    "description": "Remote user interviews/testing."
+  },
+  {
+    "name": "Optimal Workshop",
+    "field": "ui_ux",
+    "subfield": "ux_research",
+    "category": "testing_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://optimalworkshop.com",
+    "description": "Research testing platform."
+  },
+{
+  "name": "Figma Wireframes",
+  "field": "ui_ux",
+  "subfield": "wireframing",
+  "category": "design_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://figma.com",
+  "description": "Most popular wireframing tool."
+},
+{
+  "name": "Balsamiq",
+  "field": "ui_ux",
+  "subfield": "wireframing",
+  "category": "design_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://balsamiq.com",
+  "description": "Low-fidelity wireframing platform."
+},
+{
+  "name": "Whimsical",
+  "field": "ui_ux",
+  "subfield": "wireframing",
+  "category": "design_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://whimsical.com",
+  "description": "Wireframes + flowcharts tool."
+},
+{
+  "name": "Miro",
+  "field": "ui_ux",
+  "subfield": "wireframing",
+  "category": "design_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://miro.com",
+  "description": "Collaborative wireframing board."
+},
+{
+  "name": "Figma Wireframe Kits",
+  "field": "ui_ux",
+  "subfield": "wireframing",
+  "category": "templates",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://figma.com/community",
+  "description": "Pre-built wireframe templates."
+},
+{
+  "name": "UI8 Templates",
+  "field": "ui_ux",
+  "subfield": "wireframing",
+  "category": "templates",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://ui8.net",
+  "description": "Premium design templates."
+},
+
+{
+  "name": "Figma Prototyping",
+  "field": "ui_ux",
+  "subfield": "prototyping",
+  "category": "design_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://figma.com",
+  "description": "Most used prototyping tool."
+},
+{
+  "name": "Adobe XD",
+  "field": "ui_ux",
+  "subfield": "prototyping",
+  "category": "design_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://adobe.com",
+  "description": "Interactive prototyping by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "ProtoPie",
+  "field": "ui_ux",
+  "subfield": "prototyping",
+  "category": "design_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://protopie.io",
+  "description": "Advanced interaction prototyping."
+},
+{
+  "name": "Framer",
+  "field": "ui_ux",
+  "subfield": "prototyping",
+  "category": "design_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://framer.com",
+  "description": "Interactive design platform."
+},
+{
+  "name": "Maze",
+  "field": "ui_ux",
+  "subfield": "prototyping",
+  "category": "testing_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://maze.co",
+  "description": "Prototype testing platform."
+},
+{
+  "name": "UserTesting",
+  "field": "ui_ux",
+  "subfield": "prototyping",
+  "category": "testing_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://usertesting.com",
+  "description": "Prototype usability testing."
+},
+
+{
+  "name": "Figma Design Systems",
+  "field": "ui_ux",
+  "subfield": "design_systems",
+  "category": "design_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://figma.com",
+  "description": "Most used design system platform."
+},
+{
+  "name": "Storybook",
+  "field": "ui_ux",
+  "subfield": "design_systems",
+  "category": "design_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://storybook.js.org",
+  "description": "Frontend design system tool."
+},
+{
+  "name": "Zeroheight",
+  "field": "ui_ux",
+  "subfield": "design_systems",
+  "category": "documentation",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://zeroheight.com",
+  "description": "Design system documentation platform."
+},
+{
+  "name": "Notion",
+  "field": "ui_ux",
+  "subfield": "design_systems",
+  "category": "documentation",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://notion.so",
+  "description": "Simple design documentation tool."
+}
+]

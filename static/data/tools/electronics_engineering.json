@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Raspberry Pi",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "hardware",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://raspberrypi.org",
+    "description": "Most popular embedded development board."
+  },
+  {
+    "name": "Arduino",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "hardware",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://arduino.cc",
+    "description": "Beginner embedded hardware platform."
+  },
+  {
+    "name": "ESP32",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "hardware",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://espressif.com",
+    "description": "WiFi/Bluetooth embedded board."
+  },
+  {
+    "name": "STM32 Boards",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "hardware",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://st.com",
+    "description": "Professional embedded hardware."
+  },
+
+  {
+    "name": "Keil uVision",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://keil.com",
+    "description": "Embedded development IDE."
+  },
+  {
+    "name": "PlatformIO",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "software",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://platformio.org",
+    "description": "Embedded development platform."
+  },
+  {
+    "name": "Arduino IDE",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "software",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://arduino.cc",
+    "description": "Beginner embedded IDE."
+  },
+
+  {
+    "name": "Arduino Uno",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "microcontrollers",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://arduino.cc",
+    "description": "Popular microcontroller board."
+  },
+  {
+    "name": "STM32",
+    "field": "electronics_engineering",
+    "subfield": "embedded_systems",
+    "category": "microcontrollers",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://st.com",
+    "description": "Advanced MCU platform."
+  },
+
+  {
+    "name": "Arduino",
+    "field": "electronics_engineering",
+    "subfield": "microcontrollers",
+    "category": "hardware",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://arduino.cc",
+    "description": "Most beginner friendly microcontroller board."
+  },
+  {
+    "name": "ESP8266",
+    "field": "electronics_engineering",
+    "subfield": "microcontrollers",
+    "category": "hardware",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://espressif.com",
+    "description": "Low-cost IoT microcontroller."
+  },
+  {
+    "name": "ESP32",
+    "field": "electronics_engineering",
+    "subfield": "microcontrollers",
+    "category": "hardware",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://espressif.com",
+    "description": "WiFi-enabled microcontroller."
+  },
+  {
+    "name": "STM32",
+    "field": "electronics_engineering",
+    "subfield": "microcontrollers",
+    "category": "hardware",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://st.com",
+    "description": "Professional MCU board."
+  },
+
+  {
+    "name": "Arduino IDE",
+    "field": "electronics_engineering",
+    "subfield": "microcontrollers",
+    "category": "software",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://arduino.cc",
+    "description": "Most popular beginner IDE."
+  },
+  {
+    "name": "Keil uVision",
+    "field": "electronics_engineering",
+    "subfield": "microcontrollers",
+    "category": "software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://keil.com",
+    "description": "Professional MCU development IDE."
+  },
+  {
+    "name": "MPLAB X",
+    "field": "electronics_engineering",
+    "subfield": "microcontrollers",
+    "category": "software",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://microchip.com",
+    "description": "Microcontroller development IDE."
+  },
+{
+  "name": "C",
+  "field": "electronics_engineering",
+  "subfield": "firmware_development",
+  "category": "languages",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://cplusplus.com",
+  "description": "Most important firmware programming language."
+},
+{
+  "name": "C++",
+  "field": "electronics_engineering",
+  "subfield": "firmware_development",
+  "category": "languages",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://cplusplus.com",
+  "description": "Used in advanced embedded systems."
+},
+{
+  "name": "Rust",
+  "field": "electronics_engineering",
+  "subfield": "firmware_development",
+  "category": "languages",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://rust-lang.org",
+  "description": "Modern firmware language."
+},
+{
+  "name": "GDB",
+  "field": "electronics_engineering",
+  "subfield": "firmware_development",
+  "category": "debugging_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://gnu.org/software/gdb",
+  "description": "Firmware debugging tool."
+},
+{
+  "name": "JTAG Debugger",
+  "field": "electronics_engineering",
+  "subfield": "firmware_development",
+  "category": "debugging_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://segger.com",
+  "description": "Hardware debugging tool."
+},
+{
+  "name": "OpenOCD",
+  "field": "electronics_engineering",
+  "subfield": "firmware_development",
+  "category": "debugging_tools",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://openocd.org",
+  "description": "On-chip debugging tool."
+},
+
+{
+  "name": "KiCad",
+  "field": "electronics_engineering",
+  "subfield": "pcb_design",
+  "category": "design_software",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://kicad.org",
+  "description": "Most popular free PCB design software."
+},
+{
+  "name": "Altium Designer",
+  "field": "electronics_engineering",
+  "subfield": "pcb_design",
+  "category": "design_software",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://altium.com",
+  "description": "Professional PCB design platform."
+},
+{
+  "name": "Eagle PCB",
+  "field": "electronics_engineering",
+  "subfield": "pcb_design",
+  "category": "design_software",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://autodesk.com",
+  "description": "PCB design software by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "EasyEDA",
+  "field": "electronics_engineering",
+  "subfield": "pcb_design",
+  "category": "design_software",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://easyeda.com",
+  "description": "Browser-based PCB design tool."
+},
+
+{
+  "name": "Soldering Kit",
+  "field": "electronics_engineering",
+  "subfield": "pcb_design",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://amazon.com",
+  "description": "Essential PCB hardware tool."
+},
+{
+  "name": "Oscilloscope",
+  "field": "electronics_engineering",
+  "subfield": "pcb_design",
+  "category": "hardware",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://rigol.com",
+  "description": "Circuit testing hardware."
+},
+{
+  "name": "Multimeter",
+  "field": "electronics_engineering",
+  "subfield": "pcb_design",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://fluke.com",
+  "description": "Circuit measurement hardware."
+},
+{
+  "name": "Cadence Virtuoso",
+  "field": "electronics_engineering",
+  "subfield": "vlsi",
+  "category": "design_software",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://cadence.com",
+  "description": "Most used VLSI design software."
+},
+{
+  "name": "Synopsys",
+  "field": "electronics_engineering",
+  "subfield": "vlsi",
+  "category": "design_software",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://synopsys.com",
+  "description": "Professional chip design platform."
+},
+{
+  "name": "Mentor Graphics",
+  "field": "electronics_engineering",
+  "subfield": "vlsi",
+  "category": "design_software",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://siemens.com",
+  "description": "Chip verification platform by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Xilinx Vivado",
+  "field": "electronics_engineering",
+  "subfield": "vlsi",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://amd.com",
+  "description": "FPGA simulation platform."
+},
+{
+  "name": "ModelSim",
+  "field": "electronics_engineering",
+  "subfield": "vlsi",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://intel.com",
+  "description": "HDL simulation software."
+},
+{
+  "name": "Quartus Prime",
+  "field": "electronics_engineering",
+  "subfield": "vlsi",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://intel.com",
+  "description": "FPGA development suite."
+},
+
+{
+  "name": "ESP32",
+  "field": "electronics_engineering",
+  "subfield": "iot_systems",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://espressif.com",
+  "description": "Most popular IoT development board."
+},
+{
+  "name": "Raspberry Pi",
+  "field": "electronics_engineering",
+  "subfield": "iot_systems",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://raspberrypi.org",
+  "description": "IoT prototyping board."
+},
+{
+  "name": "Arduino IoT",
+  "field": "electronics_engineering",
+  "subfield": "iot_systems",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://arduino.cc",
+  "description": "IoT hardware ecosystem."
+},
+{
+  "name": "AWS IoT Core",
+  "field": "electronics_engineering",
+  "subfield": "iot_systems",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/iot-core",
+  "description": "IoT cloud platform by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Azure IoT Hub",
+  "field": "electronics_engineering",
+  "subfield": "iot_systems",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "IoT platform by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Google Cloud IoT",
+  "field": "electronics_engineering",
+  "subfield": "iot_systems",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "IoT cloud platform by :contentReference[oaicite:3]{index=3}."
+}
+]

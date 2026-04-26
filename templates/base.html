@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Meta -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>
+        {% block title %}StackVerse{% endblock %}
+    </title>
+
+    <meta
+        name="description"
+        content="Discover best tools, platforms and resources for every career path"
+    >
+
+    <meta
+        name="keywords"
+        content="career tools, stackverse, development tools, cybersecurity tools"
+    >
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <!-- Font Awesome -->
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    >
+
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/components.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/animations.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/contact.css') }}">
+
+</head>
+
+<body>
+
+    <!-- =========================================
+        ANIMATED BACKGROUND
+    ========================================== -->
+    <div class="animated-bg">
+        <div class="gradient-orb orb-1"></div>
+        <div class="gradient-orb orb-2"></div>
+        <div class="gradient-orb orb-3"></div>
+    </div>
+
+
+    <!-- =========================================
+        NAVBAR
+    ========================================== -->
+    <nav class="navbar">
+
+        <div class="container navbar-container">
+
+            <!-- Desktop Links -->
+            <div class="nav-left">
+
+                <a
+                    href="https://hasnain-ali.pages.dev"
+                    target="_blank"
+                    class="nav-link"
+                >
+                    Portfolio
+                </a>
+
+                <a
+                    href="#contact"
+                    class="nav-link"
+                >
+                    Contact
+                </a>
+
+            </div>
+
+
+            <!-- Logo -->
+            <div class="nav-logo-wrapper">
+
+                <a href="/" class="logo">
+                    <i class="fa-solid fa-layer-group"></i>
+                    <span>StackVerse</span>
+                </a>
+
+            </div>
+
+
+            <!-- Mobile Menu Button -->
+            <div class="nav-right">
+
+                <button
+                    id="mobileMenuBtn"
+                    class="mobile-menu-btn"
+                    aria-label="Open Menu"
+                >
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+
+            </div>
+
+        </div>
+
+    </nav>
+
+
+    <!-- =========================================
+        MOBILE MENU
+    ========================================== -->
+   <!-- =========================================
+    MOBILE MENU
+========================================== -->
+<div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
+
+<div class="mobile-menu" id="mobileMenu">
+
+    <!-- Header -->
+    <div class="mobile-menu-header">
+
+        <a href="/" class="logo">
+            <i class="fa-solid fa-layer-group"></i>
+            <span>StackVerse</span>
+        </a>
+
+        <button
+            id="mobileMenuClose"
+            class="mobile-menu-close"
+            aria-label="Close Menu"
+        >
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+
+    </div>
+
+
+    <!-- Links -->
+    <div class="mobile-menu-links">
+
+        <a
+            href="https://hasnain-ali.pages.dev"
+            target="_blank"
+        >
+            <i class="fa-solid fa-user"></i>
+            <span>Portfolio</span>
+        </a>
+
+        <a href="#contact">
+            <i class="fa-solid fa-envelope"></i>
+            <span>Contact</span>
+        </a>
+
+    </div>
+
+</div>
+
+
+    <!-- =========================================
+        MAIN CONTENT
+    ========================================== -->
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+
+
+    <!-- =========================================
+        FOOTER
+    ========================================== -->
+    <footer class="footer">
+
+        <div class="container footer-container">
+
+            <!-- Brand -->
+            <div class="footer-brand">
+
+                <h3>
+                    <i class="fa-solid fa-layer-group"></i>
+                    StackVerse
+                </h3>
+
+                <p>
+                    Discover the best tools,
+                    platforms, resources and
+                    ecosystems for every career field.
+                </p>
+
+            </div>
+
+
+            <!-- Footer Links -->
+            <div class="footer-links">
+
+                <a href="/">Home</a>
+                <a href="#contact">Contact</a>
+
+                <a
+                    href="https://hasnain-ali.pages.dev"
+                    target="_blank"
+                >
+                    Portfolio
+                </a>
+
+            </div>
+
+
+            <!-- Social Links -->
+            <div class="footer-social">
+
+                <a
+                    href="https://github.com/hasnain-ali-magwa"
+                    target="_blank"
+                    aria-label="GitHub"
+                >
+                    <i class="fa-brands fa-github"></i>
+                </a>
+
+                <a
+                    href="https://www.linkedin.com/in/hasnain-ali-magwa-908309319"
+                    target="_blank"
+                    aria-label="LinkedIn"
+                >
+                    <i class="fa-brands fa-linkedin"></i>
+                </a>
+
+                <a
+                    href="https://discord.com/users/hasnain_alii"
+                    target="_blank"
+                    aria-label="Discord"
+                >
+                    <i class="fa-brands fa-discord"></i>
+                </a>
+
+                <a
+                    href="https://www.instagram.com/hasnain_ali_magwa/"
+                    target="_blank"
+                    aria-label="Instagram"
+                >
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- Bottom -->
+        <div class="footer-bottom">
+
+            <p>
+                © 2026 StackVerse • Built by Hasnain Ali Magwa
+            </p>
+
+        </div>
+
+    </footer>
+
+
+    <!-- JS Files -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/field-selector.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/accordion.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/animations.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/contact.js') }}"></script>
+
+</body>
+</html>

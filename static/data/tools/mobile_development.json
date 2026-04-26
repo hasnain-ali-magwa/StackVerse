@@ -1,0 +1,676 @@
+[
+  {
+    "name": "Java",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://java.com",
+    "description": "Traditional Android development language."
+  },
+  {
+    "name": "Kotlin",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://kotlinlang.org",
+    "description": "Official Android development language."
+  },
+  {
+    "name": "Java XML",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://developer.android.com",
+    "description": "Used for Android UI layouts."
+  },
+  {
+    "name": "Jetpack Compose",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.android.com/jetpack/compose",
+    "description": "Modern Android UI toolkit by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "Android Jetpack",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.android.com/jetpack",
+    "description": "Android architecture components."
+  },
+  {
+    "name": "Firebase",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://firebase.google.com",
+    "description": "Backend services for Android apps."
+  },
+  {
+    "name": "Android Studio",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "ides",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://developer.android.com/studio",
+    "description": "Official Android IDE by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "ides",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://jetbrains.com/idea",
+    "description": "IDE by :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "name": "Visual Studio Code",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "ides",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://code.visualstudio.com",
+    "description": "Useful for hybrid mobile development."
+  },
+  {
+    "name": "Google Play Console",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "deployment",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://play.google.com/console",
+    "description": "Publish Android apps on :contentReference[oaicite:3]{index=3}."
+  },
+  {
+    "name": "Firebase App Distribution",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "deployment",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://firebase.google.com",
+    "description": "Distribute beta Android apps."
+  },
+  {
+    "name": "Gradle",
+    "field": "mobile_development",
+    "subfield": "android",
+    "category": "deployment",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://gradle.org",
+    "description": "Android build automation tool."
+  },
+
+  {
+    "name": "Swift",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://swift.org",
+    "description": "Official iOS programming language."
+  },
+  {
+    "name": "Objective-C",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.apple.com",
+    "description": "Legacy iOS development language."
+  },
+  {
+    "name": "SwiftUI",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.apple.com/xcode/swiftui",
+    "description": "Modern UI framework by :contentReference[oaicite:4]{index=4}."
+  },
+  {
+    "name": "UIKit",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.apple.com",
+    "description": "Traditional iOS UI framework."
+  },
+  {
+    "name": "Core Data",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.apple.com",
+    "description": "Local database framework."
+  },
+  {
+    "name": "CloudKit",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://developer.apple.com/icloud",
+    "description": "Cloud storage framework by :contentReference[oaicite:5]{index=5}."
+  },
+  {
+    "name": "Xcode",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "ides",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://developer.apple.com/xcode",
+    "description": "Official iOS development IDE."
+  },
+  {
+    "name": "AppCode",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "ides",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://jetbrains.com",
+    "description": "iOS IDE by :contentReference[oaicite:6]{index=6}."
+  },
+  {
+    "name": "TestFlight",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "deployment",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://developer.apple.com/testflight",
+    "description": "Beta testing platform by :contentReference[oaicite:7]{index=7}."
+  },
+  {
+    "name": "App Store Connect",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "deployment",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://appstoreconnect.apple.com",
+    "description": "Publish apps on :contentReference[oaicite:8]{index=8}."
+  },
+  {
+    "name": "Fastlane",
+    "field": "mobile_development",
+    "subfield": "ios",
+    "category": "deployment",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://fastlane.tools",
+    "description": "Automates iOS deployment."
+  }
+  ,
+{
+  "name": "Dart",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "languages",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://dart.dev",
+  "description": "Primary language for :contentReference[oaicite:0]{index=0} development."
+},
+{
+  "name": "Flutter SDK",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://flutter.dev",
+  "description": "Official cross-platform framework by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "FlutterFlow",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://flutterflow.io",
+  "description": "No-code Flutter app builder."
+},
+{
+  "name": "GetX",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://pub.dev/packages/get",
+  "description": "State management solution for Flutter."
+},
+{
+  "name": "Provider",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "libraries",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://pub.dev/packages/provider",
+  "description": "Popular Flutter state management package."
+},
+{
+  "name": "Riverpod",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://riverpod.dev",
+  "description": "Modern Flutter state management."
+},
+{
+  "name": "Bloc",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://bloclibrary.dev",
+  "description": "Business logic state management."
+},
+{
+  "name": "Android Studio",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "ides",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://developer.android.com/studio",
+  "description": "Most used IDE for Flutter."
+},
+{
+  "name": "Visual Studio Code",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "ides",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://code.visualstudio.com",
+  "description": "Lightweight Flutter IDE."
+},
+{
+  "name": "IntelliJ IDEA",
+  "field": "mobile_development",
+  "subfield": "flutter",
+  "category": "ides",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://jetbrains.com",
+  "description": "IDE by :contentReference[oaicite:2]{index=2}."
+},
+
+{
+  "name": "JavaScript",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "languages",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+  "description": "Core language for React Native."
+},
+{
+  "name": "TypeScript",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "languages",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://typescriptlang.org",
+  "description": "Strongly typed JavaScript."
+},
+{
+  "name": "React Native",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://reactnative.dev",
+  "description": "Cross-platform framework by :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "Expo",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://expo.dev",
+  "description": "Simplifies React Native development."
+},
+{
+  "name": "Redux Toolkit",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://redux-toolkit.js.org",
+  "description": "State management library."
+},
+{
+  "name": "React Navigation",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "libraries",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://reactnavigation.org",
+  "description": "Navigation library."
+},
+{
+  "name": "NativeBase",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://nativebase.io",
+  "description": "UI component library."
+},
+{
+  "name": "Firebase",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "libraries",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://firebase.google.com",
+  "description": "Backend integration platform by :contentReference[oaicite:4]{index=4}."
+},
+{
+  "name": "Expo EAS",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "deployment",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://expo.dev/eas",
+  "description": "React Native deployment platform."
+},
+{
+  "name": "App Center",
+  "field": "mobile_development",
+  "subfield": "react_native",
+  "category": "deployment",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://appcenter.ms",
+  "description": "Deployment tool by :contentReference[oaicite:5]{index=5}."
+},
+{
+  "name": "Node.js",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "languages",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://nodejs.org",
+  "description": "Popular backend runtime for mobile apps."
+},
+{
+  "name": "Python",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "languages",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://python.org",
+  "description": "Used for mobile backend APIs."
+},
+{
+  "name": "Java",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "languages",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://java.com",
+  "description": "Enterprise backend language."
+},
+{
+  "name": "Go",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "languages",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://go.dev",
+  "description": "Fast backend language for scalable apps."
+},
+{
+  "name": "Express.js",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://expressjs.com",
+  "description": "Backend framework for mobile APIs."
+},
+{
+  "name": "Django",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://djangoproject.com",
+  "description": "Python backend framework."
+},
+{
+  "name": "Flask",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://flask.palletsprojects.com",
+  "description": "Lightweight API backend framework."
+},
+{
+  "name": "FastAPI",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://fastapi.tiangolo.com",
+  "description": "Modern API framework."
+},
+{
+  "name": "MongoDB",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://mongodb.com",
+  "description": "Popular NoSQL database."
+},
+{
+  "name": "PostgreSQL",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://postgresql.org",
+  "description": "Advanced relational database."
+},
+{
+  "name": "Firebase",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://firebase.google.com",
+  "description": "Backend-as-a-service by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Supabase",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://supabase.com",
+  "description": "Open-source backend platform."
+},
+{
+  "name": "AWS",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "hosting",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com",
+  "description": "Cloud hosting platform by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Google Cloud",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "hosting",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Cloud platform by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Render",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "hosting",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://render.com",
+  "description": "Simple backend hosting."
+},
+{
+  "name": "Railway",
+  "field": "mobile_development",
+  "subfield": "mobile_backend",
+  "category": "hosting",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://railway.app",
+  "description": "Easy backend deployment."
+},
+
+{
+  "name": "JUnit",
+  "field": "mobile_development",
+  "subfield": "app_testing",
+  "category": "testing_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://junit.org",
+  "description": "Android unit testing framework."
+},
+{
+  "name": "Espresso",
+  "field": "mobile_development",
+  "subfield": "app_testing",
+  "category": "testing_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://developer.android.com/training/testing/espresso",
+  "description": "Android UI testing tool."
+},
+{
+  "name": "XCTest",
+  "field": "mobile_development",
+  "subfield": "app_testing",
+  "category": "testing_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://developer.apple.com",
+  "description": "Official iOS testing framework."
+},
+{
+  "name": "Firebase Test Lab",
+  "field": "mobile_development",
+  "subfield": "app_testing",
+  "category": "testing_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://firebase.google.com",
+  "description": "Test mobile apps on real devices."
+},
+{
+  "name": "Appium",
+  "field": "mobile_development",
+  "subfield": "app_testing",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://appium.io",
+  "description": "Popular mobile automation framework."
+},
+{
+  "name": "Selenium",
+  "field": "mobile_development",
+  "subfield": "app_testing",
+  "category": "automation_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://selenium.dev",
+  "description": "Automation testing platform."
+},
+{
+  "name": "BrowserStack App Live",
+  "field": "mobile_development",
+  "subfield": "app_testing",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://browserstack.com",
+  "description": "Real device testing platform."
+},
+{
+  "name": "LambdaTest",
+  "field": "mobile_development",
+  "subfield": "app_testing",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://lambdatest.com",
+  "description": "Cloud testing platform."
+}
+]

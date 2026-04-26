@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Microsoft Excel",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://microsoft.com/excel",
+    "description": "Most widely used data analysis tool by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "Jupyter Notebook",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://jupyter.org",
+    "description": "Interactive data analysis environment."
+  },
+  {
+    "name": "SQL",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://w3schools.com/sql",
+    "description": "Most important query language for analysts."
+  },
+  {
+    "name": "Python",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://python.org",
+    "description": "Most popular analysis language."
+  },
+  {
+    "name": "R",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://r-project.org",
+    "description": "Statistical analysis language."
+  },
+  {
+    "name": "Google Data Analytics Certificate",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "certifications",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://coursera.org",
+    "description": "Popular analytics certification by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "Microsoft Power BI Data Analyst",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "certifications",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://microsoft.com",
+    "description": "Analytics certification by :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "name": "Statistics for Data Science",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "statistics",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://coursera.org",
+    "description": "Core statistics learning resource."
+  },
+  {
+    "name": "Probability & Statistics",
+    "field": "data_science",
+    "subfield": "data_analysis",
+    "category": "statistics",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://khanacademy.org",
+    "description": "Statistics fundamentals."
+  },
+
+  {
+    "name": "Tableau",
+    "field": "data_science",
+    "subfield": "data_visualization",
+    "category": "visualization_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://tableau.com",
+    "description": "Most popular visualization tool."
+  },
+  {
+    "name": "Power BI",
+    "field": "data_science",
+    "subfield": "data_visualization",
+    "category": "visualization_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://powerbi.microsoft.com",
+    "description": "Visualization platform by :contentReference[oaicite:3]{index=3}."
+  },
+  {
+    "name": "Matplotlib",
+    "field": "data_science",
+    "subfield": "data_visualization",
+    "category": "visualization_tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://matplotlib.org",
+    "description": "Python visualization library."
+  },
+  {
+    "name": "Seaborn",
+    "field": "data_science",
+    "subfield": "data_visualization",
+    "category": "visualization_tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://seaborn.pydata.org",
+    "description": "Advanced Python charting library."
+  },
+  {
+    "name": "Looker Studio",
+    "field": "data_science",
+    "subfield": "data_visualization",
+    "category": "dashboard_tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://lookerstudio.google.com",
+    "description": "Dashboard tool by :contentReference[oaicite:4]{index=4}."
+  },
+  {
+    "name": "Qlik Sense",
+    "field": "data_science",
+    "subfield": "data_visualization",
+    "category": "dashboard_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://qlik.com",
+    "description": "Business dashboard platform."
+  },
+
+  {
+    "name": "Power BI",
+    "field": "data_science",
+    "subfield": "business_analytics",
+    "category": "analytics_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://powerbi.microsoft.com",
+    "description": "Business analytics platform."
+  },
+  {
+    "name": "Tableau",
+    "field": "data_science",
+    "subfield": "business_analytics",
+    "category": "analytics_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://tableau.com",
+    "description": "Business analytics dashboards."
+  },
+  {
+    "name": "Google Analytics",
+    "field": "data_science",
+    "subfield": "business_analytics",
+    "category": "analytics_tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://analytics.google.com",
+    "description": "Analytics platform by :contentReference[oaicite:5]{index=5}."
+  },
+  {
+    "name": "Google Business Intelligence Certificate",
+    "field": "data_science",
+    "subfield": "business_analytics",
+    "category": "certifications",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://coursera.org",
+    "description": "Business analytics certification."
+  },
+  {
+    "name": "CBIP",
+    "field": "data_science",
+    "subfield": "business_analytics",
+    "category": "certifications",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://tdwi.org",
+    "description": "Certified Business Intelligence Professional."
+  },
+{
+  "name": "Apache Spark",
+  "field": "data_science",
+  "subfield": "big_data",
+  "category": "big_data_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://spark.apache.org",
+  "description": "Most popular big data processing engine."
+},
+{
+  "name": "Apache Hadoop",
+  "field": "data_science",
+  "subfield": "big_data",
+  "category": "big_data_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://hadoop.apache.org",
+  "description": "Distributed big data framework."
+},
+{
+  "name": "Apache Kafka",
+  "field": "data_science",
+  "subfield": "big_data",
+  "category": "big_data_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://kafka.apache.org",
+  "description": "Real-time data streaming platform."
+},
+{
+  "name": "Databricks",
+  "field": "data_science",
+  "subfield": "big_data",
+  "category": "big_data_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://databricks.com",
+  "description": "Big data analytics platform."
+},
+{
+  "name": "AWS EMR",
+  "field": "data_science",
+  "subfield": "big_data",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/emr",
+  "description": "Big data service by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Google BigQuery",
+  "field": "data_science",
+  "subfield": "big_data",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com/bigquery",
+  "description": "Big data warehouse by :contentReference[oaicite:1]{index=1}."
+},
+
+{
+  "name": "Apache Airflow",
+  "field": "data_science",
+  "subfield": "etl",
+  "category": "etl_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://airflow.apache.org",
+  "description": "Most popular ETL orchestration platform."
+},
+{
+  "name": "Talend",
+  "field": "data_science",
+  "subfield": "etl",
+  "category": "etl_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://talend.com",
+  "description": "ETL integration platform."
+},
+{
+  "name": "Informatica",
+  "field": "data_science",
+  "subfield": "etl",
+  "category": "etl_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://informatica.com",
+  "description": "Enterprise ETL platform."
+},
+{
+  "name": "Fivetran",
+  "field": "data_science",
+  "subfield": "etl",
+  "category": "etl_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://fivetran.com",
+  "description": "Automated data movement platform."
+},
+{
+  "name": "AWS Glue",
+  "field": "data_science",
+  "subfield": "etl",
+  "category": "cloud_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/glue",
+  "description": "ETL service by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Azure Data Factory",
+  "field": "data_science",
+  "subfield": "etl",
+  "category": "cloud_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "ETL platform by :contentReference[oaicite:3]{index=3}."
+},
+
+{
+  "name": "Snowflake",
+  "field": "data_science",
+  "subfield": "data_warehousing",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://snowflake.com",
+  "description": "Most popular cloud data warehouse."
+},
+{
+  "name": "Amazon Redshift",
+  "field": "data_science",
+  "subfield": "data_warehousing",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com/redshift",
+  "description": "Warehouse platform by :contentReference[oaicite:4]{index=4}."
+},
+{
+  "name": "Google BigQuery",
+  "field": "data_science",
+  "subfield": "data_warehousing",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com/bigquery",
+  "description": "Warehouse platform by :contentReference[oaicite:5]{index=5}."
+},
+{
+  "name": "Azure Synapse Analytics",
+  "field": "data_science",
+  "subfield": "data_warehousing",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Warehouse platform by :contentReference[oaicite:6]{index=6}."
+},
+{
+  "name": "Google Cloud Storage",
+  "field": "data_science",
+  "subfield": "data_warehousing",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Cloud storage platform."
+}
+]

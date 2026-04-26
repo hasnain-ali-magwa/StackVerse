@@ -1,0 +1,295 @@
+[
+  {
+    "name": "ETAP",
+    "field": "electrical_engineering",
+    "subfield": "power_systems",
+    "category": "simulation_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://etap.com",
+    "description": "Most popular power system simulation software."
+  },
+  {
+    "name": "MATLAB Simulink",
+    "field": "electrical_engineering",
+    "subfield": "power_systems",
+    "category": "simulation_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://mathworks.com",
+    "description": "Power system modeling by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "PSCAD",
+    "field": "electrical_engineering",
+    "subfield": "power_systems",
+    "category": "simulation_tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://pscad.com",
+    "description": "Power simulation software."
+  },
+  {
+    "name": "DIgSILENT PowerFactory",
+    "field": "electrical_engineering",
+    "subfield": "power_systems",
+    "category": "simulation_tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://digsilent.de",
+    "description": "Advanced power grid simulation."
+  },
+  {
+    "name": "Transformers",
+    "field": "electrical_engineering",
+    "subfield": "power_systems",
+    "category": "hardware",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://siemens.com",
+    "description": "Essential power hardware."
+  },
+  {
+    "name": "Circuit Breakers",
+    "field": "electrical_engineering",
+    "subfield": "power_systems",
+    "category": "hardware",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://schneider-electric.com",
+    "description": "Power protection hardware."
+  },
+  {
+    "name": "Generators",
+    "field": "electrical_engineering",
+    "subfield": "power_systems",
+    "category": "hardware",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://ge.com",
+    "description": "Power generation equipment."
+  },
+
+  {
+    "name": "AutoCAD Electrical",
+    "field": "electrical_engineering",
+    "subfield": "electrical_design",
+    "category": "design_software",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "Most used electrical design software."
+  },
+  {
+    "name": "EPLAN",
+    "field": "electrical_engineering",
+    "subfield": "electrical_design",
+    "category": "design_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://eplan.com",
+    "description": "Industrial electrical design platform."
+  },
+  {
+    "name": "SolidWorks Electrical",
+    "field": "electrical_engineering",
+    "subfield": "electrical_design",
+    "category": "design_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://solidworks.com",
+    "description": "Electrical schematic design."
+  },
+  {
+    "name": "MATLAB Simulink",
+    "field": "electrical_engineering",
+    "subfield": "electrical_design",
+    "category": "simulation_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://mathworks.com",
+    "description": "Electrical simulation platform."
+  },
+  {
+    "name": "PSpice",
+    "field": "electrical_engineering",
+    "subfield": "electrical_design",
+    "category": "simulation_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://cadence.com",
+    "description": "Circuit simulation software."
+  },
+  {
+    "name": "Multisim",
+    "field": "electrical_engineering",
+    "subfield": "electrical_design",
+    "category": "simulation_tools",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://ni.com",
+    "description": "Circuit simulation platform."
+  },
+{
+  "name": "Siemens PLC",
+  "field": "electrical_engineering",
+  "subfield": "industrial_electrical",
+  "category": "hardware",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://siemens.com",
+  "description": "Most used industrial control hardware."
+},
+{
+  "name": "Allen Bradley PLC",
+  "field": "electrical_engineering",
+  "subfield": "industrial_electrical",
+  "category": "hardware",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://rockwellautomation.com",
+  "description": "Industrial automation hardware."
+},
+{
+  "name": "Industrial Motors",
+  "field": "electrical_engineering",
+  "subfield": "industrial_electrical",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://abb.com",
+  "description": "Core industrial electrical hardware."
+},
+{
+  "name": "SCADA Systems",
+  "field": "electrical_engineering",
+  "subfield": "industrial_electrical",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://siemens.com",
+  "description": "Industrial automation monitoring."
+},
+{
+  "name": "Wonderware",
+  "field": "electrical_engineering",
+  "subfield": "industrial_electrical",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aveva.com",
+  "description": "Industrial automation software."
+},
+{
+  "name": "FactoryTalk",
+  "field": "electrical_engineering",
+  "subfield": "industrial_electrical",
+  "category": "automation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://rockwellautomation.com",
+  "description": "Factory automation platform."
+},
+
+{
+  "name": "HOMER Pro",
+  "field": "electrical_engineering",
+  "subfield": "renewable_energy",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://homerenergy.com",
+  "description": "Most used renewable energy simulation tool."
+},
+{
+  "name": "PVsyst",
+  "field": "electrical_engineering",
+  "subfield": "renewable_energy",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://pvsyst.com",
+  "description": "Solar simulation software."
+},
+{
+  "name": "MATLAB Simulink",
+  "field": "electrical_engineering",
+  "subfield": "renewable_energy",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://mathworks.com",
+  "description": "Renewable energy modeling."
+},
+{
+  "name": "Solar Panels",
+  "field": "electrical_engineering",
+  "subfield": "renewable_energy",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://tesla.com",
+  "description": "Renewable energy hardware."
+},
+{
+  "name": "Wind Turbines",
+  "field": "electrical_engineering",
+  "subfield": "renewable_energy",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://siemensgamesa.com",
+  "description": "Wind power hardware."
+},
+
+{
+  "name": "MATLAB Simulink",
+  "field": "electrical_engineering",
+  "subfield": "control_systems",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://mathworks.com",
+  "description": "Most used control systems platform."
+},
+{
+  "name": "LabVIEW",
+  "field": "electrical_engineering",
+  "subfield": "control_systems",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://ni.com",
+  "description": "Control system design platform."
+},
+{
+  "name": "SCADA Systems",
+  "field": "electrical_engineering",
+  "subfield": "control_systems",
+  "category": "hardware",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://siemens.com",
+  "description": "Industrial control hardware/software."
+},
+{
+  "name": "Arduino",
+  "field": "electrical_engineering",
+  "subfield": "control_systems",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://arduino.cc",
+  "description": "Beginner control systems hardware."
+},
+{
+  "name": "Raspberry Pi",
+  "field": "electrical_engineering",
+  "subfield": "control_systems",
+  "category": "hardware",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://raspberrypi.org",
+  "description": "Control system prototyping hardware."
+}
+]

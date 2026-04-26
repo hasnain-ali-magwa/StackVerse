@@ -1,0 +1,153 @@
+{
+  "web_development": [
+    {"id": "frontend", "name": "Frontend Development"},
+    {"id": "backend", "name": "Backend Development"},
+    {"id": "fullstack", "name": "Full Stack Development"},
+    {"id": "api_development", "name": "API Development"},
+    {"id": "database_management", "name": "Database Management"},
+    {"id": "deployment_hosting", "name": "Deployment & Hosting"},
+    {"id": "web_security", "name": "Web Security"}
+  ],
+"software_engineering": [
+  {
+    "id": "system_design",
+    "name": "System Design"
+  },
+  {
+    "id": "software_architecture",
+    "name": "Software Architecture"
+  },
+  {
+    "id": "microservices",
+    "name": "Microservices"
+  },
+  {
+    "id": "desktop_apps",
+    "name": "Desktop Applications"
+  }
+],
+  "mobile_development": [
+    {"id": "android", "name": "Android Development"},
+    {"id": "ios", "name": "iOS Development"},
+    {"id": "flutter", "name": "Flutter Development"},
+    {"id": "react_native", "name": "React Native Development"},
+    {"id": "mobile_backend", "name": "Mobile Backend"},
+    {"id": "app_testing", "name": "App Testing"}
+  ], 
+
+  "cybersecurity": [
+    {"id": "red_team", "name": "Red Teaming"},
+    {"id": "blue_team", "name": "Blue Teaming"},
+    {"id": "penetration_testing", "name": "Penetration Testing"},
+    {"id": "bug_bounty", "name": "Bug Bounty"},
+    {"id": "soc", "name": "SOC Operations"},
+    {"id": "digital_forensics", "name": "Digital Forensics"},
+    {"id": "malware_analysis", "name": "Malware Analysis"},
+    {"id": "network_security", "name": "Network Security"},
+    {
+  "id": "hardware_hacking",
+  "name": "Hardware Hacking"
+},
+    {"id": "application_security", "name": "Application Security"},
+    {"id": "osint", "name": "OSINT"},
+    {"id": "cloud_security", "name": "Cloud Security"}
+    ],
+
+  "cloud_computing": [
+    {"id": "aws", "name": "AWS"},
+    {"id": "azure", "name": "Microsoft Azure"},
+    {"id": "gcp", "name": "Google Cloud"},
+    {"id": "cloud_architecture", "name": "Cloud Architecture"},
+    {"id": "serverless", "name": "Serverless Computing"},
+    {"id": "cloud_migration", "name": "Cloud Migration"}
+  ],
+
+  "devops": [
+    {"id": "ci_cd", "name": "CI/CD"},
+    {"id": "containerization", "name": "Containerization"},
+    {"id": "monitoring", "name": "Monitoring"},
+    {"id": "infrastructure_as_code", "name": "Infrastructure as Code"},
+    {"id": "automation", "name": "Automation"},
+    {"id": "site_reliability", "name": "Site Reliability Engineering"}
+  ],
+
+  "ai_ml": [
+    {"id": "machine_learning", "name": "Machine Learning"},
+    {"id": "deep_learning", "name": "Deep Learning"},
+    {"id": "nlp", "name": "Natural Language Processing"},
+    {"id": "computer_vision", "name": "Computer Vision"},
+    {"id": "prompt_engineering", "name": "Prompt Engineering"},
+    {"id": "mlops", "name": "MLOps"},
+    {"id": "generative_ai", "name": "Generative AI"}
+  ],
+
+  "data_science": [
+    {"id": "data_analysis", "name": "Data Analysis"},
+    {"id": "data_visualization", "name": "Data Visualization"},
+    {"id": "business_analytics", "name": "Business Analytics"},
+    {"id": "big_data", "name": "Big Data"},
+    {"id": "etl", "name": "ETL Pipelines"},
+    {"id": "data_warehousing", "name": "Data Warehousing"}
+  ],
+
+  "blockchain": [
+    {"id": "smart_contracts", "name": "Smart Contracts"},
+    {"id": "web3", "name": "Web3 Development"},
+    {"id": "blockchain_security", "name": "Blockchain Security"}
+  ],
+
+  "ui_ux": [
+    {"id": "ui_design", "name": "UI Design"},
+    {"id": "ux_research", "name": "UX Research"},
+    {"id": "wireframing", "name": "Wireframing"},
+    {"id": "prototyping", "name": "Prototyping"},
+    {"id": "design_systems", "name": "Design Systems"}
+  ],
+
+  "mechanical_engineering": [
+    {"id": "cad_design", "name": "CAD Design"},
+    {"id": "manufacturing", "name": "Manufacturing"},
+    {"id": "thermal_engineering", "name": "Thermal Engineering"},
+    {"id": "automotive_design", "name": "Automotive Design"}
+  ],
+
+  "civil_engineering": [
+    {"id": "structural_design", "name": "Structural Design"},
+    {"id": "construction_management", "name": "Construction Management"},
+    {"id": "transportation_engineering", "name": "Transportation Engineering"},
+    {"id": "geotechnical_engineering", "name": "Geotechnical Engineering"},
+    {"id": "environmental_civil", "name": "Environmental Civil Engineering"}
+  ],
+
+  "electrical_engineering": [
+    {"id": "power_systems", "name": "Power Systems"},
+    {"id": "electrical_design", "name": "Electrical Design"},
+    {"id": "industrial_electrical", "name": "Industrial Electrical"},
+    {"id": "renewable_energy", "name": "Renewable Energy Systems"},
+    {"id": "control_systems", "name": "Control Systems"}
+  ],
+
+  "electronics_engineering": [
+    {"id": "embedded_systems", "name": "Embedded Systems"},
+    {"id": "microcontrollers", "name": "Microcontrollers"},
+    {"id": "firmware_development", "name": "Firmware Development"},
+    {"id": "pcb_design", "name": "PCB Design"},
+    {"id": "vlsi", "name": "VLSI Design"},
+    {"id": "iot_systems", "name": "IoT Systems"}
+  ],
+
+  "robotics": [
+    {"id": "robot_design", "name": "Robot Design"},
+    {"id": "robot_programming", "name": "Robot Programming"},
+    {"id": "industrial_robotics", "name": "Industrial Robotics"},
+    {"id": "ai_robotics", "name": "AI Robotics"},
+    {"id": "robot_automation", "name": "Robot Automation"}
+  ],
+
+  "architecture": [
+    {"id": "architectural_design", "name": "Architectural Design"},
+    {"id": "urban_planning", "name": "Urban Planning"},
+    {"id": "landscape_architecture", "name": "Landscape Architecture"},
+    {"id": "sustainable_architecture", "name": "Sustainable Architecture"}
+  ]
+}

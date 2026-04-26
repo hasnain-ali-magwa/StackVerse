@@ -1,0 +1,499 @@
+/* =========================================
+   ROOT VARIABLES
+========================================= */
+:root{
+    --primary:#00ffd0;
+    --secondary:#3b82f6;
+    --purple:#7c3aed;
+
+    --dark:#0b1120;
+    --dark-light:#111827;
+    --card-bg:rgba(255,255,255,0.05);
+
+    --white:#ffffff;
+    --text-light:#94a3b8;
+
+    --border:rgba(255,255,255,0.08);
+
+    --radius-sm:12px;
+    --radius-md:18px;
+    --radius-lg:28px;
+
+    --shadow-sm:0 8px 20px rgba(0,0,0,0.2);
+    --shadow-md:0 15px 40px rgba(0,0,0,0.25);
+    --shadow-lg:0 25px 60px rgba(0,0,0,0.35);
+
+    --transition:0.3s ease;
+}
+
+
+/* =========================================
+   RESET
+========================================= */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:'Inter',sans-serif;
+    background:
+        radial-gradient(circle at top left, rgba(0,255,208,0.08), transparent 25%),
+        radial-gradient(circle at bottom right, rgba(59,130,246,0.08), transparent 25%),
+        linear-gradient(135deg,#08111f,#0b1120,#111827);
+
+    color:var(--white);
+    min-height:100vh;
+    overflow-x:hidden;
+}
+
+
+/* =========================================
+   GLOBAL
+========================================= */
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+button{
+    font-family:inherit;
+    cursor:pointer;
+    border:none;
+}
+
+img{
+    max-width:100%;
+}
+
+.container{
+    width:90%;
+    max-width:1280px;
+    margin:auto;
+}
+
+
+/* =========================================
+   SCROLLBAR
+========================================= */
+::-webkit-scrollbar{
+    width:8px;
+}
+
+::-webkit-scrollbar-track{
+    background:#0b1120;
+}
+
+::-webkit-scrollbar-thumb{
+    background:linear-gradient(
+        var(--primary),
+        var(--secondary)
+    );
+    border-radius:20px;
+}
+
+
+/* =========================================
+   ANIMATED BACKGROUND
+========================================= */
+.animated-bg{
+    position:fixed;
+    inset:0;
+    z-index:-1;
+    pointer-events:none;
+    overflow:hidden;
+}
+
+.gradient-orb{
+    position:absolute;
+    border-radius:50%;
+    filter:blur(90px);
+    opacity:0.18;
+}
+
+.orb-1{
+    width:350px;
+    height:350px;
+    background:var(--primary);
+    top:10%;
+    left:5%;
+}
+
+.orb-2{
+    width:450px;
+    height:450px;
+    background:var(--secondary);
+    bottom:10%;
+    right:10%;
+}
+
+.orb-3{
+    width:300px;
+    height:300px;
+    background:var(--purple);
+    top:40%;
+    right:35%;
+}
+
+
+/* =========================================
+   NAVBAR
+========================================= */
+.navbar{
+    position:sticky;
+    top:0;
+    z-index:1000;
+    padding:18px 0;
+
+    background:rgba(11,17,32,0.85);
+    backdrop-filter:blur(12px);
+
+    border-bottom:1px solid var(--border);
+}
+
+.navbar-container{
+    display:grid;
+    grid-template-columns:1fr auto 1fr;
+    align-items:center;
+}
+
+
+/* left */
+.nav-left{
+    display:flex;
+    align-items:center;
+    gap:30px;
+    justify-self:start;
+}
+
+/* center */
+.nav-logo-wrapper{
+    justify-self:center;
+}
+
+/* right */
+.nav-right{
+    justify-self:end;
+}
+
+
+/* logo */
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+
+    font-size:1.8rem;
+    font-weight:800;
+    color:var(--primary);
+}
+
+
+/* nav links */
+.nav-link{
+    color:var(--text-light);
+    font-weight:500;
+    position:relative;
+    transition:var(--transition);
+}
+
+.nav-link::after{
+    content:"";
+    position:absolute;
+    bottom:-6px;
+    left:0;
+    width:0;
+    height:2px;
+    background:var(--primary);
+    transition:var(--transition);
+}
+
+.nav-link:hover{
+    color:var(--primary);
+}
+
+.nav-link:hover::after{
+    width:100%;
+}
+
+
+/* =========================================
+   MOBILE MENU BUTTON
+========================================= */
+.mobile-menu-btn{
+    display:none;
+    width:45px;
+    height:45px;
+
+    border-radius:12px;
+    background:rgba(255,255,255,0.05);
+
+    color:white;
+    font-size:1.2rem;
+}
+
+
+/* =========================================
+   MOBILE MENU
+========================================= */
+.mobile-menu{
+    position:fixed;
+    top:0;
+    right:-100%;
+
+    width:85%;
+    max-width:320px;
+    height:100vh;
+
+    background:linear-gradient(
+        180deg,
+        #0b1120,
+        #111827
+    );
+
+    backdrop-filter:blur(20px);
+    border-left:1px solid var(--border);
+
+    z-index:2000;
+    transition:right 0.35s ease;
+    overflow:hidden;
+}
+
+.mobile-menu.active{
+    right:0;
+}
+
+.mobile-menu-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:22px;
+    border-bottom:1px solid var(--border);
+}
+
+.mobile-menu-close{
+    width:42px;
+    height:42px;
+    border-radius:12px;
+    background:rgba(255,255,255,0.05);
+    color:white;
+}
+
+.mobile-menu-links{
+    padding:25px 20px;
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+}
+
+.mobile-menu-links a{
+    padding:16px;
+    border-radius:16px;
+    background:rgba(255,255,255,0.04);
+    border:1px solid rgba(255,255,255,0.05);
+
+    display:flex;
+    align-items:center;
+    gap:12px;
+
+    transition:var(--transition);
+}
+
+.mobile-menu-links a:hover{
+    background:rgba(0,255,208,0.08);
+    color:var(--primary);
+}
+
+.mobile-menu-overlay{
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,0.6);
+    backdrop-filter:blur(4px);
+
+    opacity:0;
+    visibility:hidden;
+
+    z-index:1999;
+    transition:var(--transition);
+}
+
+.mobile-menu-overlay.active{
+    opacity:1;
+    visibility:visible;
+}
+
+
+/* =========================================
+   MAIN
+========================================= */
+main{
+    min-height:70vh;
+}
+
+
+/* =========================================
+   FOOTER
+========================================= */
+.footer{
+    margin-top:100px;
+    border-top:1px solid var(--border);
+    background:rgba(255,255,255,0.02);
+}
+
+.footer-container{
+    padding:60px 0;
+    display:flex;
+    justify-content:space-between;
+    gap:40px;
+    flex-wrap:wrap;
+}
+
+
+/* brand */
+.footer-brand h3{
+    color:var(--primary);
+    font-size:1.5rem;
+    margin-bottom:12px;
+}
+
+.footer-brand p{
+    color:var(--text-light);
+    line-height:1.7;
+    max-width:320px;
+}
+
+
+/* links */
+.footer-links{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.footer-links a{
+    color:var(--text-light);
+    transition:var(--transition);
+}
+
+.footer-links a:hover{
+    color:var(--primary);
+}
+
+
+/* social */
+.footer-social{
+    display:flex;
+    gap:14px;
+}
+
+.footer-social a{
+    width:45px;
+    height:45px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    border-radius:50%;
+    background:rgba(255,255,255,0.05);
+    border:1px solid var(--border);
+
+    transition:var(--transition);
+}
+
+.footer-social a:hover{
+    background:var(--primary);
+    color:black;
+    transform:translateY(-4px);
+}
+
+
+/* =========================================
+   FOOTER BOTTOM
+========================================= */
+.footer-bottom{
+    border-top:1px solid rgba(255,255,255,0.06);
+    padding:20px 0;
+    text-align:center;
+    background:rgba(255,255,255,0.02);
+}
+
+.footer-bottom p{
+    color:var(--text-light);
+    font-size:14px;
+}
+
+
+/* =========================================
+   RESPONSIVE
+========================================= */
+@media(max-width:768px){
+
+    .nav-left{
+        display:none;
+    }
+
+    .mobile-menu-btn{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+
+    .logo{
+        font-size:1.4rem;
+    }
+
+    .footer-container{
+        flex-direction:column;
+    }
+
+    .footer-links{
+        flex-direction:column;
+        gap:12px;
+    }
+}
+
+@media(max-width:480px){
+
+    .container{
+        width:94%;
+    }
+
+    .logo{
+        font-size:1.2rem;
+    }
+
+    .footer-bottom p{
+        font-size:12px;
+    }
+}
+
+/* =========================================
+   MOBILE NAV FIX
+========================================= */
+@media(max-width:768px){
+
+    .navbar-container{
+        grid-template-columns:auto 1fr auto;
+    }
+
+    .nav-logo-wrapper{
+        justify-self:start;
+    }
+
+    .nav-right{
+        justify-self:end;
+    }
+
+    .mobile-menu-btn{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+}

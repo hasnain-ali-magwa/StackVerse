@@ -1,0 +1,1449 @@
+[
+  {
+    "name": "HTML5",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "description": "Standard markup language for building webpage structure."
+  },
+  {
+    "name": "CSS3",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "description": "Styles websites and creates responsive layouts."
+  },
+  {
+    "name": "JavaScript",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "description": "Core frontend scripting language."
+  },
+  {
+    "name": "TypeScript",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.typescriptlang.org/",
+    "description": "Typed superset of JavaScript."
+  },
+  {
+    "name": "React",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://react.dev/",
+    "description": "Most popular frontend library."
+  },
+  {
+    "name": "Next.js",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://nextjs.org/",
+    "description": "React framework for full frontend rendering."
+  },
+  {
+    "name": "Vue.js",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://vuejs.org/",
+    "description": "Progressive frontend framework."
+  },
+  {
+    "name": "Angular",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "frameworks",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://angular.io/",
+    "description": "Enterprise frontend framework."
+  },
+  {
+    "name": "Svelte",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://svelte.dev/",
+    "description": "Modern lightweight frontend framework."
+  },
+  {
+    "name": "Tailwind CSS",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "libraries",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://tailwindcss.com/",
+    "description": "Utility-first CSS framework."
+  },
+  {
+    "name": "Bootstrap",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "libraries",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://getbootstrap.com/",
+    "description": "Popular responsive CSS framework."
+  },
+  {
+    "name": "Material UI",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "libraries",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://mui.com/",
+    "description": "React UI component library."
+  },
+  {
+    "name": "Chakra UI",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "libraries",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://chakra-ui.com/",
+    "description": "Accessible React component library."
+  },
+  {
+    "name": "Framer",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "ui_tools",
+    "level": "Intermediate",
+    "pricing": "Free/Paid",
+    "url": "https://www.framer.com/",
+    "description": "UI prototyping and animation platform."
+  },
+  {
+    "name": "Figma",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "ui_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://www.figma.com/",
+    "description": "UI design and prototyping tool."
+  },
+  {
+    "name": "Adobe XD",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "ui_tools",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://www.adobe.com/products/xd.html",
+    "description": "Design tool by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "Visual Studio Code",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "ides",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://code.visualstudio.com/",
+    "description": "Most popular web development editor by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "WebStorm",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "ides",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://www.jetbrains.com/webstorm/",
+    "description": "Advanced JavaScript IDE by :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "name": "Netlify",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "deployment",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://www.netlify.com/",
+    "description": "Frontend deployment platform."
+  },
+  {
+    "name": "Vercel",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "deployment",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://vercel.com/",
+    "description": "Best deployment platform for Next.js."
+  },
+  {
+    "name": "CodePen",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "practice_platforms",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://codepen.io/",
+    "description": "Frontend experimentation platform."
+  },
+  {
+    "name": "Frontend Mentor",
+    "field": "web_development",
+    "subfield": "frontend",
+    "category": "practice_platforms",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://www.frontendmentor.io/",
+    "description": "Frontend project practice platform."
+  },
+
+  {
+    "name": "Python",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://www.python.org/",
+    "description": "Popular backend language."
+  },
+  {
+    "name": "Java",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "languages",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.java.com/",
+    "description": "Enterprise backend language."
+  },
+  {
+    "name": "PHP",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "languages",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://www.php.net/",
+    "description": "Popular server-side scripting language."
+  },
+  {
+    "name": "Node.js",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://nodejs.org/",
+    "description": "JavaScript runtime for backend."
+  },
+  {
+    "name": "Django",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "frameworks",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.djangoproject.com/",
+    "description": "Python backend framework."
+  },
+  {
+    "name": "Flask",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://flask.palletsprojects.com/",
+    "description": "Lightweight Python framework."
+  },
+  {
+    "name": "Express.js",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "frameworks",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://expressjs.com/",
+    "description": "Node.js backend framework."
+  },
+  {
+    "name": "MySQL",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "databases",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://www.mysql.com/",
+    "description": "Relational database system."
+  },
+  {
+    "name": "PostgreSQL",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "databases",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.postgresql.org/",
+    "description": "Advanced relational database."
+  },
+  {
+    "name": "MongoDB",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "databases",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://www.mongodb.com/",
+    "description": "Popular NoSQL database platform."
+  },
+  {
+    "name": "Postman",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "api_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://www.postman.com/",
+    "description": "API testing tool."
+  },
+  {
+    "name": "Insomnia",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "api_tools",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://insomnia.rest/",
+    "description": "REST API testing platform."
+  },
+  {
+    "name": "Render",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "hosting",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://render.com/",
+    "description": "Backend deployment platform."
+  },
+  {
+    "name": "Railway",
+    "field": "web_development",
+    "subfield": "backend",
+    "category": "hosting",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://railway.app/",
+    "description": "Cloud hosting platform."
+  }
+,
+{
+  "name": "Nuxt.js",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://nuxt.com/",
+  "description": "Vue based full-stack frontend framework."
+},
+{
+  "name": "Remix",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://remix.run/",
+  "description": "Modern React web framework."
+},
+{
+  "name": "Astro",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://astro.build/",
+  "description": "Performance-focused frontend framework."
+},
+{
+  "name": "jQuery",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "libraries",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://jquery.com/",
+  "description": "Classic JavaScript library."
+},
+{
+  "name": "Redux",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://redux.js.org/",
+  "description": "State management library."
+},
+{
+  "name": "Zustand",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://zustand-demo.pmnd.rs/",
+  "description": "Lightweight state management tool."
+},
+{
+  "name": "GSAP",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://gsap.com/",
+  "description": "Animation library for websites."
+},
+{
+  "name": "Three.js",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "libraries",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://threejs.org/",
+  "description": "3D graphics library."
+},
+{
+  "name": "Framer Motion",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "libraries",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://www.framer.com/motion/",
+  "description": "React animation library."
+},
+{
+  "name": "Sketch",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "ui_tools",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://www.sketch.com/",
+  "description": "UI design tool."
+},
+{
+  "name": "Canva",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "ui_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://www.canva.com/",
+  "description": "Quick design platform."
+},
+{
+  "name": "Penpot",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "ui_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://penpot.app/",
+  "description": "Open source UI design tool."
+},
+{
+  "name": "Sublime Text",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "ides",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://www.sublimetext.com/",
+  "description": "Lightweight code editor."
+},
+{
+  "name": "CodeSandbox",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "ides",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://codesandbox.io/",
+  "description": "Cloud frontend IDE."
+},
+{
+  "name": "StackBlitz",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "ides",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://stackblitz.com/",
+  "description": "Browser based IDE."
+},
+{
+  "name": "GitHub Pages",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "deployment",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://pages.github.com/",
+  "description": "Static website hosting by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Cloudflare Pages",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "deployment",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://pages.cloudflare.com/",
+  "description": "Fast frontend hosting platform by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Dev.to",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "communities",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://dev.to/",
+  "description": "Developer blogging community."
+},
+{
+  "name": "Stack Overflow",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "communities",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://stackoverflow.com/",
+  "description": "Developer Q&A community."
+},
+{
+  "name": "freeCodeCamp",
+  "field": "web_development",
+  "subfield": "frontend",
+  "category": "practice_platforms",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://www.freecodecamp.org/",
+  "description": "Practice web development for free."
+},
+
+{
+  "name": "Go",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "languages",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://go.dev/",
+  "description": "Fast backend programming language."
+},
+{
+  "name": "Rust",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "languages",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://www.rust-lang.org/",
+  "description": "Secure systems/backend language."
+},
+{
+  "name": "Ruby",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "languages",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://www.ruby-lang.org/",
+  "description": "Popular backend language."
+},
+{
+  "name": "Spring Boot",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "frameworks",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://spring.io/projects/spring-boot",
+  "description": "Java backend framework."
+},
+{
+  "name": "Laravel",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://laravel.com/",
+  "description": "Popular PHP backend framework."
+},
+{
+  "name": "FastAPI",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://fastapi.tiangolo.com/",
+  "description": "Modern Python API framework."
+},
+{
+  "name": "Redis",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://redis.io/",
+  "description": "In-memory database."
+},
+{
+  "name": "Firebase",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://firebase.google.com/",
+  "description": "Backend database platform by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Supabase",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://supabase.com/",
+  "description": "Open-source Firebase alternative."
+},
+{
+  "name": "Swagger",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "api_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://swagger.io/",
+  "description": "API documentation platform."
+},
+{
+  "name": "GraphQL",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "api_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://graphql.org/",
+  "description": "Modern API query language."
+},
+{
+  "name": "Docker",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "deployment",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://www.docker.com/",
+  "description": "Container deployment platform."
+},
+{
+  "name": "Kubernetes",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "deployment",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://kubernetes.io/",
+  "description": "Container orchestration platform."
+},
+{
+  "name": "DigitalOcean",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "hosting",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://www.digitalocean.com/",
+  "description": "Cloud hosting platform."
+},
+{
+  "name": "Heroku",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "hosting",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://www.heroku.com/",
+  "description": "Simple app hosting platform."
+},
+{
+  "name": "PyCharm",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "ides",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://www.jetbrains.com/pycharm/",
+  "description": "Python IDE by :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "IntelliJ IDEA",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "ides",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://www.jetbrains.com/idea/",
+  "description": "Java IDE by :contentReference[oaicite:4]{index=4}."
+},
+{
+  "name": "Hashnode",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "communities",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://hashnode.com/",
+  "description": "Developer blogging platform."
+},
+{
+  "name": "Reddit WebDev",
+  "field": "web_development",
+  "subfield": "backend",
+  "category": "communities",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://reddit.com/r/webdev",
+  "description": "Web developer community on :contentReference[oaicite:5]{index=5}."
+},
+{
+  "name": "MERN Stack",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "stacks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://www.mongodb.com/mern-stack",
+  "description": "MongoDB, Express, React and Node.js full stack."
+},
+{
+  "name": "MEAN Stack",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "stacks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://angular.io/",
+  "description": "MongoDB, Express, Angular and Node stack."
+},
+{
+  "name": "JAMstack",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "stacks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://jamstack.org/",
+  "description": "JavaScript, APIs and Markup architecture."
+},
+{
+  "name": "T3 Stack",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "stacks",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://create.t3.gg/",
+  "description": "Modern full stack TypeScript stack."
+},
+{
+  "name": "LAMP Stack",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "stacks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://www.php.net/",
+  "description": "Linux, Apache, MySQL and PHP stack."
+},
+{
+  "name": "Django Full Stack",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "stacks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://www.djangoproject.com/",
+  "description": "Frontend + backend development using :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Flask Full Stack",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "stacks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://flask.palletsprojects.com/",
+  "description": "Frontend + backend development using :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "Next.js",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://nextjs.org/",
+  "description": "React full stack framework."
+},
+{
+  "name": "Nuxt.js",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://nuxt.com/",
+  "description": "Vue full stack framework."
+},
+{
+  "name": "Remix",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://remix.run/",
+  "description": "Modern React full stack framework."
+},
+{
+  "name": "Laravel",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://laravel.com/",
+  "description": "PHP full stack framework."
+},
+{
+  "name": "Ruby on Rails",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://rubyonrails.org/",
+  "description": "Popular Ruby full stack framework."
+},
+{
+  "name": "MongoDB",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://www.mongodb.com/",
+  "description": "Common full stack NoSQL database."
+},
+{
+  "name": "PostgreSQL",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://www.postgresql.org/",
+  "description": "Powerful relational database."
+},
+{
+  "name": "MySQL",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://www.mysql.com/",
+  "description": "Popular SQL database."
+},
+{
+  "name": "Supabase",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://supabase.com/",
+  "description": "Backend-as-a-service database platform."
+},
+{
+  "name": "Firebase",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://firebase.google.com/",
+  "description": "Google backend service platform."
+},
+{
+  "name": "Vercel",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "deployment",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://vercel.com/",
+  "description": "Popular full stack deployment platform."
+},
+{
+  "name": "Netlify",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "deployment",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://netlify.com/",
+  "description": "Frontend + serverless deployment."
+},
+{
+  "name": "Railway",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "deployment",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://railway.app/",
+  "description": "Deploy full stack apps easily."
+},
+{
+  "name": "Render",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "deployment",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://render.com/",
+  "description": "Cloud deployment platform."
+},
+{
+  "name": "GitHub",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "projects",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://github.com/",
+  "description": "Project hosting platform by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Frontend Mentor",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "projects",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://frontendmentor.io/",
+  "description": "Build real-world projects."
+},
+{
+  "name": "DevChallenges",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "projects",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://devchallenges.io/",
+  "description": "Project-based learning platform."
+},
+{
+  "name": "Stack Overflow",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "communities",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://stackoverflow.com/",
+  "description": "Developer Q&A platform."
+},
+{
+  "name": "Dev.to",
+  "field": "web_development",
+  "subfield": "fullstack",
+  "category": "communities",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://dev.to/",
+  "description": "Developer blogging community."
+},
+
+{
+  "name": "Postman",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "api_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://postman.com/",
+  "description": "Most popular API testing tool."
+},
+{
+  "name": "Insomnia",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "api_tools",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://insomnia.rest/",
+  "description": "API debugging platform."
+},
+{
+  "name": "Swagger",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "api_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://swagger.io/",
+  "description": "API development ecosystem."
+},
+{
+  "name": "GraphQL",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "api_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://graphql.org/",
+  "description": "Modern API query language."
+},
+{
+  "name": "FastAPI",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://fastapi.tiangolo.com/",
+  "description": "Fast API framework."
+},
+{
+  "name": "Express.js",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "frameworks",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://expressjs.com/",
+  "description": "Node API backend framework."
+},
+{
+  "name": "Django REST Framework",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "frameworks",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://www.django-rest-framework.org/",
+  "description": "Build APIs using :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "Jest",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "testing_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://jestjs.io/",
+  "description": "JavaScript testing framework."
+},
+{
+  "name": "Pytest",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "testing_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://pytest.org/",
+  "description": "Python testing framework."
+},
+{
+  "name": "JUnit",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "testing_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://junit.org/",
+  "description": "Java testing framework."
+},
+{
+  "name": "Swagger Docs",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "documentation",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://swagger.io/tools/swagger-ui/",
+  "description": "API documentation generator."
+},
+{
+  "name": "Redoc",
+  "field": "web_development",
+  "subfield": "api_development",
+  "category": "documentation",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://redocly.com/",
+  "description": "API documentation platform."
+},
+{
+  "name": "MySQL",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://mysql.com",
+  "description": "Most popular relational database."
+},
+{
+  "name": "PostgreSQL",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://postgresql.org",
+  "description": "Advanced open-source relational database."
+},
+{
+  "name": "MongoDB",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "databases",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://mongodb.com",
+  "description": "Popular NoSQL database platform."
+},
+{
+  "name": "MariaDB",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://mariadb.org",
+  "description": "MySQL alternative database."
+},
+{
+  "name": "Redis",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "databases",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://redis.io",
+  "description": "In-memory database."
+},
+{
+  "name": "Firebase",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://firebase.google.com",
+  "description": "Backend services platform by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "Supabase",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "cloud_platforms",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://supabase.com",
+  "description": "Open-source Firebase alternative."
+},
+{
+  "name": "PlanetScale",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://planetscale.com",
+  "description": "Serverless MySQL platform."
+},
+{
+  "name": "phpMyAdmin",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "database_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://phpmyadmin.net",
+  "description": "MySQL management tool."
+},
+{
+  "name": "MongoDB Compass",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "database_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://mongodb.com/products/compass",
+  "description": "MongoDB GUI tool."
+},
+{
+  "name": "DBeaver",
+  "field": "web_development",
+  "subfield": "database_management",
+  "category": "database_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://dbeaver.io",
+  "description": "Universal database tool."
+},
+
+{
+  "name": "Netlify",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "hosting",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://netlify.com",
+  "description": "Frontend hosting platform."
+},
+{
+  "name": "Vercel",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "hosting",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://vercel.com",
+  "description": "Popular deployment platform."
+},
+{
+  "name": "Render",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "hosting",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://render.com",
+  "description": "Backend hosting platform."
+},
+{
+  "name": "Railway",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "hosting",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://railway.app",
+  "description": "Simple deployment platform."
+},
+{
+  "name": "DigitalOcean",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "hosting",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://digitalocean.com",
+  "description": "Cloud infrastructure provider."
+},
+{
+  "name": "Docker",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "deployment",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://docker.com",
+  "description": "Container deployment tool."
+},
+{
+  "name": "Kubernetes",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "deployment",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://kubernetes.io",
+  "description": "Container orchestration platform."
+},
+{
+  "name": "GitHub Actions",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "deployment",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://github.com/features/actions",
+  "description": "CI/CD deployment automation by :contentReference[oaicite:1]{index=1}."
+},
+{
+  "name": "AWS",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://aws.amazon.com",
+  "description": "Cloud platform by :contentReference[oaicite:2]{index=2}."
+},
+{
+  "name": "Google Cloud",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://cloud.google.com",
+  "description": "Cloud infrastructure platform by :contentReference[oaicite:3]{index=3}."
+},
+{
+  "name": "Microsoft Azure",
+  "field": "web_development",
+  "subfield": "deployment_hosting",
+  "category": "cloud_platforms",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://azure.microsoft.com",
+  "description": "Cloud platform by :contentReference[oaicite:4]{index=4}."
+},
+
+{
+  "name": "Burp Suite",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://portswigger.net/burp",
+  "description": "Web security testing platform."
+},
+{
+  "name": "OWASP ZAP",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "security_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://zaproxy.org",
+  "description": "Open-source web vulnerability scanner."
+},
+{
+  "name": "Nikto",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "security_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://cirt.net/Nikto2",
+  "description": "Web server vulnerability scanner."
+},
+{
+  "name": "Acunetix",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "security_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://acunetix.com",
+  "description": "Advanced vulnerability scanner."
+},
+{
+  "name": "CEH",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "certifications",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://eccouncil.org",
+  "description": "Ethical hacking certification by :contentReference[oaicite:5]{index=5}."
+},
+{
+  "name": "eWPT",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "certifications",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://ine.com",
+  "description": "Web penetration testing certification."
+},
+{
+  "name": "PortSwigger Web Security Academy",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "practice_platforms",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://portswigger.net/web-security",
+  "description": "Best place to learn web hacking."
+},
+{
+  "name": "Hack The Box Web Challenges",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "practice_platforms",
+  "level": "Intermediate",
+  "pricing": "Free/Paid",
+  "url": "https://hackthebox.com",
+  "description": "Practice web exploitation."
+},
+{
+  "name": "TryHackMe Web Fundamentals",
+  "field": "web_development",
+  "subfield": "web_security",
+  "category": "practice_platforms",
+  "level": "Beginner",
+  "pricing": "Free/Paid",
+  "url": "https://tryhackme.com",
+  "description": "Beginner friendly web security labs."
+}
+
+]

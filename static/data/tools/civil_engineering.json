@@ -1,0 +1,255 @@
+[
+  {
+    "name": "AutoCAD Civil 3D",
+    "field": "civil_engineering",
+    "subfield": "structural_design",
+    "category": "design_software",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "Popular civil design software by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "STAAD.Pro",
+    "field": "civil_engineering",
+    "subfield": "structural_design",
+    "category": "design_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://bentley.com",
+    "description": "Most used structural design platform."
+  },
+  {
+    "name": "ETABS",
+    "field": "civil_engineering",
+    "subfield": "structural_design",
+    "category": "design_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://csiamerica.com",
+    "description": "Building structural design software."
+  },
+  {
+    "name": "Revit",
+    "field": "civil_engineering",
+    "subfield": "structural_design",
+    "category": "design_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "BIM design platform."
+  },
+  {
+    "name": "SAP2000",
+    "field": "civil_engineering",
+    "subfield": "structural_design",
+    "category": "analysis_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://csiamerica.com",
+    "description": "Structural analysis software."
+  },
+  {
+    "name": "ANSYS",
+    "field": "civil_engineering",
+    "subfield": "structural_design",
+    "category": "analysis_tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://ansys.com",
+    "description": "Engineering simulation software."
+  },
+  {
+    "name": "MATLAB",
+    "field": "civil_engineering",
+    "subfield": "structural_design",
+    "category": "analysis_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://mathworks.com",
+    "description": "Engineering calculations platform by :contentReference[oaicite:1]{index=1}."
+  },
+
+  {
+    "name": "Primavera P6",
+    "field": "civil_engineering",
+    "subfield": "construction_management",
+    "category": "project_management_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://oracle.com",
+    "description": "Most popular construction management tool by :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "name": "Microsoft Project",
+    "field": "civil_engineering",
+    "subfield": "construction_management",
+    "category": "project_management_tools",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://microsoft.com",
+    "description": "Project planning software."
+  },
+  {
+    "name": "Procore",
+    "field": "civil_engineering",
+    "subfield": "construction_management",
+    "category": "project_management_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://procore.com",
+    "description": "Construction management platform."
+  },
+  {
+    "name": "Autodesk BIM 360",
+    "field": "civil_engineering",
+    "subfield": "construction_management",
+    "category": "project_management_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "Construction collaboration platform."
+  },
+  {
+    "name": "AutoCAD",
+    "field": "civil_engineering",
+    "subfield": "construction_management",
+    "category": "design_software",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "Basic design software."
+  },
+  {
+    "name": "Revit",
+    "field": "civil_engineering",
+    "subfield": "construction_management",
+    "category": "design_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "BIM planning software."
+  },
+{
+  "name": "AutoCAD Civil 3D",
+  "field": "civil_engineering",
+  "subfield": "transportation_engineering",
+  "category": "design_software",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://autodesk.com",
+  "description": "Road and transportation design software."
+},
+{
+  "name": "Bentley OpenRoads",
+  "field": "civil_engineering",
+  "subfield": "transportation_engineering",
+  "category": "design_software",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://bentley.com",
+  "description": "Highway and road design platform."
+},
+{
+  "name": "PTV Vissim",
+  "field": "civil_engineering",
+  "subfield": "transportation_engineering",
+  "category": "simulation_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://ptvgroup.com",
+  "description": "Traffic simulation platform."
+},
+{
+  "name": "Aimsun",
+  "field": "civil_engineering",
+  "subfield": "transportation_engineering",
+  "category": "simulation_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://aimsun.com",
+  "description": "Transportation simulation software."
+},
+
+{
+  "name": "PLAXIS",
+  "field": "civil_engineering",
+  "subfield": "geotechnical_engineering",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://bentley.com",
+  "description": "Most popular geotechnical analysis tool."
+},
+{
+  "name": "GeoStudio",
+  "field": "civil_engineering",
+  "subfield": "geotechnical_engineering",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://seepage.com",
+  "description": "Geotechnical analysis software."
+},
+{
+  "name": "ABAQUS",
+  "field": "civil_engineering",
+  "subfield": "geotechnical_engineering",
+  "category": "simulation_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://3ds.com",
+  "description": "Advanced simulation platform."
+},
+{
+  "name": "FLAC3D",
+  "field": "civil_engineering",
+  "subfield": "geotechnical_engineering",
+  "category": "simulation_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://itascacg.com",
+  "description": "Geotechnical simulation software."
+},
+
+{
+  "name": "EPANET",
+  "field": "civil_engineering",
+  "subfield": "environmental_civil",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://epa.gov",
+  "description": "Water distribution analysis tool."
+},
+{
+  "name": "SWMM",
+  "field": "civil_engineering",
+  "subfield": "environmental_civil",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Free",
+  "url": "https://epa.gov",
+  "description": "Stormwater management modeling tool."
+},
+{
+  "name": "AutoCAD",
+  "field": "civil_engineering",
+  "subfield": "environmental_civil",
+  "category": "design_software",
+  "level": "Beginner",
+  "pricing": "Paid",
+  "url": "https://autodesk.com",
+  "description": "Environmental infrastructure design."
+},
+{
+  "name": "Bentley WaterGEMS",
+  "field": "civil_engineering",
+  "subfield": "environmental_civil",
+  "category": "design_software",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://bentley.com",
+  "description": "Water infrastructure design platform."
+}
+]

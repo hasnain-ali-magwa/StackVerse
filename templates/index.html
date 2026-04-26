@@ -1,0 +1,279 @@
+{% extends "base.html" %}
+
+{% block title %}
+StackVerse | Discover Career Tools
+{% endblock %}
+
+{% block content %}
+
+<!-- HERO SECTION -->
+<section class="hero-section">
+    <div class="container">
+        <div class="hero-content">
+
+            <span class="hero-badge">
+                <i class="fa-solid fa-layer-group"></i>
+                Discover Best Career Tools
+            </span>
+
+            <h1 class="hero-title">
+                Find The Perfect Tools
+                For Your Career Journey
+            </h1>
+
+            <p class="hero-description">
+                Select your career field and explore
+                subfields, categories and tools
+                used by professionals worldwide.
+            </p>
+
+        </div>
+    </div>
+</section>
+
+
+<!-- FIELD SELECT SECTION -->
+<section class="field-selector-section">
+    <div class="container">
+
+        <div class="selector-box">
+
+            <h2>Select Your Career Field</h2>
+
+            <p>
+                Search your field and explore complete tool ecosystem
+            </p>
+
+            <!-- FIELD SEARCH -->
+            <div class="search-wrapper">
+                <input
+                    type="text"
+                    id="fieldSearch"
+                    placeholder="Search career fields..."
+                >
+            </div>
+
+            <!-- FIELD DROPDOWN -->
+            <div class="custom-dropdown">
+
+                <div
+                    class="dropdown-selected"
+                    id="dropdownSelected"
+                >
+                    Select Career Field
+                    <i class="fa-solid fa-chevron-down"></i>
+                </div>
+
+                <div
+                    class="dropdown-options"
+                    id="dropdownOptions"
+                >
+                    {% for field in fields %}
+                    <div
+                        class="dropdown-option"
+                        data-value="{{ field.id }}"
+                    >
+                        {{ field.name }}
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <input
+                    type="hidden"
+                    id="fieldSelect"
+                >
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+<!-- RESULTS SECTION -->
+<section class="results-section">
+    <div class="container">
+
+        
+
+        <div id="resultsContainer">
+
+            <div class="empty-state">
+
+                <i class="fa-solid fa-layer-group"></i>
+
+                <h3>
+                    Select a field to explore tools
+                </h3>
+
+                <p>
+                    Subfields, categories and tools
+                    will appear here dynamically.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+<!-- CONTACT SECTION -->
+<section class="contact-social-section" id="contact">
+
+    <div class="container">
+
+        <div class="contact-social-wrapper">
+
+            <!-- LEFT FORM -->
+            <div class="contact-form-box">
+
+                <div class="section-heading">
+
+                    <h2>
+                        <i class="fa-solid fa-paper-plane"></i>
+                        Contact StackVerse
+                    </h2>
+
+                    <p>
+                        Found a bug? Need more tools?
+                        Want collaboration or feature request?
+                        Send message directly.
+                    </p>
+
+                </div>
+
+                <form id="contactForm">
+
+                    <input
+                        type="text"
+                        id="name"
+                        placeholder="Your Name"
+                        required
+                    >
+
+                    <input
+                        type="email"
+                        id="email"
+                        placeholder="Your Email"
+                        required
+                    >
+
+                    <select id="subject" required>
+
+                        <option value="">
+                            Select Subject
+                        </option>
+
+                        <option value="Bug Report">
+                            Bug Report
+                        </option>
+
+                        <option value="Add More Tools">
+                            Add More Tools
+                        </option>
+
+                        <option value="Collaboration">
+                            Collaboration
+                        </option>
+
+                        <option value="Feature Request">
+                            Feature Request
+                        </option>
+
+                        <option value="Feedback">
+                            Feedback
+                        </option>
+
+                        <option value="Other">
+                            Other
+                        </option>
+
+                    </select>
+
+                    <textarea
+                        id="message"
+                        rows="6"
+                        placeholder="Write your message..."
+                        required
+                    ></textarea>
+
+                    <button
+                        type="submit"
+                        class="submit-btn"
+                    >
+                        Send Message
+                    </button>
+
+                    <p id="formStatus"></p>
+
+                </form>
+
+            </div>
+
+
+            <!-- RIGHT SOCIAL -->
+            <div class="social-box">
+
+                <div class="section-heading">
+
+                    <h2>
+                        <i class="fa-solid fa-share-nodes"></i>
+                        Connect With Developer
+                    </h2>
+
+                    <p>
+                        Connect with Dev across platforms
+                    </p>
+
+                </div>
+
+                <div class="social-links-grid">
+
+                    <a href="https://hasnain-ali.pages.dev" class="social-card">
+                        <i class="fa-solid fa-globe"></i>
+                        <span>Portfolio</span>
+                    </a>
+
+                    <a href="https://github.com/hasnain-ali-magwa" class="social-card">
+                        <i class="fa-brands fa-github"></i>
+                        <span>GitHub</span>
+                    </a>
+
+                    <a href="https://www.linkedin.com/in/hasnain-ali-magwa-908309319" class="social-card">
+                        <i class="fa-brands fa-linkedin"></i>
+                        <span>LinkedIn</span>
+                    </a>
+
+                    <a href="https://www.instagram.com/hasnain_ali_magwa/" class="social-card">
+                        <i class="fa-brands fa-instagram"></i>
+                        <span>Instagram</span>
+                    </a>
+
+                    <a href="https://discord.com/users/hasnain_alii" class="social-card">
+                        <i class="fa-brands fa-discord"></i>
+                        <span>Discord</span>
+                    </a>
+
+                    <a href="https://www.snapchat.com/add/hasnain_alii07" class="social-card">
+                        <i class="fa-brands fa-snapchat"></i>
+                        <span>Snapchat</span>
+                    </a>
+
+                    <a href="mailto:hasnainalimagwa@gmail.com" class="social-card">
+                        <i class="fa-solid fa-envelope"></i>
+                        <span>Email</span>
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+{% endblock %}

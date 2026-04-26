@@ -1,0 +1,239 @@
+/* =========================================
+   KEYFRAMES
+========================================= */
+
+/* Fade Up */
+@keyframes fadeUp{
+    from{
+        opacity:0;
+        transform:translateY(35px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+
+/* Fade In */
+@keyframes fadeIn{
+    from{
+        opacity:0;
+    }
+    to{
+        opacity:1;
+    }
+}
+
+
+/* Scale In */
+@keyframes scaleIn{
+    from{
+        opacity:0;
+        transform:scale(0.96);
+    }
+    to{
+        opacity:1;
+        transform:scale(1);
+    }
+}
+
+
+/* Accordion Open */
+@keyframes accordionOpen{
+    from{
+        opacity:0;
+        transform:translateY(-8px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+
+/* Mobile Menu Slide */
+@keyframes slideRight{
+    from{
+        opacity:0;
+        transform:translateX(40px);
+    }
+    to{
+        opacity:1;
+        transform:translateX(0);
+    }
+}
+
+
+/* Floating Orbs */
+@keyframes floatOrb{
+    0%,100%{
+        transform:translate(0,0);
+    }
+
+    50%{
+        transform:translate(40px,-30px);
+    }
+}
+
+
+/* Pulse */
+@keyframes pulse{
+    0%,100%{
+        transform:scale(1);
+        opacity:0.75;
+    }
+
+    50%{
+        transform:scale(1.05);
+        opacity:1;
+    }
+}
+
+
+/* Hero Badge Float */
+@keyframes floatBadge{
+    0%,100%{
+        transform:translateY(0px);
+    }
+
+    50%{
+        transform:translateY(-5px);
+    }
+}
+
+
+/* =========================================
+   BACKGROUND ORBS
+========================================= */
+.gradient-orb{
+    animation:floatOrb 20s infinite ease-in-out;
+}
+
+.orb-2{
+    animation-delay:4s;
+}
+
+.orb-3{
+    animation-delay:8s;
+}
+
+
+/* =========================================
+   HERO SECTION
+========================================= */
+.hero-content{
+    animation:fadeUp 0.8s ease;
+}
+
+.hero-badge{
+    animation:
+        fadeIn 1s ease,
+        floatBadge 4s infinite ease-in-out;
+}
+
+.hero-title{
+    animation:fadeUp 1s ease;
+}
+
+.hero-description{
+    animation:fadeUp 1.2s ease;
+}
+
+
+/* =========================================
+   FIELD SELECTOR
+========================================= */
+.selector-box{
+    animation:fadeUp 1s ease;
+}
+
+
+/* =========================================
+   RESULTS
+========================================= */
+.empty-state{
+    animation:fadeIn 0.8s ease;
+}
+
+.subfield-card{
+    animation:fadeUp 0.5s ease;
+}
+
+.category-card{
+    animation:scaleIn 0.45s ease;
+}
+
+.subfield-content.active{
+    animation:accordionOpen 0.35s ease;
+}
+
+.category-content.active{
+    animation:accordionOpen 0.35s ease;
+}
+
+
+/* =========================================
+   MOBILE MENU
+========================================= */
+.mobile-menu.active{
+    animation:slideRight 0.35s ease;
+}
+
+
+/* =========================================
+   LOADING
+========================================= */
+.loading-box i{
+    animation:pulse 1.5s infinite;
+}
+
+
+/* =========================================
+   HOVER TRANSITIONS
+========================================= */
+.tool-card,
+.social-card,
+.submit-btn,
+.tool-btn,
+.footer-social a,
+.mobile-menu-links a{
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease,
+        border-color 0.3s ease,
+        background 0.3s ease;
+}
+
+
+/* =========================================
+   SCROLL REVEAL
+========================================= */
+.hidden-animation{
+    opacity:0;
+    transform:translateY(35px);
+
+    transition:
+        opacity 0.8s ease,
+        transform 0.8s ease;
+}
+
+.hidden-animation.show{
+    opacity:1;
+    transform:translateY(0);
+}
+
+
+/* =========================================
+   REDUCED MOTION
+========================================= */
+@media(prefers-reduced-motion:reduce){
+
+    *,
+    *::before,
+    *::after{
+        animation:none !important;
+        transition:none !important;
+        scroll-behavior:auto !important;
+    }
+}

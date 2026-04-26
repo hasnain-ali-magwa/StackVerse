@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {"id": "web_development", "name": "Web Development"},
+    {"id": "mobile_development", "name": "Mobile Development"},
+    {"id": "software_engineering", "name": "Software Engineering"},
+    {"id": "cybersecurity", "name": "Cybersecurity"},
+    {"id": "cloud_computing", "name": "Cloud Computing"},
+    {"id": "devops", "name": "DevOps"},
+    {"id": "ai_ml", "name": "AI / Machine Learning"},
+    {"id": "data_science", "name": "Data Science"},
+    {"id": "blockchain", "name": "Blockchain Development"},
+    {"id": "ui_ux", "name": "UI / UX Design"},
+    {"id": "mechanical_engineering", "name": "Mechanical Engineering"},
+    {"id": "civil_engineering", "name": "Civil Engineering"},
+    {"id": "electrical_engineering", "name": "Electrical Engineering"},
+    {"id": "electronics_engineering", "name": "Electronics Engineering"},
+    {"id": "robotics", "name": "Robotics"},
+    {"id": "architecture", "name": "Architecture"}
+  ]
+}

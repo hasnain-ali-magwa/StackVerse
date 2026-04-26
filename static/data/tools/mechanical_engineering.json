@@ -1,0 +1,274 @@
+[
+  {
+    "name": "AutoCAD",
+    "field": "mechanical_engineering",
+    "subfield": "cad_design",
+    "category": "cad_software",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://autodesk.com",
+    "description": "Most popular CAD software by :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "name": "SolidWorks",
+    "field": "mechanical_engineering",
+    "subfield": "cad_design",
+    "category": "cad_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://solidworks.com",
+    "description": "Most used mechanical CAD platform."
+  },
+  {
+    "name": "CATIA",
+    "field": "mechanical_engineering",
+    "subfield": "cad_design",
+    "category": "cad_software",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://3ds.com",
+    "description": "Advanced design software."
+  },
+  {
+    "name": "Fusion 360",
+    "field": "mechanical_engineering",
+    "subfield": "cad_design",
+    "category": "cad_software",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://autodesk.com",
+    "description": "Cloud CAD software."
+  },
+  {
+    "name": "Creo",
+    "field": "mechanical_engineering",
+    "subfield": "cad_design",
+    "category": "cad_software",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://ptc.com",
+    "description": "Professional CAD platform."
+  },
+  {
+    "name": "ANSYS",
+    "field": "mechanical_engineering",
+    "subfield": "cad_design",
+    "category": "simulation_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://ansys.com",
+    "description": "Engineering simulation platform."
+  },
+  {
+    "name": "MATLAB Simulink",
+    "field": "mechanical_engineering",
+    "subfield": "cad_design",
+    "category": "simulation_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://mathworks.com",
+    "description": "Simulation platform by :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "name": "COMSOL",
+    "field": "mechanical_engineering",
+    "subfield": "cad_design",
+    "category": "simulation_tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://comsol.com",
+    "description": "Multiphysics simulation software."
+  },
+
+  {
+    "name": "SolidWorks CAM",
+    "field": "mechanical_engineering",
+    "subfield": "manufacturing",
+    "category": "cad_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://solidworks.com",
+    "description": "Manufacturing design software."
+  },
+  {
+    "name": "Mastercam",
+    "field": "mechanical_engineering",
+    "subfield": "manufacturing",
+    "category": "cad_software",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://mastercam.com",
+    "description": "CNC manufacturing software."
+  },
+  {
+    "name": "Fusion 360 CAM",
+    "field": "mechanical_engineering",
+    "subfield": "manufacturing",
+    "category": "cad_software",
+    "level": "Beginner",
+    "pricing": "Free/Paid",
+    "url": "https://autodesk.com",
+    "description": "Manufacturing design platform."
+  },
+  {
+    "name": "Siemens NX CAM",
+    "field": "mechanical_engineering",
+    "subfield": "manufacturing",
+    "category": "cad_software",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://siemens.com",
+    "description": "Advanced manufacturing software."
+  },
+  {
+    "name": "ABB Robotics",
+    "field": "mechanical_engineering",
+    "subfield": "manufacturing",
+    "category": "automation_tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://abb.com",
+    "description": "Industrial automation platform."
+  },
+  {
+    "name": "Siemens PLC",
+    "field": "mechanical_engineering",
+    "subfield": "manufacturing",
+    "category": "automation_tools",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://siemens.com",
+    "description": "Factory automation tools."
+  },
+  {
+    "name": "Fanuc Robotics",
+    "field": "mechanical_engineering",
+    "subfield": "manufacturing",
+    "category": "automation_tools",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://fanuc.com",
+    "description": "Industrial robotic automation."
+  },
+{
+  "name": "ANSYS Fluent",
+  "field": "mechanical_engineering",
+  "subfield": "thermal_engineering",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://ansys.com",
+  "description": "Most popular thermal simulation software."
+},
+{
+  "name": "COMSOL Multiphysics",
+  "field": "mechanical_engineering",
+  "subfield": "thermal_engineering",
+  "category": "simulation_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://comsol.com",
+  "description": "Thermal and fluid simulation platform."
+},
+{
+  "name": "MATLAB Simulink",
+  "field": "mechanical_engineering",
+  "subfield": "thermal_engineering",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://mathworks.com",
+  "description": "Thermal system simulation by :contentReference[oaicite:0]{index=0}."
+},
+{
+  "name": "OpenFOAM",
+  "field": "mechanical_engineering",
+  "subfield": "thermal_engineering",
+  "category": "simulation_tools",
+  "level": "Advanced",
+  "pricing": "Free",
+  "url": "https://openfoam.org",
+  "description": "Open-source CFD software."
+},
+{
+  "name": "Engineering Toolbox",
+  "field": "mechanical_engineering",
+  "subfield": "thermal_engineering",
+  "category": "analysis_tools",
+  "level": "Beginner",
+  "pricing": "Free",
+  "url": "https://engineeringtoolbox.com",
+  "description": "Engineering calculations resource."
+},
+{
+  "name": "EES",
+  "field": "mechanical_engineering",
+  "subfield": "thermal_engineering",
+  "category": "analysis_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://fchartsoftware.com",
+  "description": "Engineering equation solver."
+},
+
+{
+  "name": "CATIA",
+  "field": "mechanical_engineering",
+  "subfield": "automotive_design",
+  "category": "cad_software",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://3ds.com",
+  "description": "Most used automotive design software."
+},
+{
+  "name": "SolidWorks",
+  "field": "mechanical_engineering",
+  "subfield": "automotive_design",
+  "category": "cad_software",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://solidworks.com",
+  "description": "Vehicle component design software."
+},
+{
+  "name": "Autodesk Alias",
+  "field": "mechanical_engineering",
+  "subfield": "automotive_design",
+  "category": "cad_software",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://autodesk.com",
+  "description": "Automotive surface modeling software."
+},
+{
+  "name": "ANSYS",
+  "field": "mechanical_engineering",
+  "subfield": "automotive_design",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://ansys.com",
+  "description": "Vehicle simulation software."
+},
+{
+  "name": "MATLAB Simulink",
+  "field": "mechanical_engineering",
+  "subfield": "automotive_design",
+  "category": "simulation_tools",
+  "level": "Intermediate",
+  "pricing": "Paid",
+  "url": "https://mathworks.com",
+  "description": "Automotive system simulation."
+},
+{
+  "name": "AVL Cruise",
+  "field": "mechanical_engineering",
+  "subfield": "automotive_design",
+  "category": "simulation_tools",
+  "level": "Advanced",
+  "pricing": "Paid",
+  "url": "https://avl.com",
+  "description": "Vehicle performance simulation software."
+}
+]
