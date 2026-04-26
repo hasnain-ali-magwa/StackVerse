@@ -1200,5 +1200,686 @@
   "pricing": "Medium Cost",
   "url": "https://raspberrypi.org",
   "description": "Learn smart device security through ethical testing."
-}
+},
+  {
+    "name": "Nikto",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://github.com/sullo/nikto",
+    "description": "Web server vulnerability scanner for penetration testing."
+  },
+  {
+    "name": "Nuclei",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "description": "Fast vulnerability scanner based on templates."
+  },
+  {
+    "name": "FFUF",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/ffuf/ffuf",
+    "description": "Fast web fuzzing tool for directory brute forcing."
+  },
+  {
+    "name": "Wfuzz",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/xmendez/wfuzz",
+    "description": "Web application fuzzer for pentesting."
+  },
+  {
+    "name": "John The Ripper",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.openwall.com/john",
+    "description": "Password cracking tool for security testing."
+  },
+  {
+    "name": "Hashcat",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://hashcat.net/hashcat",
+    "description": "Advanced password recovery and hash cracking tool."
+  },
+  {
+    "name": "Aircrack-ng",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.aircrack-ng.org",
+    "description": "Complete suite for WiFi network security assessment."
+  },
+  {
+    "name": "Responder",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/lgandx/Responder",
+    "description": "LLMNR, NBT-NS and MDNS poisoner for network attacks."
+  },
+  {
+    "name": "Impacket",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/SecureAuthCorp/impacket",
+    "description": "Collection of Python classes for working with network protocols."
+  },
+  {
+    "name": "CrackMapExec",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/byt3bl33d3r/CrackMapExec",
+    "description": "Post-exploitation tool for Active Directory environments."
+  },
+  {
+    "name": "Commix",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/commixproject/commix",
+    "description": "Automated command injection exploitation tool."
+  },
+  {
+    "name": "XSSer",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://xsser.03c8.net",
+    "description": "Automatic XSS vulnerability detection and exploitation."
+  },
+  {
+    "name": "BeEF",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://beefproject.com",
+    "description": "Browser exploitation framework for web application testing."
+  },
+  {
+    "name": "OpenVAS",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.openvas.org",
+    "description": "Full-featured vulnerability scanner for network security."
+  },
+  {
+    "name": "Nessus",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "tools",
+    "level": "Professional",
+    "pricing": "Paid",
+    "url": "https://www.tenable.com/products/nessus",
+    "description": "Industry-standard vulnerability assessment platform."
+  },
+  {
+    "name": "BlackArch Linux",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "os",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://blackarch.org",
+    "description": "Arch Linux-based penetration testing distribution."
+  },
+  {
+    "name": "Pentoo",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "os",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://www.pentoo.ch",
+    "description": "Gentoo-based security testing distribution."
+  },
+  {
+    "name": "PNPT",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "certifications",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://certifications.tcm-sec.com/pnpt",
+    "description": "Practical Network Penetration Tester certification."
+  },
+  {
+    "name": "eJPT",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "certifications",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "url": "https://elearnsecurity.com/product/ejpt-certification",
+    "description": "Entry-level penetration testing certification."
+  },
+  {
+    "name": "GPEN",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://www.sans.org/cyber-security-courses/penetration-testing-ethical-hacking",
+    "description": "GIAC Penetration Tester certification by SANS."
+  },
+  {
+    "name": "PortSwigger Academy",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "labs",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://portswigger.net/web-security",
+    "description": "Free web security testing labs and learning paths."
+  },
+  {
+    "name": "PentesterLab",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "labs",
+    "level": "Intermediate",
+    "pricing": "Freemium",
+    "url": "https://pentesterlab.com",
+    "description": "Hands-on penetration testing exercises and tutorials."
+  },
+  {
+    "name": "VulnHub",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "labs",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.vulnhub.com",
+    "description": "Vulnerable virtual machines for security practice."
+  },
+  {
+    "name": "OverTheWire",
+    "field": "cybersecurity",
+    "subfield": "penetration_testing",
+    "category": "labs",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://overthewire.org/wargames",
+    "description": "War games for learning security concepts through practice."
+  },
+  {
+    "name": "Immunet",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://www.immunityinc.com/products/canvas",
+    "description": "Advanced exploitation framework for red team operations."
+  },
+  {
+    "name": "PowerSploit",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/PowerShellMafia/PowerSploit",
+    "description": "PowerShell post-exploitation framework."
+  },
+  {
+    "name": "Covenant",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/cobbr/Covenant",
+    "description": ".NET command and control framework for red teams."
+  },
+  {
+    "name": "Mythic",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/its-a-feature/Mythic",
+    "description": "Cross-platform C2 framework for red team operations."
+  },
+  {
+    "name": "Havoc",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/HavocFramework/Havoc",
+    "description": "Modern command and control framework."
+  },
+  {
+    "name": "Rubeus",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/GhostPack/Rubeus",
+    "description": "Kerberos attack and abuse toolkit."
+  },
+  {
+    "name": "Mimikatz",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/gentilkiwi/mimikatz",
+    "description": "Windows credential extraction and manipulation tool."
+  },
+  {
+    "name": "SharpHound",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/BloodHoundAD/SharpHound",
+    "description": "Active Directory reconnaissance data collector."
+  },
+  {
+    "name": "Brute Ratel",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Professional",
+    "pricing": "Paid",
+    "url": "https://bruteratel.com",
+    "description": "Commercial red team and adversary simulation tool."
+  },
+  {
+    "name": "PoshC2",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/nettitude/PoshC2",
+    "description": "PowerShell-based C2 framework for red teaming."
+  },
+  {
+    "name": "Proving Grounds",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "labs",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://www.offensive-security.com/labs",
+    "description": "Advanced penetration testing labs by Offensive Security."
+  },
+  {
+    "name": "HackTheBox Pro Labs",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "labs",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://www.hackthebox.com/hacker/pro-labs",
+    "description": "Enterprise-level red team simulation environments."
+  },
+  {
+    "name": "RastaMouse Red Team Ops",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "labs",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://training.zeropointsecurity.co.uk/courses/red-team-ops",
+    "description": "Professional red team operations training."
+  },
+  {
+    "name": "CARTP",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://www.pentesteracademy.com/activedirectorylab",
+    "description": "Certified Azure Red Team Professional."
+  },
+  {
+    "name": "GXPN",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "certifications",
+    "level": "Expert",
+    "pricing": "Paid",
+    "url": "https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking",
+    "description": "GIAC Exploit Researcher and Advanced Penetration Tester."
+  },
+  {
+    "name": "0xRick Blog",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "resources",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://0xrick.github.io",
+    "description": "Red team techniques and offensive security research."
+  },
+  {
+    "name": "ired.team",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "resources",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://www.ired.team",
+    "description": "Offensive security notes and red team tactics."
+  },
+  {
+    "name": "MITRE ATT&CK",
+    "field": "cybersecurity",
+    "subfield": "red_team",
+    "category": "resources",
+    "level": "Professional",
+    "pricing": "Free",
+    "url": "https://attack.mitre.org",
+    "description": "Adversarial tactics and techniques knowledge base."
+  },
+  {
+    "name": "Httpx",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/projectdiscovery/httpx",
+    "description": "Fast HTTP toolkit for reconnaissance."
+  },
+  {
+    "name": "Katana",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/projectdiscovery/katana",
+    "description": "Next-generation crawling and spidering framework."
+  },
+  {
+    "name": "Dalfox",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/hahwul/dalfox",
+    "description": "Powerful XSS scanner and parameter analysis tool."
+  },
+  {
+    "name": "Arjun",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://github.com/s0md3v/Arjun",
+    "description": "HTTP parameter discovery tool for bug bounty."
+  },
+  {
+    "name": "GAU",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://github.com/lc/gau",
+    "description": "Fetch known URLs from AlienVault's Open Threat Exchange."
+  },
+  {
+    "name": "Waybackurls",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://github.com/tomnomnom/waybackurls",
+    "description": "Fetch URLs from Wayback Machine for reconnaissance."
+  },
+  {
+    "name": "Gf",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/tomnomnom/gf",
+    "description": "Wrapper around grep for bug bounty pattern matching."
+  },
+  {
+    "name": "Aquatone",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/michenriksen/aquatone",
+    "description": "Visual reconnaissance tool for bug bounty hunters."
+  },
+  {
+    "name": "Meg",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/tomnomnom/meg",
+    "description": "Fetch many paths for many hosts for bug bounty."
+  },
+  {
+    "name": "YesWeHack",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "platforms",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://www.yeswehack.com",
+    "description": "European bug bounty and vulnerability disclosure platform."
+  },
+  {
+    "name": "Synack",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "platforms",
+    "level": "Intermediate",
+    "pricing": "Invite Only",
+    "url": "https://www.synack.com",
+    "description": "Invite-only bug bounty platform with vetted researchers."
+  },
+  {
+    "name": "Federacy",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "platforms",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.federacy.com",
+    "description": "Continuous security testing platform."
+  },
+  {
+    "name": "Nahamsec Recon",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "resources",
+    "level": "Beginner",
+    "pricing": "Free",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "description": "Complete resources for beginner bug bounty hunters."
+  },
+  {
+    "name": "Pentester Land",
+    "field": "cybersecurity",
+    "subfield": "bug_bounty",
+    "category": "resources",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://pentester.land",
+    "description": "Bug bounty write-ups and resources collection."
+  },
+  {
+    "name": "AlienVault OSSIM",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "siem_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.alienvault.com/products/ossim",
+    "description": "Open-source SIEM with threat intelligence."
+  },
+  {
+    "name": "Graylog",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "siem_tools",
+    "level": "Intermediate",
+    "pricing": "Freemium",
+    "url": "https://www.graylog.org",
+    "description": "Log management and analysis platform."
+  },
+  {
+    "name": "Suricata",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "monitoring_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://suricata.io",
+    "description": "High-performance network IDS, IPS and security monitoring."
+  },
+  {
+    "name": "OSSEC",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "monitoring_tools",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://www.ossec.net",
+    "description": "Open-source host-based intrusion detection system."
+  },
+  {
+    "name": "Velociraptor",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "monitoring_tools",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://docs.velociraptor.app",
+    "description": "Advanced endpoint visibility and collection tool."
+  },
+  {
+    "name": "GCIH",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "certifications",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "url": "https://www.sans.org/cyber-security-courses/hacker-techniques-exploits-incident-handling",
+    "description": "GIAC Certified Incident Handler certification."
+  },
+  {
+    "name": "GCFE",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "certifications",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "url": "https://www.sans.org/cyber-security-courses/advanced-computer-forensic-analysis-incident-response",
+    "description": "GIAC Certified Forensic Examiner."
+  },
+  {
+    "name": "CyberDefenders",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "labs",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://cyberdefenders.org",
+    "description": "Blue team CTF challenges and DFIR scenarios."
+  },
+  {
+    "name": "LetsDefend",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "labs",
+    "level": "Beginner",
+    "pricing": "Freemium",
+    "url": "https://letsdefend.io",
+    "description": "SOC analyst training platform with hands-on labs."
+  },
+  {
+    "name": "Detection Lab",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "labs",
+    "level": "Advanced",
+    "pricing": "Free",
+    "url": "https://github.com/clong/DetectionLab",
+    "description": "Automated lab environment for security monitoring."
+  },
+  {
+    "name": "FalconForce",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "resources",
+    "level": "Professional",
+    "pricing": "Free",
+    "url": "https://github.com/FalconForceTeam",
+    "description": "Detection engineering and threat hunting resources."
+  },
+  {
+    "name": "Sigma Rules",
+    "field": "cybersecurity",
+    "subfield": "blue_team",
+    "category": "resources",
+    "level": "Intermediate",
+    "pricing": "Free",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "description": "Generic signature format for SIEM systems."
+  }
+
 ]
