@@ -1,21 +1,10 @@
-// ========================================
-// GLOBAL CACHE
-// ========================================
 const fieldCache = new Map();
 
-
-// ========================================
-// DOM READY
-// ========================================
 document.addEventListener("DOMContentLoaded", () => {
     initializeFieldSelection();
     initializeToolSearch();
 });
 
-
-// ========================================
-// FIELD SELECTION
-// ========================================
 function initializeFieldSelection() {
     const fieldSelect =
         document.getElementById("fieldSelect");
@@ -37,17 +26,12 @@ function initializeFieldSelection() {
     );
 }
 
-
-// ========================================
-// LOAD FIELD DATA
-// ========================================
 async function loadFieldData(fieldId) {
     const resultsContainer =
         document.getElementById("resultsContainer");
 
     if (!resultsContainer) return;
 
-    // Cache check
     if (fieldCache.has(fieldId)) {
         renderFieldData(
             fieldCache.get(fieldId)
@@ -105,10 +89,6 @@ async function loadFieldData(fieldId) {
     }
 }
 
-
-// ========================================
-// TOOL SEARCH INSIDE RESULTS
-// ========================================
 function initializeToolSearch() {
     const searchInput =
         document.getElementById(
@@ -156,10 +136,6 @@ function initializeToolSearch() {
     );
 }
 
-
-// ========================================
-// RENDER FIELD DATA
-// ========================================
 function renderFieldData(subfields) {
     const container =
         document.getElementById(
@@ -202,10 +178,6 @@ function renderFieldData(subfields) {
     initializeCategoryAccordion();
 }
 
-
-// ========================================
-// RENDER CATEGORIES
-// ========================================
 function renderCategories(categories) {
     if (!categories.length) {
         return `
@@ -239,10 +211,6 @@ function renderCategories(categories) {
     return html;
 }
 
-
-// ========================================
-// RENDER TOOLS
-// ========================================
 function renderTools(tools) {
     if (!tools.length) {
         return `
@@ -321,10 +289,6 @@ function renderTools(tools) {
     return html;
 }
 
-
-// ========================================
-// ICON SYSTEM
-// ========================================
 function getToolIcon(name) {
     const icons = {
         "React": "fa-brands fa-react",
@@ -353,10 +317,6 @@ function getToolIcon(name) {
     );
 }
 
-
-// ========================================
-// LOADER
-// ========================================
 function showLoader() {
     const container =
         document.getElementById(
@@ -372,10 +332,6 @@ function showLoader() {
     `;
 }
 
-
-// ========================================
-// EMPTY STATE
-// ========================================
 function showEmptyState(message) {
     const container =
         document.getElementById(
@@ -391,10 +347,6 @@ function showEmptyState(message) {
     `;
 }
 
-
-// ========================================
-// ERROR
-// ========================================
 function showError(message) {
     const container =
         document.getElementById(
@@ -410,10 +362,6 @@ function showError(message) {
     `;
 }
 
-
-// ========================================
-// RESET
-// ========================================
 function resetResults() {
     const container =
         document.getElementById(
@@ -431,10 +379,6 @@ function resetResults() {
     `;
 }
 
-
-// ========================================
-// SCROLL
-// ========================================
 function scrollToResults() {
     const section =
         document.querySelector(
@@ -449,10 +393,6 @@ function scrollToResults() {
     }
 }
 
-
-// ========================================
-// SECURITY SANITIZER
-// ========================================
 function sanitize(text) {
     const div =
         document.createElement("div");
@@ -462,10 +402,6 @@ function sanitize(text) {
     return div.innerHTML;
 }
 
-
-// ========================================
-// ANIMATION TRIGGER
-// ========================================
 function triggerAnimations() {
     if (
         typeof refreshAnimations ===

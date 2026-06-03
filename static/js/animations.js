@@ -1,15 +1,8 @@
-// ========================================
-// DOM READY
-// ========================================
 document.addEventListener("DOMContentLoaded", () => {
     initializeScrollAnimations();
     initializeBackgroundParallax();
 });
 
-
-/* ========================================
-   SCROLL REVEAL
-======================================== */
 function initializeScrollAnimations() {
     const observer = new IntersectionObserver(
         (entries) => {
@@ -41,16 +34,11 @@ function initializeScrollAnimations() {
     });
 }
 
-
-/* ========================================
-   SMOOTH BACKGROUND PARALLAX
-======================================== */
 function initializeBackgroundParallax() {
     const orbs = document.querySelectorAll(".gradient-orb");
 
     if (!orbs.length) return;
 
-    // Disable on mobile/tablet
     if (window.innerWidth <= 768) return;
 
     let mouseX = 0;

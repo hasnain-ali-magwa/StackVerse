@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 
-    <!-- Meta -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -20,19 +19,16 @@
         content="career tools, stackverse, development tools, cybersecurity tools"
     >
 
-    <!-- Google Fonts -->
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
         rel="stylesheet"
     >
 
-    <!-- Font Awesome -->
     <link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     >
 
-    <!-- CSS Files -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/components.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
@@ -43,24 +39,16 @@
 
 <body>
 
-    <!-- =========================================
-        ANIMATED BACKGROUND
-    ========================================== -->
     <div class="animated-bg">
         <div class="gradient-orb orb-1"></div>
         <div class="gradient-orb orb-2"></div>
         <div class="gradient-orb orb-3"></div>
     </div>
 
-
-    <!-- =========================================
-        NAVBAR
-    ========================================== -->
     <nav class="navbar">
 
         <div class="container navbar-container">
 
-            <!-- Desktop Links -->
             <div class="nav-left">
 
                 <a
@@ -81,7 +69,6 @@
             </div>
 
 
-            <!-- Logo -->
             <div class="nav-logo-wrapper">
 
                 <a href="/" class="logo">
@@ -92,7 +79,6 @@
             </div>
 
 
-            <!-- Mobile Menu Button -->
             <div class="nav-right">
 
                 <button
@@ -109,18 +95,10 @@
 
     </nav>
 
-
-    <!-- =========================================
-        MOBILE MENU
-    ========================================== -->
-   <!-- =========================================
-    MOBILE MENU
-========================================== -->
 <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
 
 <div class="mobile-menu" id="mobileMenu">
 
-    <!-- Header -->
     <div class="mobile-menu-header">
 
         <a href="/" class="logo">
@@ -139,7 +117,6 @@
     </div>
 
 
-    <!-- Links -->
     <div class="mobile-menu-links">
 
         <a
@@ -159,24 +136,15 @@
 
 </div>
 
-
-    <!-- =========================================
-        MAIN CONTENT
-    ========================================== -->
     <main>
         {% block content %}
         {% endblock %}
     </main>
 
-
-    <!-- =========================================
-        FOOTER
-    ========================================== -->
     <footer class="footer">
 
         <div class="container footer-container">
 
-            <!-- Brand -->
             <div class="footer-brand">
 
                 <h3>
@@ -192,8 +160,6 @@
 
             </div>
 
-
-            <!-- Footer Links -->
             <div class="footer-links">
 
                 <a href="/">Home</a>
@@ -208,8 +174,6 @@
 
             </div>
 
-
-            <!-- Social Links -->
             <div class="footer-social">
 
                 <a
@@ -248,8 +212,6 @@
 
         </div>
 
-
-        <!-- Bottom -->
         <div class="footer-bottom">
 
             <p>
@@ -260,8 +222,6 @@
 
     </footer>
 
-
-    <!-- JS Files -->
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>
     <script src="{{ url_for('static', filename='js/field-selector.js') }}"></script>
     <script src="{{ url_for('static', filename='js/accordion.js') }}"></script>

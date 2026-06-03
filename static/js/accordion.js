@@ -1,6 +1,3 @@
-// ========================================
-// SUBFIELD ACCORDION
-// ========================================
 function initializeSubfieldAccordion() {
     const subfieldHeaders =
         document.querySelectorAll(".subfield-header");
@@ -16,7 +13,6 @@ function initializeSubfieldAccordion() {
             const isOpen =
                 content.style.display === "block";
 
-            // Close all other subfields
             document
                 .querySelectorAll(".subfield-content")
                 .forEach(item => {
@@ -30,7 +26,6 @@ function initializeSubfieldAccordion() {
                     item.style.transform = "rotate(0deg)";
                 });
 
-            // Open current
             if (!isOpen) {
                 content.style.display = "block";
                 content.classList.add("active");
@@ -44,10 +39,6 @@ function initializeSubfieldAccordion() {
     });
 }
 
-
-// ========================================
-// CATEGORY ACCORDION
-// ========================================
 function initializeCategoryAccordion() {
     const categoryHeaders =
         document.querySelectorAll(".category-header");
@@ -63,7 +54,6 @@ function initializeCategoryAccordion() {
             const isOpen =
                 content.style.display === "block";
 
-            // Close sibling categories only
             const parent =
                 this.closest(".subfield-content");
 

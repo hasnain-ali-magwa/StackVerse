@@ -5,16 +5,10 @@ from flask import Flask, render_template, jsonify, request
 from dotenv import load_dotenv
 from webhook import send_to_discord
 
-# =========================================
-# LOAD ENV
-# =========================================
 load_dotenv()
 from config import Config
 app = Flask(__name__)
 app.config.from_object(Config)
-# =========================================
-# CONFIG
-# =========================================
 BASE_DATA_PATH = os.path.join(
     app.root_path,
     "static",
@@ -23,19 +17,11 @@ BASE_DATA_PATH = os.path.join(
 
 PER_PAGE = 50
 
-
-# =========================================
-# LOGGING
-# =========================================
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-
-# =========================================
-# JSON LOADER (CACHED)
-# =========================================
 def load_json(filename, folder=""):
     try:
         file_path = os.path.join(
@@ -64,15 +50,11 @@ def load_json(filename, folder=""):
     except Exception as e:
         logging.error(str(e))
 
-    # Return proper fallback types
     if filename.endswith(".json") and folder == "tools":
         return []
 
     return {}
 
-# =========================================
-# VALID FIELD CHECK
-# =========================================
 def is_valid_field(field_id):
     fields_data = load_json("fields.json")
 
@@ -83,10 +65,6 @@ def is_valid_field(field_id):
 
     return field_id in valid_fields
 
-
-# =========================================
-# HOME PAGE
-# =========================================
 @app.route("/")
 def home():
     fields_data = load_json("fields.json")
@@ -96,10 +74,6 @@ def home():
         fields=fields_data.get("fields", [])
     )
 
-
-# =========================================
-# FIELD DATA API
-# =========================================
 @app.route("/api/field/<field_id>")
 def get_field_data(field_id):
 
@@ -191,10 +165,6 @@ def get_field_data(field_id):
             "message": "Failed to load field data"
         }), 500
 
-
-# =========================================
-# GET TOOLS API
-# =========================================
 @app.route("/api/tools/<field_id>")
 def get_tools(field_id):
 
@@ -254,10 +224,6 @@ def get_tools(field_id):
             "message": "Failed to fetch tools"
         }), 500
 
-
-# =========================================
-# GLOBAL SEARCH
-# =========================================
 @app.route("/api/search")
 def global_search():
     query = request.args.get(
@@ -311,10 +277,6 @@ def global_search():
             "message": "Search failed"
         }), 500
 
-
-# =========================================
-# CONTACT FORM
-# =========================================
 @app.route("/contact", methods=["POST"])
 def contact():
     try:
@@ -363,10 +325,6 @@ def contact():
             "message": "Contact form error"
         }), 500
 
-
-# =========================================
-# HEALTH CHECK
-# =========================================
 @app.route("/health")
 def health():
     return jsonify({
@@ -375,9 +333,6 @@ def health():
         "version": "1.0.0"
     })
 
-# =========================================
-# ERROR HANDLERS
-# =========================================
 @app.errorhandler(404)
 def not_found(error):
     return jsonify({
@@ -393,10 +348,6 @@ def internal_error(error):
         "message": "Internal server error"
     }), 500
 
-
-# =========================================
-# RUN APP
-# =========================================
 if __name__ == "__main__":
     app.run(
         debug=os.getenv(

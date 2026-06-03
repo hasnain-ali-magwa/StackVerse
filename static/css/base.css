@@ -1,6 +1,3 @@
-/* =========================================
-   ROOT VARIABLES
-========================================= */
 :root{
     --primary:#00ffd0;
     --secondary:#3b82f6;
@@ -26,10 +23,6 @@
     --transition:0.3s ease;
 }
 
-
-/* =========================================
-   RESET
-========================================= */
 *{
     margin:0;
     padding:0;
@@ -52,10 +45,6 @@ body{
     overflow-x:hidden;
 }
 
-
-/* =========================================
-   GLOBAL
-========================================= */
 a{
     text-decoration:none;
     color:inherit;
@@ -77,10 +66,6 @@ img{
     margin:auto;
 }
 
-
-/* =========================================
-   SCROLLBAR
-========================================= */
 ::-webkit-scrollbar{
     width:8px;
 }
@@ -97,10 +82,6 @@ img{
     border-radius:20px;
 }
 
-
-/* =========================================
-   ANIMATED BACKGROUND
-========================================= */
 .animated-bg{
     position:fixed;
     inset:0;
@@ -140,10 +121,6 @@ img{
     right:35%;
 }
 
-
-/* =========================================
-   NAVBAR
-========================================= */
 .navbar{
     position:sticky;
     top:0;
@@ -163,7 +140,6 @@ img{
 }
 
 
-/* left */
 .nav-left{
     display:flex;
     align-items:center;
@@ -171,18 +147,15 @@ img{
     justify-self:start;
 }
 
-/* center */
 .nav-logo-wrapper{
     justify-self:center;
 }
 
-/* right */
 .nav-right{
     justify-self:end;
 }
 
 
-/* logo */
 .logo{
     display:flex;
     align-items:center;
@@ -194,7 +167,6 @@ img{
 }
 
 
-/* nav links */
 .nav-link{
     color:var(--text-light);
     font-weight:500;
@@ -221,10 +193,6 @@ img{
     width:100%;
 }
 
-
-/* =========================================
-   MOBILE MENU BUTTON
-========================================= */
 .mobile-menu-btn{
     display:none;
     width:45px;
@@ -237,10 +205,6 @@ img{
     font-size:1.2rem;
 }
 
-
-/* =========================================
-   MOBILE MENU
-========================================= */
 .mobile-menu{
     position:fixed;
     top:0;
@@ -328,18 +292,10 @@ img{
     visibility:visible;
 }
 
-
-/* =========================================
-   MAIN
-========================================= */
 main{
     min-height:70vh;
 }
 
-
-/* =========================================
-   FOOTER
-========================================= */
 .footer{
     margin-top:100px;
     border-top:1px solid var(--border);
@@ -355,7 +311,6 @@ main{
 }
 
 
-/* brand */
 .footer-brand h3{
     color:var(--primary);
     font-size:1.5rem;
@@ -369,7 +324,6 @@ main{
 }
 
 
-/* links */
 .footer-links{
     display:flex;
     flex-wrap:wrap;
@@ -386,7 +340,6 @@ main{
 }
 
 
-/* social */
 .footer-social{
     display:flex;
     gap:14px;
@@ -413,10 +366,6 @@ main{
     transform:translateY(-4px);
 }
 
-
-/* =========================================
-   FOOTER BOTTOM
-========================================= */
 .footer-bottom{
     border-top:1px solid rgba(255,255,255,0.06);
     padding:20px 0;
@@ -429,10 +378,6 @@ main{
     font-size:14px;
 }
 
-
-/* =========================================
-   RESPONSIVE
-========================================= */
 @media(max-width:768px){
 
     .nav-left{
@@ -474,9 +419,6 @@ main{
     }
 }
 
-/* =========================================
-   MOBILE NAV FIX
-========================================= */
 @media(max-width:768px){
 
     .navbar-container{

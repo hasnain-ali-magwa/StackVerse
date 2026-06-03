@@ -16,8 +16,6 @@ if (form) {
             subject: document.getElementById("subject").value,
             message: document.getElementById("message").value.trim()
         };
-
-        // Basic Validation
         if (
             !data.name ||
             !data.email ||
@@ -82,10 +80,6 @@ if (form) {
     });
 }
 
-
-/* ==============================
-   STATUS FUNCTION
-============================== */
 function showStatus(message, type) {
 
     const status = document.getElementById("formStatus");

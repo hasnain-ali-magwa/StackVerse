@@ -1,18 +1,8 @@
-// ========================================
-// DOM READY
-// ========================================
 document.addEventListener("DOMContentLoaded", () => {
     initializeMobileMenu();
     initializeFieldDropdown();
 });
 
-
-/* ========================================
-   MOBILE MENU
-======================================== */
-/* ========================================
-   MOBILE MENU
-======================================== */
 function initializeMobileMenu() {
     const menuBtn =
         document.getElementById("mobileMenuBtn");
@@ -53,8 +43,6 @@ function initializeMobileMenu() {
             "";
     }
 
-
-    /* Open */
     menuBtn.addEventListener(
         "click",
         (e) => {
@@ -63,22 +51,16 @@ function initializeMobileMenu() {
         }
     );
 
-
-    /* Close button */
     closeBtn.addEventListener(
         "click",
         closeMobileMenu
     );
 
-
-    /* Overlay click */
     overlay.addEventListener(
         "click",
         closeMobileMenu
     );
 
-
-    /* ESC close */
     document.addEventListener(
         "keydown",
         (e) => {
@@ -88,8 +70,6 @@ function initializeMobileMenu() {
         }
     );
 
-
-    /* Close after clicking nav link */
     mobileMenu
         .querySelectorAll("a")
         .forEach((link) => {
@@ -100,9 +80,6 @@ function initializeMobileMenu() {
         });
 }
 
-/* ========================================
-   FIELD DROPDOWN SEARCH
-======================================== */
 function initializeFieldDropdown() {
     const searchInput =
         document.getElementById("fieldSearch");
@@ -131,8 +108,6 @@ function initializeFieldDropdown() {
         return;
     }
 
-
-    /* OPEN DROPDOWN */
     dropdownSelected.addEventListener(
         "click",
         (e) => {
@@ -148,8 +123,6 @@ function initializeFieldDropdown() {
         }
     );
 
-
-    /* SELECT FIELD */
     dropdownOptions.addEventListener(
         "click",
         (e) => {
@@ -186,8 +159,6 @@ function initializeFieldDropdown() {
         }
     );
 
-
-    /* SEARCH FIELDS */
     searchInput.addEventListener(
         "input",
         () => {
@@ -232,8 +203,6 @@ function initializeFieldDropdown() {
         }
     );
 
-
-    /* OUTSIDE CLICK CLOSE */
     document.addEventListener(
         "click",
         (e) => {
@@ -253,8 +222,6 @@ function initializeFieldDropdown() {
         }
     );
 
-
-    /* ESC CLOSE */
     document.addEventListener(
         "keydown",
         (e) => {
@@ -276,10 +243,6 @@ function initializeFieldDropdown() {
     }
 }
 
-
-/* ========================================
-   RESET OPTIONS
-======================================== */
 function resetDropdownOptions() {
     const options =
         document.querySelectorAll(
@@ -293,10 +256,6 @@ function resetDropdownOptions() {
     removeNoResultMessage();
 }
 
-
-/* ========================================
-   NO RESULTS HANDLER
-======================================== */
 function handleNoResults(count) {
     removeNoResultMessage();
 
@@ -330,10 +289,6 @@ function handleNoResults(count) {
     );
 }
 
-
-/* ========================================
-   REMOVE NO RESULT
-======================================== */
 function removeNoResultMessage() {
     const existing =
         document.querySelector(
